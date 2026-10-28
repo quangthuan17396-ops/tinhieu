@@ -1,0 +1,19 @@
+{
+  "ngay": "2026-10-28",
+  "tieu_chi": [
+    "gia>MA150&MA200",
+    "MA150>MA200",
+    "MA200 dốc lên 1 tháng",
+    "MA50>MA150&MA200",
+    "gia>MA50",
+    "cao hơn đáy 52t >=30%",
+    "cách đỉnh 52t <=25%"
+  ],
+  "ma": [
+    {"ma": "ACB", "gia": 21.15, "pivot": 21.50, "rs": 80,  "dat": false, "truot": ["gia>MA150&MA200", "gia>MA50", "cao hơn đáy 52t >=30%"]},
+    {"ma": "GAS", "gia": 78.10, "pivot": 84.90, "rs": 100, "dat": false, "truot": ["gia>MA150&MA200", "MA150>MA200", "MA50>MA150&MA200", "gia>MA50", "cách đỉnh 52t <=25%"]},
+    {"ma": "HPG", "gia": 20.80, "pivot": 21.50, "rs": 40,  "dat": false, "truot": ["gia>MA150&MA200", "MA150>MA200", "MA200 dốc lên 1 tháng", "MA50>MA150&MA200", "gia>MA50", "cao hơn đáy 52t >=30%"]},
+    {"ma": "VCB", "gia": 56.90, "pivot": 58.50, "rs": 60,  "dat": false, "truot": ["gia>MA150&MA200", "MA150>MA200", "MA200 dốc lên 1 tháng", "MA50>MA150&MA200", "gia>MA50", "cao hơn đáy 52t >=30%", "cách đỉnh 52t <=25%"]},
+    {"ma": "FPT", "gia": 54.30, "pivot": 64.00, "rs": 20,  "dat": false, "truot": ["gia>MA150&MA200", "MA150>MA200", "MA200 dốc lên 1 tháng", "MA50>MA150&MA200", "gia>MA50", "cao hơn đáy 52t >=30%", "cách đỉnh 52t <=25%"]}
+  ]
+}
