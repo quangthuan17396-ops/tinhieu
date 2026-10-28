@@ -57,7 +57,7 @@ button{font:inherit;color:inherit;cursor:pointer}
 .boxh{display:flex;justify-content:space-between;align-items:center;padding:11px 14px;border-bottom:1px solid var(--line)}
 .boxh b{font-size:14px}.boxh span{font-size:11px;color:var(--mut)}
 .bar{display:flex;flex-wrap:wrap;align-items:center;gap:8px;padding:10px 12px;border-bottom:1px solid var(--line)}
-.tabs{display:flex;gap:4px;background:var(--panel2);border:1px solid var(--line);border-radius:9px;padding:3px}
+.tabs{display:flex;flex-wrap:wrap;gap:4px;background:var(--panel2);border:1px solid var(--line);border-radius:9px;padding:3px}
 .tabs button{background:none;border:0;border-radius:6px;padding:5px 10px;font-size:12px;color:var(--mut);font-weight:600}
 .tabs button.on{background:var(--line);color:var(--ink)}
 .search{margin-left:auto;background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:6px 10px;color:var(--ink);width:140px;font:inherit;font-size:13px;text-transform:uppercase}
@@ -76,6 +76,10 @@ tr.flash{animation:fl 1.2s 3}
 .badge{display:inline-block;font-size:11px;font-weight:700;padding:3px 9px;border-radius:99px;border:1px solid}
 .s-AP{color:#fff;background:linear-gradient(90deg,#7a4fd6,#a77bf3);border-color:#a77bf3}
 .s-LUK{color:var(--cyan);border-color:var(--cyan);background:color-mix(in srgb,var(--cyan) 12%,transparent)}
+.s-B{color:var(--mut);border-color:var(--mut);background:transparent}
+.s-VCP{color:var(--up);border-color:var(--up);background:color-mix(in srgb,var(--up) 12%,transparent)}
+.s-PP{color:var(--ref);border-color:var(--ref);background:color-mix(in srgb,var(--ref) 12%,transparent)}
+.s-52W{color:var(--down);border-color:var(--down);background:color-mix(in srgb,var(--down) 12%,transparent)}
 .st{font-size:12px;font-weight:600}
 .st.cho{color:var(--mut)}.st.mua{color:var(--up)}.st.wait{color:var(--ref)}.st.gay{color:var(--down)}
 .prog{display:inline-block;width:54px;height:5px;background:var(--line);border-radius:5px;vertical-align:middle;margin-left:6px;overflow:hidden}
@@ -128,8 +132,12 @@ footer{color:var(--dim);font-size:12px;text-align:center;padding:4px 20px 28px}
     <div class="bar">
       <div class="tabs" id="tabs">
         <button data-f="all" class="on">Tất cả</button>
-        <button data-f="A+">A+</button>
         <button data-f="LUK">Luk</button>
+        <button data-f="PP">Pocket Pivot</button>
+        <button data-f="VCP">VCP</button>
+        <button data-f="52W">52 tuần</button>
+        <button data-f="A+">A+</button>
+        <button data-f="B">B</button>
         <button data-f="hit">Đã báo mua</button>
       </div>
       <input class="search" id="q" placeholder="Tìm mã…" maxlength="6">
@@ -154,7 +162,14 @@ footer{color:var(--dim);font-size:12px;text-align:center;padding:4px 20px 28px}
 const $ = id => document.getElementById(id);
 const f2 = v => v==null ? '—' : Number(v).toLocaleString('vi-VN',{minimumFractionDigits:2,maximumFractionDigits:2});
 const pct = v => v==null||isNaN(v) ? '—' : (v>0?'+':'') + v.toFixed(2).replace('.',',') + '%';
-const SETUP = {'A+':{cls:'s-AP',ten:'A+ EMA9×MA20',mau:'var(--purple)'}, 'LUK':{cls:'s-LUK',ten:'Luk pullback',mau:'var(--cyan)'}};
+const SETUP = {
+  'A+': {cls:'s-AP',  ngan:'A+',     mau:'var(--purple)'},
+  'LUK':{cls:'s-LUK', ngan:'Luk',    mau:'var(--cyan)'},
+  'B':  {cls:'s-B',   ngan:'B',      mau:'var(--mut)'},
+  'VCP':{cls:'s-VCP', ngan:'VCP',    mau:'var(--up)'},
+  'PP': {cls:'s-PP',  ngan:'Pocket Pivot', mau:'var(--ref)'},
+  '52W':{cls:'s-52W', ngan:'52 tuần', mau:'var(--down)'}};
+const tenSetup = k => (SETUP[k]||{ngan:k}).ngan;
 const store = { get(k){ try{ return localStorage.getItem(k) }catch(e){ return null } }, set(k,v){ try{ localStorage.setItem(k,v) }catch(e){} } };
 let D=null, filt='all', q='', seen=null, firstLoad=true;
 const demo = new URLSearchParams(location.search).has('demo');
@@ -195,7 +210,7 @@ function render(){
   $('strip').innerHTML=`
     <div class="kpi"><small>VN-Index (phiên trước)</small><div class="v num">${t.vnindex!=null?f2(t.vnindex):'—'}</div><div class="s num ${t.thay_doi>0?'up':t.thay_doi<0?'down':''}">${pct(t.thay_doi)}</div></div>
     <div class="kpi"><small>Thị trường</small><div class="v ${t.trang_thai==='Tốt'?'up':'down'}">${t.trang_thai||'—'}</div><div class="s">bộ lọc VN-Index / MA20</div></div>
-    <div class="kpi"><small>Chờ kích hoạt</small><div class="v num">${ds.length}</div><div class="s">A+ ${ds.filter(x=>x.setup==='A+').length} · Luk ${ds.filter(x=>x.setup==='LUK').length}</div></div>
+    <div class="kpi"><small>Chờ kích hoạt</small><div class="v num">${ds.length}</div><div class="s">${Object.keys(SETUP).map(k=>[k,ds.filter(x=>x.setup===k).length]).filter(a=>a[1]).map(a=>tenSetup(a[0])+' '+a[1]).join(' · ')||'—'}</div></div>
     <div class="kpi"><small>Tín hiệu hôm nay</small><div class="v num ${hom.length?'up':''}">${hom.length}</div><div class="s">mua / mua thêm ATC</div></div>`;
   const [y,mo,d]=D.ngay.split('-');
   $('upd').innerHTML=`<span class="live"></span>${D.gio||''} · ${d}/${mo}/${y}`;
@@ -205,7 +220,7 @@ function render(){
 function rows(){
   let r=(D.cho_kich_hoat||[]).filter(x=>{
     if(q && !x.ma.includes(q)) return false;
-    if(filt==='A+'||filt==='LUK') return x.setup===filt;
+    if(SETUP[filt]) return x.setup===filt;
     if(filt==='hit') return stCls(x.trang_thai)==='mua';
     return true;
   });
@@ -219,7 +234,7 @@ function rows(){
     const hit = stCls(x.trang_thai)==='mua';
     return `<tr class="${hit?'hit':''}" data-k="${x.ma}${x.setup}">
       <td class="l"><span class="tk">${x.ma}</span></td>
-      <td class="l"><span class="badge ${s.cls}">${x.setup==='LUK'?'Luk':'A+'}</span></td>
+      <td class="l"><span class="badge ${s.cls}">${tenSetup(x.setup)}</span></td>
       <td class="num ${x.gia>=x.gia_kh?'up':''}">${f2(x.gia)}</td>
       <td class="num">${f2(x.gia_kh)}</td>
       <td class="num ${con!=null&&con<=0?'up':'mut'}">${con==null?'—':con<=0?'Đã chạm':pct(con)}${con!=null&&con>0?`<span class="prog"><i style="width:${gan}%"></i></span>`:''}</td>
@@ -237,7 +252,7 @@ function feed(){
     if(e.ngay!==last){ last=e.ngay; out+=`<div class="day">${e.ngay===D.ngay?'Hôm nay':e.ngay.split('-').reverse().join('/')}</div>`; }
     const s=SETUP[e.setup]||SETUP['A+'], k=key(e), moi=seen&&!seen.has(k)&&!firstLoad;
     const rr = e.gia ? ((1-e.cat_lo/e.gia)*100).toFixed(1).replace('.',',') : '—';
-    out+=`<div class="ev ${moi?'new':''}"><div class="h"><span class="dot" style="background:${s.mau}"></span>${e.loai} · ${e.setup==='LUK'?'Luk':'A+'} · ${e.ma} · <span class="num">${e.gio}</span></div>
+    out+=`<div class="ev ${moi?'new':''}"><div class="h"><span class="dot" style="background:${s.mau}"></span>${e.loai} · ${tenSetup(e.setup)} · ${e.ma} · <span class="num">${e.gio}</span></div>
       <div class="d num">Giá ${f2(e.gia)} · Kích hoạt ${f2(e.gia_kh)} · Cắt lỗ ${f2(e.cat_lo)} (rủi ro ${rr}%)</div></div>`;
   });
   $('feed').innerHTML=out;
@@ -258,7 +273,7 @@ async function load(){
     const moi = (D.nhat_ky||[]).filter(e=>!seen.has(key(e)));
     render();
     if(prev && moi.length){
-      moi.forEach(e=>bao(`${e.loai} · ${e.ma}`, `${e.setup==='LUK'?'Luk':'A+'} · Giá ${f2(e.gia)} · Cắt lỗ ${f2(e.cat_lo)}`));
+      moi.forEach(e=>bao(`${e.loai} · ${e.ma}`, `${tenSetup(e.setup)} · Giá ${f2(e.gia)} · Cắt lỗ ${f2(e.cat_lo)}`));
       beep();
       moi.forEach(e=>document.querySelector(`tr[data-k="${e.ma}${e.setup}"]`)?.classList.add('flash'));
     }
