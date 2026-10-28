@@ -1,0 +1,275 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Quang Thuận Stocks – Tín hiệu</title>
+<meta name="theme-color" content="#0b0f17">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="icon-192.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="QT Stocks">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#0b0f17;--panel:#111723;--panel2:#151c2a;--line:#1f2838;--ink:#e7ecf4;--mut:#7d8aa3;--dim:#4f5b72;
+  --up:#22c58b;--down:#f0525f;--ref:#e8b931;--purple:#a77bf3;--cyan:#38c6d9;--accent:#e8b931;
+}
+:root[data-theme="light"]{
+  --bg:#f3f5f9;--panel:#ffffff;--panel2:#f7f9fc;--line:#e2e7ef;--ink:#152033;--mut:#5d6b84;--dim:#98a3b6;
+  --up:#0f9b67;--down:#d63b48;--ref:#b8860b;--purple:#7a4fd6;--cyan:#0c8fa3;--accent:#b8860b;
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{background:var(--bg);color:var(--ink);font:14px/1.45 "Be Vietnam Pro",system-ui,"Segoe UI",Arial,sans-serif;padding-bottom:env(safe-area-inset-bottom)}
+.num{font-family:"JetBrains Mono",ui-monospace,Consolas,monospace;font-variant-numeric:tabular-nums}
+button{font:inherit;color:inherit;cursor:pointer}
+
+.top{display:flex;align-items:center;gap:12px;padding:12px 20px;padding-top:max(12px,env(safe-area-inset-top));border-bottom:1px solid var(--line);background:var(--panel);position:sticky;top:0;z-index:5}
+.logo{width:34px;height:34px;border-radius:9px;background:linear-gradient(135deg,var(--accent),#c47a12);display:grid;place-items:center;font-weight:800;color:#1a1204;font-size:14px;flex:none}
+.brand b{display:block;font-size:15px;letter-spacing:.4px}
+.brand span{font-size:12px;color:var(--mut)}
+.sp{flex:1}
+.pill{font-size:12px;color:var(--mut);border:1px solid var(--line);border-radius:99px;padding:5px 10px;white-space:nowrap}
+.live{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--up);margin-right:6px;animation:p 2s infinite}
+@keyframes p{50%{opacity:.25}}
+.iconbtn{background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:6px 10px;white-space:nowrap}
+.iconbtn.on{border-color:var(--up);color:var(--up)}
+.contact{background:var(--accent);color:#1a1204;border:0;border-radius:8px;padding:7px 12px;font-weight:700;text-decoration:none;font-size:13px;white-space:nowrap}
+.demo{background:#5b1d24;color:#ffd7db;text-align:center;font-size:13px;font-weight:600;padding:7px 12px}
+
+.mkt{margin:14px 20px 0;padding:11px 14px;border-radius:10px;font-weight:600;font-size:13px}
+.mkt.tot{background:color-mix(in srgb,var(--up) 13%,transparent);color:var(--up)}
+.mkt.xau{background:color-mix(in srgb,var(--down) 13%,transparent);color:var(--down)}
+
+.strip{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px;padding:14px 20px}
+.kpi{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:10px 14px}
+.kpi small{color:var(--mut);font-size:11px;text-transform:uppercase;letter-spacing:.6px}
+.kpi .v{font-size:20px;font-weight:700;margin-top:2px}
+.kpi .s{font-size:12px;color:var(--mut)}
+.kpi .s.up,.v.up{color:var(--up)}.kpi .s.down,.v.down{color:var(--down)}
+
+.main{display:grid;grid-template-columns:minmax(0,1fr) 350px;gap:14px;padding:0 20px 20px}
+.box{background:var(--panel);border:1px solid var(--line);border-radius:12px;overflow:hidden}
+.boxh{display:flex;justify-content:space-between;align-items:center;padding:11px 14px;border-bottom:1px solid var(--line)}
+.boxh b{font-size:14px}.boxh span{font-size:11px;color:var(--mut)}
+.bar{display:flex;flex-wrap:wrap;align-items:center;gap:8px;padding:10px 12px;border-bottom:1px solid var(--line)}
+.tabs{display:flex;gap:4px;background:var(--panel2);border:1px solid var(--line);border-radius:9px;padding:3px}
+.tabs button{background:none;border:0;border-radius:6px;padding:5px 10px;font-size:12px;color:var(--mut);font-weight:600}
+.tabs button.on{background:var(--line);color:var(--ink)}
+.search{margin-left:auto;background:var(--panel2);border:1px solid var(--line);border-radius:8px;padding:6px 10px;color:var(--ink);width:140px;font:inherit;font-size:13px;text-transform:uppercase}
+.search::placeholder{text-transform:none;color:var(--dim)}
+
+.tw{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:13px}
+th{background:var(--panel);color:var(--mut);font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:.5px;text-align:right;padding:9px 10px;border-bottom:1px solid var(--line);white-space:nowrap}
+th.l,td.l{text-align:left}
+td{padding:9px 10px;text-align:right;border-bottom:1px solid var(--line);white-space:nowrap}
+tr.hit{background:color-mix(in srgb,var(--up) 9%,transparent)}
+tr.flash{animation:fl 1.2s 3}
+@keyframes fl{50%{background:color-mix(in srgb,var(--accent) 30%,transparent)}}
+.tk{font-weight:800;letter-spacing:.3px}
+.up{color:var(--up)}.down{color:var(--down)}.ref{color:var(--ref)}.mut{color:var(--mut)}
+.badge{display:inline-block;font-size:11px;font-weight:700;padding:3px 9px;border-radius:99px;border:1px solid}
+.s-AP{color:#fff;background:linear-gradient(90deg,#7a4fd6,#a77bf3);border-color:#a77bf3}
+.s-LUK{color:var(--cyan);border-color:var(--cyan);background:color-mix(in srgb,var(--cyan) 12%,transparent)}
+.st{font-size:12px;font-weight:600}
+.st.cho{color:var(--mut)}.st.mua{color:var(--up)}.st.wait{color:var(--ref)}.st.gay{color:var(--down)}
+.prog{display:inline-block;width:54px;height:5px;background:var(--line);border-radius:5px;vertical-align:middle;margin-left:6px;overflow:hidden}
+.prog i{display:block;height:100%;background:var(--accent)}
+.empty{padding:28px;text-align:center;color:var(--mut)}
+
+.feed{max-height:520px;overflow-y:auto}
+.day{font-size:11px;color:var(--mut);font-weight:700;text-transform:uppercase;letter-spacing:.6px;padding:10px 14px 4px}
+.ev{padding:9px 14px;border-bottom:1px solid var(--line)}
+.ev .h{display:flex;align-items:center;gap:7px;font-weight:700;flex-wrap:wrap}
+.dot{width:9px;height:9px;border-radius:50%;flex:none}
+.ev .d{font-size:12px;color:var(--mut);margin-top:2px}
+.ev.new{background:color-mix(in srgb,var(--accent) 10%,transparent)}
+.rule{margin:12px;padding:10px 12px;border-radius:9px;background:color-mix(in srgb,var(--accent) 10%,transparent);border:1px dashed color-mix(in srgb,var(--accent) 45%,transparent);font-size:12px}
+.rule b{color:var(--accent)}
+.rule ul{margin:6px 0 0;padding-left:18px}
+
+.install{display:none;margin:0 20px 14px;padding:10px 14px;border-radius:10px;border:1px solid var(--line);background:var(--panel);font-size:13px}
+.install.on{display:flex;gap:10px;align-items:center}
+.install button{background:var(--accent);color:#1a1204;border:0;border-radius:7px;padding:6px 12px;font-weight:700}
+
+footer{color:var(--dim);font-size:12px;text-align:center;padding:4px 20px 28px}
+
+@media (max-width:980px){.main{grid-template-columns:1fr}.strip{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (max-width:600px){
+  .top{padding:10px 12px;gap:8px}.strip,.main{padding-left:12px;padding-right:12px}.mkt,.install{margin-left:12px;margin-right:12px}
+  .pill,.hide-s,.boxh span,.prog{display:none}.search{width:100%;margin-left:0}
+}
+</style>
+</head>
+<body>
+<div id="demo" class="demo" hidden>DỮ LIỆU MẪU MINH HỌA GIAO DIỆN – KHÔNG PHẢI TÍN HIỆU THẬT</div>
+<header class="top">
+  <div class="logo">QT</div>
+  <div class="brand"><b>QUANG THUẬN STOCKS</b><span>Tín hiệu trong phiên</span></div>
+  <div class="sp"></div>
+  <span class="pill num" id="upd"><span class="live"></span>Đang tải…</span>
+  <button class="iconbtn" id="noti" title="Bật thông báo khi có tín hiệu">🔔<span class="hide-s"> Bật thông báo</span></button>
+  <button class="iconbtn" id="theme" title="Đổi sáng/tối">◐</button>
+  <a class="contact" href="tel:0985605252">☎<span class="hide-s"> 0985 605 252</span></a>
+</header>
+
+<div class="mkt" id="mkt" hidden></div>
+<section class="strip" id="strip"></section>
+<div class="install" id="install"><span>📱 Cài Quang Thuận Stocks lên màn hình điện thoại như một ứng dụng.</span><div class="sp"></div><button id="installBtn">Cài đặt</button></div>
+
+<section class="main">
+  <div class="box">
+    <div class="boxh"><b>📋 Danh sách chờ kích hoạt</b><span>giá chạm mức kích hoạt là báo mua</span></div>
+    <div class="bar">
+      <div class="tabs" id="tabs">
+        <button data-f="all" class="on">Tất cả</button>
+        <button data-f="A+">A+</button>
+        <button data-f="LUK">Luk</button>
+        <button data-f="hit">Đã báo mua</button>
+      </div>
+      <input class="search" id="q" placeholder="Tìm mã…" maxlength="6">
+    </div>
+    <div class="tw"><table>
+      <thead><tr><th class="l">Mã</th><th class="l">Setup</th><th>Giá</th><th>Kích hoạt</th><th>Còn cách</th>
+        <th>Cắt lỗ</th><th class="hide-s">Rủi ro</th><th class="hide-s">KL dự kiến</th><th class="l">Trạng thái</th></tr></thead>
+      <tbody id="tb"></tbody>
+    </table></div>
+  </div>
+
+  <aside class="box">
+    <div class="boxh"><b>🔔 Nhật ký tín hiệu</b><span>mới nhất trên cùng · 30 ngày</span></div>
+    <div class="rule" id="rule"></div>
+    <div class="feed" id="feed"></div>
+  </aside>
+</section>
+
+<footer>Thông tin chỉ mang tính tham khảo, không phải lời khuyên đầu tư. Nhà đầu tư tự chịu trách nhiệm với quyết định của mình.<br>© Quang Thuận Stocks · 0985 605 252</footer>
+
+<script>
+const $ = id => document.getElementById(id);
+const f2 = v => v==null ? '—' : Number(v).toLocaleString('vi-VN',{minimumFractionDigits:2,maximumFractionDigits:2});
+const pct = v => v==null||isNaN(v) ? '—' : (v>0?'+':'') + v.toFixed(2).replace('.',',') + '%';
+const SETUP = {'A+':{cls:'s-AP',ten:'A+ EMA9×MA20',mau:'var(--purple)'}, 'LUK':{cls:'s-LUK',ten:'Luk pullback',mau:'var(--cyan)'}};
+const store = { get(k){ try{ return localStorage.getItem(k) }catch(e){ return null } }, set(k,v){ try{ localStorage.setItem(k,v) }catch(e){} } };
+let D=null, filt='all', q='', seen=null, firstLoad=true;
+const demo = new URLSearchParams(location.search).has('demo');
+if(demo) $('demo').hidden=false;
+
+// ---------- giao diện sáng/tối ----------
+const t0 = store.get('qt-theme'); if(t0) document.documentElement.dataset.theme=t0;
+$('theme').onclick=()=>{ const n=document.documentElement.dataset.theme==='light'?'dark':'light'; document.documentElement.dataset.theme=n; store.set('qt-theme',n); };
+
+// ---------- thông báo ----------
+function notiState(){ const ok = 'Notification' in window && Notification.permission==='granted'; $('noti').classList.toggle('on',ok); return ok; }
+$('noti').onclick=async()=>{
+  if(!('Notification' in window)){ alert('Trình duyệt này không hỗ trợ thông báo. Trên iPhone: cài app lên màn hình chính trước (Chia sẻ → Thêm vào MH chính).'); return; }
+  const p = await Notification.requestPermission(); notiState();
+  if(p==='granted') bao('Đã bật thông báo','Khi đang mở trang/app, có tín hiệu mới sẽ báo ngay.');
+};
+function beep(){ try{ const c=new (window.AudioContext||window.webkitAudioContext)(); const o=c.createOscillator(), g=c.createGain();
+  o.connect(g); g.connect(c.destination); o.frequency.value=880; g.gain.value=.15; o.start(); o.stop(c.currentTime+.25);}catch(e){} }
+async function bao(title, body){
+  if(!notiState()) return;
+  try{ const r = await navigator.serviceWorker?.getRegistration(); if(r){ r.showNotification(title,{body,icon:'icon-192.png',badge:'icon-192.png'}); return; } }catch(e){}
+  try{ new Notification(title,{body,icon:'icon-192.png'}); }catch(e){}
+}
+notiState();
+
+// ---------- cài app ----------
+let deferred=null;
+window.addEventListener('beforeinstallprompt',e=>{ e.preventDefault(); deferred=e; $('install').classList.add('on'); });
+$('installBtn').onclick=async()=>{ if(!deferred) return; deferred.prompt(); await deferred.userChoice; deferred=null; $('install').classList.remove('on'); };
+if('serviceWorker' in navigator && !demo){ navigator.serviceWorker.register('sw.js').catch(()=>{}); }
+
+// ---------- hiển thị ----------
+function stCls(s){ s=s||'Chờ'; if(s.startsWith('Đã báo')||s.startsWith('Mua thêm')) return 'mua'; if(s.startsWith('Chạm')) return 'wait'; if(s.startsWith('Gãy')) return 'gay'; return 'cho'; }
+function render(){
+  const t=D.thi_truong||{};
+  const m=$('mkt'); m.hidden=!t.ghi_chu; m.className='mkt '+(t.trang_thai==='Tốt'?'tot':'xau'); m.textContent=(t.trang_thai==='Tốt'?'✅ ':'⛔ ')+(t.ghi_chu||'');
+  const ds=D.cho_kich_hoat||[], hom=(D.nhat_ky||[]).filter(e=>e.ngay===D.ngay);
+  $('strip').innerHTML=`
+    <div class="kpi"><small>VN-Index (phiên trước)</small><div class="v num">${t.vnindex!=null?f2(t.vnindex):'—'}</div><div class="s num ${t.thay_doi>0?'up':t.thay_doi<0?'down':''}">${pct(t.thay_doi)}</div></div>
+    <div class="kpi"><small>Thị trường</small><div class="v ${t.trang_thai==='Tốt'?'up':'down'}">${t.trang_thai||'—'}</div><div class="s">bộ lọc VN-Index / MA20</div></div>
+    <div class="kpi"><small>Chờ kích hoạt</small><div class="v num">${ds.length}</div><div class="s">A+ ${ds.filter(x=>x.setup==='A+').length} · Luk ${ds.filter(x=>x.setup==='LUK').length}</div></div>
+    <div class="kpi"><small>Tín hiệu hôm nay</small><div class="v num ${hom.length?'up':''}">${hom.length}</div><div class="s">mua / mua thêm ATC</div></div>`;
+  const [y,mo,d]=D.ngay.split('-');
+  $('upd').innerHTML=`<span class="live"></span>${D.gio||''} · ${d}/${mo}/${y}`;
+  $('rule').innerHTML='<b>Nguyên tắc lệnh</b><ul>'+(D.quy_tac||[]).map(x=>`<li>${x}</li>`).join('')+'</ul>';
+  rows(); feed();
+}
+function rows(){
+  let r=(D.cho_kich_hoat||[]).filter(x=>{
+    if(q && !x.ma.includes(q)) return false;
+    if(filt==='A+'||filt==='LUK') return x.setup===filt;
+    if(filt==='hit') return stCls(x.trang_thai)==='mua';
+    return true;
+  });
+  r.sort((a,b)=>{ const ka=stCls(a.trang_thai)==='mua'?0:1, kb=stCls(b.trang_thai)==='mua'?0:1;
+    const ca=a.gia?(a.gia_kh-a.gia)/a.gia:9, cb=b.gia?(b.gia_kh-b.gia)/b.gia:9; return ka-kb || ca-cb; });
+  if(!r.length){ $('tb').innerHTML=`<tr><td colspan="9" class="empty">${(D.cho_kich_hoat||[]).length?'Không có mã phù hợp bộ lọc.':'Hôm nay không có mã nào đạt điều kiện chờ kích hoạt.'}</td></tr>`; return; }
+  $('tb').innerHTML=r.map(x=>{
+    const s=SETUP[x.setup]||SETUP['A+'];
+    const con = x.gia ? (x.gia_kh/x.gia-1)*100 : null;
+    const gan = con==null?0:Math.max(0,Math.min(100,100-con*20));
+    const hit = stCls(x.trang_thai)==='mua';
+    return `<tr class="${hit?'hit':''}" data-k="${x.ma}${x.setup}">
+      <td class="l"><span class="tk">${x.ma}</span></td>
+      <td class="l"><span class="badge ${s.cls}">${x.setup==='LUK'?'Luk':'A+'}</span></td>
+      <td class="num ${x.gia>=x.gia_kh?'up':''}">${f2(x.gia)}</td>
+      <td class="num">${f2(x.gia_kh)}</td>
+      <td class="num ${con!=null&&con<=0?'up':'mut'}">${con==null?'—':con<=0?'Đã chạm':pct(con)}${con!=null&&con>0?`<span class="prog"><i style="width:${gan}%"></i></span>`:''}</td>
+      <td class="num down">${f2(x.cat_lo)}</td>
+      <td class="num mut hide-s">${x.rui_ro!=null?x.rui_ro.toString().replace('.',',')+'%':'—'}</td>
+      <td class="num hide-s ${x.kl_du_kien>=100?'up':'mut'}">${x.kl_du_kien!=null?x.kl_du_kien+'%':'—'}</td>
+      <td class="l"><span class="st ${stCls(x.trang_thai)}">${x.trang_thai||'Chờ'}</span></td></tr>`;
+  }).join('');
+}
+function feed(){
+  const ev=[...(D.nhat_ky||[])].sort((a,b)=>(b.ngay+b.gio).localeCompare(a.ngay+a.gio));
+  if(!ev.length){ $('feed').innerHTML='<div class="empty">Chưa có tín hiệu nào.<br>Có mã chạm giá kích hoạt, tín hiệu sẽ hiện ở đây.</div>'; return; }
+  let last='', out='';
+  ev.forEach(e=>{
+    if(e.ngay!==last){ last=e.ngay; out+=`<div class="day">${e.ngay===D.ngay?'Hôm nay':e.ngay.split('-').reverse().join('/')}</div>`; }
+    const s=SETUP[e.setup]||SETUP['A+'], k=key(e), moi=seen&&!seen.has(k)&&!firstLoad;
+    const rr = e.gia ? ((1-e.cat_lo/e.gia)*100).toFixed(1).replace('.',',') : '—';
+    out+=`<div class="ev ${moi?'new':''}"><div class="h"><span class="dot" style="background:${s.mau}"></span>${e.loai} · ${e.setup==='LUK'?'Luk':'A+'} · ${e.ma} · <span class="num">${e.gio}</span></div>
+      <div class="d num">Giá ${f2(e.gia)} · Kích hoạt ${f2(e.gia_kh)} · Cắt lỗ ${f2(e.cat_lo)} (rủi ro ${rr}%)</div></div>`;
+  });
+  $('feed').innerHTML=out;
+}
+const key = e => `${e.ngay}|${e.ma}|${e.setup}|${e.loai}`;
+
+$('tabs').onclick=e=>{ const b=e.target.closest('button'); if(!b) return; filt=b.dataset.f;
+  document.querySelectorAll('#tabs button').forEach(x=>x.classList.toggle('on',x===b)); rows(); };
+$('q').oninput=e=>{ q=e.target.value.trim().toUpperCase(); rows(); };
+
+// ---------- tải dữ liệu, tự làm mới mỗi 60 giây ----------
+async function load(){
+  try{
+    const r = await fetch((demo?'demo.json':'data.json')+'?t='+Date.now(),{cache:'no-store'});
+    D = await r.json();
+    const prev = JSON.parse(store.get('qt-seen')||'null');
+    seen = new Set(prev||[]);
+    const moi = (D.nhat_ky||[]).filter(e=>!seen.has(key(e)));
+    render();
+    if(prev && moi.length){
+      moi.forEach(e=>bao(`${e.loai} · ${e.ma}`, `${e.setup==='LUK'?'Luk':'A+'} · Giá ${f2(e.gia)} · Cắt lỗ ${f2(e.cat_lo)}`));
+      beep();
+      moi.forEach(e=>document.querySelector(`tr[data-k="${e.ma}${e.setup}"]`)?.classList.add('flash'));
+    }
+    if(!demo) store.set('qt-seen', JSON.stringify((D.nhat_ky||[]).map(key)));
+    firstLoad=false;
+  }catch(err){
+    $('upd').textContent='Mất kết nối, đang thử lại…';
+  }
+}
+load(); setInterval(load, 60000);
+document.addEventListener('visibilitychange',()=>{ if(!document.hidden) load(); });
+</script>
+</body>
+</html>
