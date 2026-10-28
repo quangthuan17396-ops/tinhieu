@@ -1,22 +1,115 @@
 {
-  "ngay": "2026-10-28",
-  "gio": "14:08",
-  "thi_truong": null,
-  "tieu_chi": [
-    "gia>MA150&MA200",
-    "MA150>MA200",
-    "MA200 dốc lên 1 tháng",
-    "MA50>MA150&MA200",
-    "gia>MA50",
-    "cao hơn đáy 52t >=30%",
-    "cách đỉnh 52t <=25%"
-  ],
-  "ma": [
-    {"ma": "ACB", "san": "HOSE", "tin_hieu": null, "gia": 21.15, "thay_doi": null, "pivot": 21.50, "rank": 80,  "kl": null, "truot": ["gia>MA150&MA200", "gia>MA50", "cao hơn đáy 52t >=30%"]},
-    {"ma": "GAS", "san": "HOSE", "tin_hieu": null, "gia": 78.10, "thay_doi": null, "pivot": 84.90, "rank": 100, "kl": null, "truot": ["gia>MA150&MA200", "MA150>MA200", "MA50>MA150&MA200", "gia>MA50", "cách đỉnh 52t <=25%"]},
-    {"ma": "HPG", "san": "HOSE", "tin_hieu": null, "gia": 20.80, "thay_doi": null, "pivot": 21.50, "rank": 40,  "kl": null, "truot": ["gia>MA150&MA200", "MA150>MA200", "MA200 dốc lên 1 tháng", "MA50>MA150&MA200", "gia>MA50", "cao hơn đáy 52t >=30%"]},
-    {"ma": "VCB", "san": "HOSE", "tin_hieu": null, "gia": 56.90, "thay_doi": null, "pivot": 58.50, "rank": 60,  "kl": null, "truot": ["gia>MA150&MA200", "MA150>MA200", "MA200 dốc lên 1 tháng", "MA50>MA150&MA200", "gia>MA50", "cao hơn đáy 52t >=30%", "cách đỉnh 52t <=25%"]},
-    {"ma": "FPT", "san": "HOSE", "tin_hieu": null, "gia": 54.30, "thay_doi": null, "pivot": 64.00, "rank": 20,  "kl": null, "truot": ["gia>MA150&MA200", "MA150>MA200", "MA200 dốc lên 1 tháng", "MA50>MA150&MA200", "gia>MA50", "cao hơn đáy 52t >=30%", "cách đỉnh 52t <=25%"]}
-  ],
-  "nhat_ky": []
+ "ngay": "2026-10-29",
+ "gio": "Trước giờ mở cửa",
+ "thi_truong": {
+  "vnindex": 1766.65,
+  "thay_doi": 0.27,
+  "trang_thai": "Tốt",
+  "ghi_chu": "VN-Index trên MA20, được phép mua"
+ },
+ "cho_kich_hoat": [
+  {
+   "ma": "VPB",
+   "setup": "LUK",
+   "gia_kh": 23.5,
+   "cat_lo": 22.74,
+   "rui_ro": 3.2,
+   "gia": 23.5,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": 11.6,
+   "ghi_chu": "Vượt đỉnh hôm qua sau nhịp chỉnh về EMA9"
+  },
+  {
+   "ma": "VOS",
+   "setup": "LUK",
+   "gia_kh": 11.85,
+   "cat_lo": 11.34,
+   "rui_ro": 4.3,
+   "gia": 11.7,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": 1.2,
+   "ghi_chu": "Vượt đỉnh hôm qua sau nhịp chỉnh về EMA9"
+  },
+  {
+   "ma": "BFC",
+   "setup": "LUK",
+   "gia_kh": 57.8,
+   "cat_lo": 55.32,
+   "rui_ro": 4.3,
+   "gia": 57.7,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -2.3,
+   "ghi_chu": "Vượt đỉnh hôm qua sau nhịp chỉnh về EMA9"
+  },
+  {
+   "ma": "GEE",
+   "setup": "LUK",
+   "gia_kh": 71.1,
+   "cat_lo": 67.26,
+   "rui_ro": 5.4,
+   "gia": 69.2,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -30.7,
+   "ghi_chu": "Vượt đỉnh hôm qua sau nhịp chỉnh về EMA9"
+  },
+  {
+   "ma": "HHP",
+   "setup": "A+",
+   "gia_kh": 18.03,
+   "cat_lo": 16.77,
+   "rui_ro": 7.0,
+   "gia": 17.75,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": 48.3,
+   "ghi_chu": "EMA9 cắt lên MA20"
+  },
+  {
+   "ma": "DHC",
+   "setup": "A+",
+   "gia_kh": 38.32,
+   "cat_lo": 35.64,
+   "rui_ro": 7.0,
+   "gia": 37.6,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": 21.1,
+   "ghi_chu": "EMA9 cắt lên MA20"
+  },
+  {
+   "ma": "VPB",
+   "setup": "A+",
+   "gia_kh": 24.15,
+   "cat_lo": 22.46,
+   "rui_ro": 7.0,
+   "gia": 23.5,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": 11.6,
+   "ghi_chu": "EMA9 cắt lên MA20"
+  },
+  {
+   "ma": "HAG",
+   "setup": "A+",
+   "gia_kh": 14.54,
+   "cat_lo": 13.53,
+   "rui_ro": 6.9,
+   "gia": 14.4,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -11.1,
+   "ghi_chu": "EMA9 cắt lên MA20"
+  }
+ ],
+ "nhat_ky": [],
+ "quy_tac": [
+  "Cắt lỗ đúng giá đã báo, không gồng lỗ.",
+  "Lãi đạt 8% thì dời cắt lỗ về hòa vốn.",
+  "Đóng cửa dưới MA20 thì bán.",
+  "Mỗi lệnh chỉ rủi ro 0,5–1% tài khoản."
+ ]
 }
