@@ -9,18 +9,6 @@
  },
  "cho_kich_hoat": [
   {
-   "ma": "VPB",
-   "setup": "LUK",
-   "gia_kh": 23.5,
-   "cat_lo": 22.74,
-   "rui_ro": 3.2,
-   "gia": 23.5,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": 11.6,
-   "ghi_chu": "Vượt đỉnh hôm qua sau nhịp chỉnh về EMA9"
-  },
-  {
    "ma": "VOS",
    "setup": "LUK",
    "gia_kh": 11.85,
