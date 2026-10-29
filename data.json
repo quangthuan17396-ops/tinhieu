@@ -1,6 +1,6 @@
 {
  "ngay": "2026-10-29",
- "gio": "14:44",
+ "gio": "Hết phiên",
  "thi_truong": {
   "vnindex": 1766.65,
   "thay_doi": 0.27,
@@ -15,7 +15,7 @@
    "cat_lo": 11.34,
    "rui_ro": 4.3,
    "gia": 11.1,
-   "kl_du_kien": 169,
+   "kl_du_kien": 176,
    "trang_thai": "Chờ",
    "rs": 1.2,
    "ghi_chu": "Vượt đỉnh hôm qua sau nhịp chỉnh về EMA9"
@@ -27,7 +27,7 @@
    "cat_lo": 55.32,
    "rui_ro": 4.3,
    "gia": 57.7,
-   "kl_du_kien": 49,
+   "kl_du_kien": 50,
    "trang_thai": "Chạm giá, chờ khối lượng",
    "rs": -2.3,
    "ghi_chu": "Vượt đỉnh hôm qua sau nhịp chỉnh về EMA9"
@@ -39,7 +39,7 @@
    "cat_lo": 67.26,
    "rui_ro": 5.4,
    "gia": 67.0,
-   "kl_du_kien": 78,
+   "kl_du_kien": 89,
    "trang_thai": "Chờ",
    "rs": -30.7,
    "ghi_chu": "Vượt đỉnh hôm qua sau nhịp chỉnh về EMA9"
@@ -51,7 +51,7 @@
    "cat_lo": 47.9,
    "rui_ro": 7.0,
    "gia": 50.1,
-   "kl_du_kien": 52,
+   "kl_du_kien": 55,
    "trang_thai": "Chờ",
    "rs": 57.3,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -63,7 +63,7 @@
    "cat_lo": 16.67,
    "rui_ro": 7.0,
    "gia": 17.6,
-   "kl_du_kien": 84,
+   "kl_du_kien": 85,
    "trang_thai": "Chờ",
    "rs": 48.3,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -75,7 +75,7 @@
    "cat_lo": 35.32,
    "rui_ro": 7.0,
    "gia": 37.5,
-   "kl_du_kien": 106,
+   "kl_du_kien": 120,
    "trang_thai": "Chờ",
    "rs": 21.1,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -123,7 +123,7 @@
    "cat_lo": 21.46,
    "rui_ro": 7.0,
    "gia": 22.7,
-   "kl_du_kien": 84,
+   "kl_du_kien": 92,
    "trang_thai": "Chờ",
    "rs": 11.7,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -135,7 +135,7 @@
    "cat_lo": 22.07,
    "rui_ro": 7.0,
    "gia": 23.2,
-   "kl_du_kien": 59,
+   "kl_du_kien": 75,
    "trang_thai": "Chờ",
    "rs": 11.6,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -146,8 +146,8 @@
    "gia_kh": 54.54,
    "cat_lo": 50.72,
    "rui_ro": 7.0,
-   "gia": 52.0,
-   "kl_du_kien": 90,
+   "gia": 52.1,
+   "kl_du_kien": 106,
    "trang_thai": "Chờ",
    "rs": 11.1,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -159,7 +159,7 @@
    "cat_lo": 11.88,
    "rui_ro": 7.0,
    "gia": 12.65,
-   "kl_du_kien": 84,
+   "kl_du_kien": 88,
    "trang_thai": "Chờ",
    "rs": 8.0,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -171,7 +171,7 @@
    "cat_lo": 40.77,
    "rui_ro": 7.0,
    "gia": 42.3,
-   "kl_du_kien": 74,
+   "kl_du_kien": 90,
    "trang_thai": "Chờ",
    "rs": 7.3,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -183,7 +183,7 @@
    "cat_lo": 25.55,
    "rui_ro": 7.0,
    "gia": 26.4,
-   "kl_du_kien": 88,
+   "kl_du_kien": 97,
    "trang_thai": "Chờ",
    "rs": 6.7,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -195,7 +195,7 @@
    "cat_lo": 28.32,
    "rui_ro": 7.0,
    "gia": 30.4,
-   "kl_du_kien": 82,
+   "kl_du_kien": 95,
    "trang_thai": "Chờ",
    "rs": 5.3,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -206,8 +206,8 @@
    "gia_kh": 148.47,
    "cat_lo": 138.08,
    "rui_ro": 7.0,
-   "gia": 150.0,
-   "kl_du_kien": 78,
+   "gia": 147.7,
+   "kl_du_kien": 113,
    "trang_thai": "Chạm giá, chờ khối lượng",
    "rs": 4.6,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -218,8 +218,8 @@
    "gia_kh": 18.99,
    "cat_lo": 17.66,
    "rui_ro": 7.0,
-   "gia": 18.4,
-   "kl_du_kien": 137,
+   "gia": 18.35,
+   "kl_du_kien": 145,
    "trang_thai": "Chờ",
    "rs": 2.8,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -231,7 +231,7 @@
    "cat_lo": 10.99,
    "rui_ro": 7.0,
    "gia": 11.1,
-   "kl_du_kien": 169,
+   "kl_du_kien": 176,
    "trang_thai": "Chờ",
    "rs": 1.2,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -243,7 +243,7 @@
    "cat_lo": 31.47,
    "rui_ro": 7.0,
    "gia": 22.35,
-   "kl_du_kien": 125,
+   "kl_du_kien": 130,
    "trang_thai": "Chờ",
    "rs": -1.2,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -254,8 +254,8 @@
    "gia_kh": 70.5,
    "cat_lo": 65.56,
    "rui_ro": 7.0,
-   "gia": 69.2,
-   "kl_du_kien": 128,
+   "gia": 69.0,
+   "kl_du_kien": 146,
    "trang_thai": "Chờ",
    "rs": -1.7,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -267,7 +267,7 @@
    "cat_lo": 54.2,
    "rui_ro": 7.0,
    "gia": 57.7,
-   "kl_du_kien": 49,
+   "kl_du_kien": 50,
    "trang_thai": "Chạm giá, chờ khối lượng",
    "rs": -2.3,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -279,7 +279,7 @@
    "cat_lo": 47.53,
    "rui_ro": 7.0,
    "gia": 49.05,
-   "kl_du_kien": 67,
+   "kl_du_kien": 77,
    "trang_thai": "Chờ",
    "rs": -3.7,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -290,8 +290,8 @@
    "gia_kh": 74.94,
    "cat_lo": 69.7,
    "rui_ro": 7.0,
-   "gia": 72.0,
-   "kl_du_kien": 77,
+   "gia": 72.1,
+   "kl_du_kien": 95,
    "trang_thai": "Chờ",
    "rs": -4.1,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -303,7 +303,7 @@
    "cat_lo": 123.52,
    "rui_ro": 7.0,
    "gia": 131.6,
-   "kl_du_kien": 89,
+   "kl_du_kien": 94,
    "trang_thai": "Chờ",
    "rs": -4.3,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -315,7 +315,7 @@
    "cat_lo": 13.29,
    "rui_ro": 7.0,
    "gia": 14.0,
-   "kl_du_kien": 146,
+   "kl_du_kien": 152,
    "trang_thai": "Chờ",
    "rs": -5.8,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -327,7 +327,7 @@
    "cat_lo": 35.79,
    "rui_ro": 7.0,
    "gia": 38.8,
-   "kl_du_kien": 267,
+   "kl_du_kien": 273,
    "trang_thai": "Chờ",
    "rs": -6.3,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -338,7 +338,7 @@
    "gia_kh": 41.41,
    "cat_lo": 38.51,
    "rui_ro": 7.0,
-   "gia": 40.9,
+   "gia": 40.8,
    "kl_du_kien": 79,
    "trang_thai": "Chờ",
    "rs": -7.9,
@@ -350,8 +350,8 @@
    "gia_kh": 76.76,
    "cat_lo": 71.39,
    "rui_ro": 7.0,
-   "gia": 75.9,
-   "kl_du_kien": 51,
+   "gia": 75.8,
+   "kl_du_kien": 66,
    "trang_thai": "Chờ",
    "rs": -8.6,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -362,8 +362,8 @@
    "gia_kh": 35.15,
    "cat_lo": 32.69,
    "rui_ro": 7.0,
-   "gia": 34.25,
-   "kl_du_kien": 101,
+   "gia": 34.2,
+   "kl_du_kien": 113,
    "trang_thai": "Chờ",
    "rs": -8.8,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -374,8 +374,8 @@
    "gia_kh": 36.36,
    "cat_lo": 33.81,
    "rui_ro": 7.0,
-   "gia": 35.7,
-   "kl_du_kien": 31,
+   "gia": 35.6,
+   "kl_du_kien": 51,
    "trang_thai": "Chờ",
    "rs": -9.7,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -387,7 +387,7 @@
    "cat_lo": 22.17,
    "rui_ro": 7.0,
    "gia": 23.3,
-   "kl_du_kien": 55,
+   "kl_du_kien": 69,
    "trang_thai": "Chờ",
    "rs": -9.8,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -398,8 +398,8 @@
    "gia_kh": 11.21,
    "cat_lo": 10.43,
    "rui_ro": 7.0,
-   "gia": 11.05,
-   "kl_du_kien": 153,
+   "gia": 11.15,
+   "kl_du_kien": 158,
    "trang_thai": "Đã báo mua",
    "rs": -10.1,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -410,8 +410,8 @@
    "gia_kh": 14.54,
    "cat_lo": 13.53,
    "rui_ro": 6.9,
-   "gia": 14.3,
-   "kl_du_kien": 18,
+   "gia": 14.45,
+   "kl_du_kien": 37,
    "trang_thai": "Chờ",
    "rs": -11.1,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -422,8 +422,8 @@
    "gia_kh": 18.68,
    "cat_lo": 17.38,
    "rui_ro": 7.0,
-   "gia": 16.75,
-   "kl_du_kien": 89,
+   "gia": 16.9,
+   "kl_du_kien": 96,
    "trang_thai": "Chờ",
    "rs": -23.9,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
@@ -435,7 +435,7 @@
    "cat_lo": 36.22,
    "rui_ro": 7.1,
    "gia": 37.5,
-   "kl_du_kien": 106,
+   "kl_du_kien": 120,
    "trang_thai": "Chờ",
    "rs": 21.1,
    "ghi_chu": "Nền co hẹp 14% → 12% → 7%, vol cạn"
@@ -459,7 +459,7 @@
    "cat_lo": 14.93,
    "rui_ro": 7.0,
    "gia": 16.05,
-   "kl_du_kien": 54,
+   "kl_du_kien": 56,
    "trang_thai": "Chạm giá, chờ khối lượng",
    "rs": 53.6,
    "ghi_chu": "Vượt đỉnh 52 tuần với khối lượng lớn"
@@ -471,7 +471,7 @@
    "cat_lo": 21.81,
    "rui_ro": 7.0,
    "gia": 22.7,
-   "kl_du_kien": 84,
+   "kl_du_kien": 92,
    "trang_thai": "Chờ",
    "rs": 11.7,
    "ghi_chu": "Vượt đỉnh 52 tuần với khối lượng lớn"
@@ -483,7 +483,7 @@
    "cat_lo": 29.09,
    "rui_ro": 7.0,
    "gia": 30.4,
-   "kl_du_kien": 82,
+   "kl_du_kien": 95,
    "trang_thai": "Chờ",
    "rs": 5.3,
    "ghi_chu": "Vượt đỉnh 52 tuần với khối lượng lớn"
@@ -495,7 +495,7 @@
    "cat_lo": 16.77,
    "rui_ro": 7.0,
    "gia": 17.6,
-   "kl_du_kien": 84,
+   "kl_du_kien": 85,
    "trang_thai": "Chờ",
    "rs": 48.3,
    "ghi_chu": "EMA9 cắt lên MA20"
@@ -507,7 +507,7 @@
    "cat_lo": 35.64,
    "rui_ro": 7.0,
    "gia": 37.5,
-   "kl_du_kien": 106,
+   "kl_du_kien": 120,
    "trang_thai": "Chờ",
    "rs": 21.1,
    "ghi_chu": "EMA9 cắt lên MA20"
@@ -519,7 +519,7 @@
    "cat_lo": 22.46,
    "rui_ro": 7.0,
    "gia": 23.2,
-   "kl_du_kien": 59,
+   "kl_du_kien": 75,
    "trang_thai": "Chờ",
    "rs": 11.6,
    "ghi_chu": "EMA9 cắt lên MA20"
@@ -530,8 +530,8 @@
    "gia_kh": 14.54,
    "cat_lo": 13.53,
    "rui_ro": 6.9,
-   "gia": 14.3,
-   "kl_du_kien": 18,
+   "gia": 14.45,
+   "kl_du_kien": 37,
    "trang_thai": "Chờ",
    "rs": -11.1,
    "ghi_chu": "EMA9 cắt lên MA20"
@@ -543,7 +543,7 @@
    "cat_lo": 48.68,
    "rui_ro": 7.0,
    "gia": 50.1,
-   "kl_du_kien": 52,
+   "kl_du_kien": 55,
    "trang_thai": "Chờ",
    "rs": 57.3,
    "ghi_chu": "Giá vượt lên EMA9"
@@ -554,8 +554,8 @@
    "gia_kh": 47.63,
    "cat_lo": 44.3,
    "rui_ro": 7.0,
-   "gia": 45.0,
-   "kl_du_kien": 53,
+   "gia": 45.9,
+   "kl_du_kien": 56,
    "trang_thai": "Chờ",
    "rs": 25.5,
    "ghi_chu": "Giá vượt lên EMA9"
@@ -567,7 +567,7 @@
    "cat_lo": 35.2,
    "rui_ro": 7.0,
    "gia": 37.5,
-   "kl_du_kien": 106,
+   "kl_du_kien": 120,
    "trang_thai": "Chờ",
    "rs": 21.1,
    "ghi_chu": "Giá vượt lên EMA9"
@@ -603,7 +603,7 @@
    "cat_lo": 21.89,
    "rui_ro": 7.0,
    "gia": 21.3,
-   "kl_du_kien": 291,
+   "kl_du_kien": 299,
    "trang_thai": "Chờ",
    "rs": 16.6,
    "ghi_chu": "Giá vượt lên EMA9"
@@ -627,7 +627,7 @@
    "cat_lo": 22.07,
    "rui_ro": 7.0,
    "gia": 23.2,
-   "kl_du_kien": 59,
+   "kl_du_kien": 75,
    "trang_thai": "Chờ",
    "rs": 11.6,
    "ghi_chu": "Giá vượt lên EMA9"
@@ -638,8 +638,8 @@
    "gia_kh": 54.69,
    "cat_lo": 50.86,
    "rui_ro": 7.0,
-   "gia": 52.0,
-   "kl_du_kien": 90,
+   "gia": 52.1,
+   "kl_du_kien": 106,
    "trang_thai": "Chờ",
    "rs": 11.1,
    "ghi_chu": "Giá vượt lên EMA9"
@@ -651,7 +651,7 @@
    "cat_lo": 41.22,
    "rui_ro": 7.0,
    "gia": 42.3,
-   "kl_du_kien": 74,
+   "kl_du_kien": 90,
    "trang_thai": "Chờ",
    "rs": 7.3,
    "ghi_chu": "Giá vượt lên EMA9"
@@ -662,8 +662,8 @@
    "gia_kh": 147.93,
    "cat_lo": 137.58,
    "rui_ro": 7.0,
-   "gia": 150.0,
-   "kl_du_kien": 78,
+   "gia": 147.7,
+   "kl_du_kien": 113,
    "trang_thai": "Chờ",
    "rs": 4.6,
    "ghi_chu": "Giá vượt lên EMA9"
@@ -675,7 +675,7 @@
    "cat_lo": 10.98,
    "rui_ro": 7.0,
    "gia": 11.1,
-   "kl_du_kien": 169,
+   "kl_du_kien": 176,
    "trang_thai": "Chờ",
    "rs": 1.2,
    "ghi_chu": "Giá vượt lên EMA9"
@@ -687,7 +687,7 @@
    "cat_lo": 31.27,
    "rui_ro": 7.0,
    "gia": 22.35,
-   "kl_du_kien": 125,
+   "kl_du_kien": 130,
    "trang_thai": "Chờ",
    "rs": -1.2,
    "ghi_chu": "Giá vượt lên EMA9"
@@ -698,8 +698,8 @@
    "gia_kh": 69.84,
    "cat_lo": 64.95,
    "rui_ro": 7.0,
-   "gia": 69.2,
-   "kl_du_kien": 128,
+   "gia": 69.0,
+   "kl_du_kien": 146,
    "trang_thai": "Chờ",
    "rs": -1.7,
    "ghi_chu": "Giá vượt lên EMA9"
@@ -711,7 +711,7 @@
    "cat_lo": 53.68,
    "rui_ro": 7.0,
    "gia": 57.7,
-   "kl_du_kien": 49,
+   "kl_du_kien": 50,
    "trang_thai": "Chờ",
    "rs": -2.3,
    "ghi_chu": "Giá vượt lên EMA9"
@@ -722,7 +722,7 @@
    "gia_kh": 41.53,
    "cat_lo": 38.62,
    "rui_ro": 7.0,
-   "gia": 40.9,
+   "gia": 40.8,
    "kl_du_kien": 79,
    "trang_thai": "Chờ",
    "rs": -7.9,
@@ -734,8 +734,8 @@
    "gia_kh": 14.52,
    "cat_lo": 13.5,
    "rui_ro": 7.0,
-   "gia": 14.3,
-   "kl_du_kien": 18,
+   "gia": 14.45,
+   "kl_du_kien": 37,
    "trang_thai": "Chờ",
    "rs": -11.1,
    "ghi_chu": "Giá vượt lên EMA9"
@@ -746,8 +746,8 @@
    "gia_kh": 18.6,
    "cat_lo": 17.29,
    "rui_ro": 7.0,
-   "gia": 16.75,
-   "kl_du_kien": 89,
+   "gia": 16.9,
+   "kl_du_kien": 96,
    "trang_thai": "Chờ",
    "rs": -23.9,
    "ghi_chu": "Giá vượt lên EMA9"
@@ -759,7 +759,7 @@
    "cat_lo": 64.84,
    "rui_ro": 7.0,
    "gia": 67.0,
-   "kl_du_kien": 78,
+   "kl_du_kien": 89,
    "trang_thai": "Chờ",
    "rs": -30.7,
    "ghi_chu": "Giá vượt lên EMA9"
