@@ -253,7 +253,7 @@ function feed(){
     const s=SETUP[e.setup]||SETUP['A+'], k=key(e), moi=seen&&!seen.has(k)&&!firstLoad;
     const rr = e.gia ? ((1-e.cat_lo/e.gia)*100).toFixed(1).replace('.',',') : '—';
     out+=`<div class="ev ${moi?'new':''}"><div class="h"><span class="dot" style="background:${s.mau}"></span>${e.loai} · ${tenSetup(e.setup)} · ${e.ma} · <span class="num">${e.gio}</span></div>
-      <div class="d num">Giá ${f2(e.gia)} · Kích hoạt ${f2(e.gia_kh)} · Cắt lỗ ${f2(e.cat_lo)} (rủi ro ${rr}%)</div></div>`;
+      <div class="d num">Giá ${f2(e.gia)} · Kích hoạt ${f2(e.gia_kh)} · Cắt lỗ ${f2(e.cat_lo)} (rủi ro ${rr}%)</div>${e.thoat?`<div class="d">🔻 Bán: ${e.thoat}</div>`:''}</div>`;
   });
   $('feed').innerHTML=out;
 }
