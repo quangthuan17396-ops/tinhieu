@@ -18,379 +18,411 @@
    "kl_du_kien": 174,
    "trang_thai": "Đã báo mua",
    "rs": 8.0,
-   "ghi_chu": "Vượt đỉnh hôm qua sau nhịp chỉnh về EMA9"
+   "ghi_chu": "Vượt đỉnh hôm qua sau nhịp chỉnh về EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "PET",
    "setup": "PP",
    "gia_kh": 53.63,
-   "cat_lo": 49.88,
-   "rui_ro": 7.0,
+   "cat_lo": 51.49,
+   "rui_ro": 4.0,
    "gia": 53.8,
    "kl_du_kien": 120,
    "trang_thai": "Chạm giá, chờ khối lượng",
    "rs": 64.9,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "HHP",
    "setup": "PP",
    "gia_kh": 17.88,
-   "cat_lo": 16.63,
-   "rui_ro": 7.0,
+   "cat_lo": 17.16,
+   "rui_ro": 4.0,
    "gia": 17.9,
    "kl_du_kien": 138,
    "trang_thai": "Chạm giá, chờ khối lượng",
    "rs": 47.9,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "NVB",
    "setup": "PP",
    "gia_kh": 14.24,
-   "cat_lo": 13.24,
-   "rui_ro": 7.0,
+   "cat_lo": 13.67,
+   "rui_ro": 4.0,
    "gia": 14.9,
    "kl_du_kien": 68,
    "trang_thai": "Chạm giá, chờ khối lượng",
    "rs": 29.4,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "DHC",
    "setup": "PP",
    "gia_kh": 37.52,
-   "cat_lo": 34.89,
-   "rui_ro": 7.0,
+   "cat_lo": 36.02,
+   "rui_ro": 4.0,
    "gia": 37.65,
    "kl_du_kien": 76,
    "trang_thai": "Chạm giá, chờ khối lượng",
    "rs": 19.3,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "TLG",
    "setup": "PP",
    "gia_kh": 56.16,
-   "cat_lo": 52.23,
-   "rui_ro": 7.0,
+   "cat_lo": 53.91,
+   "rui_ro": 4.0,
    "gia": 55.5,
    "kl_du_kien": 226,
    "trang_thai": "Chờ",
    "rs": 13.3,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "PVT",
    "setup": "PP",
    "gia_kh": 23.43,
-   "cat_lo": 21.79,
-   "rui_ro": 7.0,
+   "cat_lo": 22.49,
+   "rui_ro": 4.0,
    "gia": 23.25,
    "kl_du_kien": 71,
    "trang_thai": "Chờ",
    "rs": 10.2,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "GMD",
    "setup": "PP",
    "gia_kh": 54.04,
-   "cat_lo": 50.25,
-   "rui_ro": 7.0,
+   "cat_lo": 51.87,
+   "rui_ro": 4.0,
    "gia": 55.0,
    "kl_du_kien": 145,
    "trang_thai": "Chạm giá, chờ khối lượng",
    "rs": 10.1,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "FRT",
    "setup": "PP",
    "gia_kh": 150.09,
-   "cat_lo": 139.58,
-   "rui_ro": 7.0,
+   "cat_lo": 144.08,
+   "rui_ro": 4.0,
    "gia": 153.3,
    "kl_du_kien": 174,
    "trang_thai": "Đã báo mua",
    "rs": 8.0,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "VGC",
    "setup": "PP",
    "gia_kh": 44.79,
-   "cat_lo": 41.66,
-   "rui_ro": 7.0,
+   "cat_lo": 43.0,
+   "rui_ro": 4.0,
    "gia": 44.85,
    "kl_du_kien": 220,
    "trang_thai": "Đã báo mua",
    "rs": 7.5,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "DGW",
    "setup": "PP",
    "gia_kh": 45.95,
-   "cat_lo": 42.74,
-   "rui_ro": 7.0,
+   "cat_lo": 44.12,
+   "rui_ro": 4.0,
    "gia": 46.4,
    "kl_du_kien": 391,
    "trang_thai": "Đã báo mua",
    "rs": 7.1,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "BVS",
    "setup": "PP",
    "gia_kh": 27.67,
-   "cat_lo": 25.74,
-   "rui_ro": 7.0,
+   "cat_lo": 26.57,
+   "rui_ro": 4.0,
    "gia": 27.8,
    "kl_du_kien": 77,
    "trang_thai": "Chạm giá, chờ khối lượng",
    "rs": 7.0,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "HDB",
    "setup": "PP",
    "gia_kh": 22.22,
-   "cat_lo": 20.66,
-   "rui_ro": 7.0,
+   "cat_lo": 21.33,
+   "rui_ro": 4.0,
    "gia": 22.9,
    "kl_du_kien": 147,
    "trang_thai": "Đã báo mua",
    "rs": 6.3,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "VOS",
    "setup": "PP",
    "gia_kh": 11.87,
-   "cat_lo": 11.04,
-   "rui_ro": 7.0,
+   "cat_lo": 11.39,
+   "rui_ro": 4.0,
    "gia": 11.85,
    "kl_du_kien": 70,
    "trang_thai": "Chờ",
    "rs": 0.4,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "TCB",
    "setup": "PP",
    "gia_kh": 33.89,
-   "cat_lo": 31.51,
-   "rui_ro": 7.0,
+   "cat_lo": 32.53,
+   "rui_ro": 4.0,
    "gia": 33.75,
    "kl_du_kien": 141,
    "trang_thai": "Chờ",
    "rs": 0.0,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "TNG",
    "setup": "PP",
    "gia_kh": 19.29,
-   "cat_lo": 17.94,
-   "rui_ro": 7.0,
+   "cat_lo": 18.52,
+   "rui_ro": 4.0,
    "gia": 19.8,
    "kl_du_kien": 150,
    "trang_thai": "Đã báo mua",
    "rs": -3.2,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "MSN",
    "setup": "PP",
    "gia_kh": 74.13,
-   "cat_lo": 68.94,
-   "rui_ro": 7.0,
+   "cat_lo": 71.17,
+   "rui_ro": 4.0,
    "gia": 74.5,
    "kl_du_kien": 87,
    "trang_thai": "Đã báo mua",
    "rs": -4.9,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "VIB",
    "setup": "PP",
    "gia_kh": 14.24,
-   "cat_lo": 13.24,
-   "rui_ro": 7.0,
+   "cat_lo": 13.67,
+   "rui_ro": 4.0,
    "gia": 14.15,
    "kl_du_kien": 117,
    "trang_thai": "Chờ",
    "rs": -5.6,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "MWG",
    "setup": "PP",
    "gia_kh": 76.46,
-   "cat_lo": 71.11,
-   "rui_ro": 7.0,
+   "cat_lo": 73.4,
+   "rui_ro": 4.0,
    "gia": 77.2,
    "kl_du_kien": 165,
    "trang_thai": "Đã báo mua",
    "rs": -6.7,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "HAH",
    "setup": "PP",
    "gia_kh": 50.7,
-   "cat_lo": 47.15,
-   "rui_ro": 7.0,
+   "cat_lo": 48.67,
+   "rui_ro": 4.0,
    "gia": 51.7,
    "kl_du_kien": 47,
    "trang_thai": "Chạm giá, chờ khối lượng",
    "rs": -6.8,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "TPB",
    "setup": "PP",
    "gia_kh": 12.83,
-   "cat_lo": 11.93,
-   "rui_ro": 7.0,
+   "cat_lo": 12.31,
+   "rui_ro": 4.1,
    "gia": 13.1,
    "kl_du_kien": 209,
    "trang_thai": "Đã báo mua",
    "rs": -7.2,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "DPR",
    "setup": "PP",
    "gia_kh": 38.18,
-   "cat_lo": 35.51,
-   "rui_ro": 7.0,
+   "cat_lo": 36.65,
+   "rui_ro": 4.0,
    "gia": 38.5,
    "kl_du_kien": 73,
    "trang_thai": "Chạm giá, chờ khối lượng",
    "rs": -7.9,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "IDC",
    "setup": "PP",
    "gia_kh": 36.36,
-   "cat_lo": 33.81,
-   "rui_ro": 7.0,
+   "cat_lo": 34.91,
+   "rui_ro": 4.0,
    "gia": 36.3,
    "kl_du_kien": 80,
    "trang_thai": "Chờ",
    "rs": -9.5,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "HAG",
    "setup": "PP",
    "gia_kh": 14.59,
-   "cat_lo": 13.57,
-   "rui_ro": 7.0,
+   "cat_lo": 14.01,
+   "rui_ro": 4.0,
    "gia": 14.5,
    "kl_du_kien": 112,
    "trang_thai": "Chờ",
    "rs": -11.3,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "CSV",
    "setup": "PP",
    "gia_kh": 23.43,
-   "cat_lo": 21.79,
-   "rui_ro": 7.0,
+   "cat_lo": 22.49,
+   "rui_ro": 4.0,
    "gia": 24.45,
    "kl_du_kien": 126,
    "trang_thai": "Chạm giá, chờ khối lượng",
    "rs": -11.8,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "DCM",
    "setup": "PP",
    "gia_kh": 35.0,
-   "cat_lo": 32.55,
-   "rui_ro": 7.0,
+   "cat_lo": 33.6,
+   "rui_ro": 4.0,
    "gia": 34.9,
    "kl_du_kien": 71,
    "trang_thai": "Chờ",
    "rs": -12.0,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "ANV",
    "setup": "PP",
    "gia_kh": 18.74,
-   "cat_lo": 17.42,
-   "rui_ro": 7.0,
+   "cat_lo": 17.99,
+   "rui_ro": 4.0,
    "gia": 18.85,
    "kl_du_kien": 84,
    "trang_thai": "Chạm giá, chờ khối lượng",
    "rs": -23.7,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "GEE",
    "setup": "PP",
    "gia_kh": 70.6,
-   "cat_lo": 65.66,
-   "rui_ro": 7.0,
+   "cat_lo": 67.78,
+   "rui_ro": 4.0,
    "gia": 71.1,
    "kl_du_kien": 60,
    "trang_thai": "Chạm giá, chờ khối lượng",
    "rs": -29.2,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "DHC",
    "setup": "VCP",
    "gia_kh": 39.0,
-   "cat_lo": 36.12,
-   "rui_ro": 7.4,
+   "cat_lo": 37.44,
+   "rui_ro": 4.0,
    "gia": 37.65,
    "kl_du_kien": 76,
    "trang_thai": "Chờ",
    "rs": 19.3,
-   "ghi_chu": "Nền co hẹp 14% → 12% → 7%, vol cạn"
+   "ghi_chu": "Nền co hẹp 14% → 12% → 7%, vol cạn",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "DGW",
    "setup": "VCP",
    "gia_kh": 46.95,
-   "cat_lo": 43.88,
-   "rui_ro": 6.5,
+   "cat_lo": 45.07,
+   "rui_ro": 4.0,
    "gia": 46.4,
    "kl_du_kien": 391,
    "trang_thai": "Chờ",
    "rs": 7.1,
-   "ghi_chu": "Nền co hẹp 21% → 11% → 6%, vol cạn"
+   "ghi_chu": "Nền co hẹp 21% → 11% → 6%, vol cạn",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "MSB",
    "setup": "52W",
    "gia_kh": 15.75,
-   "cat_lo": 14.65,
-   "rui_ro": 7.0,
+   "cat_lo": 15.12,
+   "rui_ro": 4.0,
    "gia": 16.05,
    "kl_du_kien": 93,
    "trang_thai": "Chạm giá, chờ khối lượng",
    "rs": 50.0,
-   "ghi_chu": "Vượt đỉnh 52 tuần với khối lượng lớn"
+   "ghi_chu": "Vượt đỉnh 52 tuần với khối lượng lớn",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "TLG",
    "setup": "52W",
    "gia_kh": 58.27,
-   "cat_lo": 54.19,
-   "rui_ro": 7.0,
+   "cat_lo": 55.94,
+   "rui_ro": 4.0,
    "gia": 55.5,
    "kl_du_kien": 226,
    "trang_thai": "Chờ",
    "rs": 13.3,
-   "ghi_chu": "Vượt đỉnh 52 tuần với khối lượng lớn"
+   "ghi_chu": "Vượt đỉnh 52 tuần với khối lượng lớn",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ma": "HHP",
@@ -402,7 +434,8 @@
    "kl_du_kien": 138,
    "trang_thai": "Chờ",
    "rs": 47.9,
-   "ghi_chu": "EMA9 cắt lên MA20"
+   "ghi_chu": "EMA9 cắt lên MA20",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "DHC",
@@ -414,7 +447,8 @@
    "kl_du_kien": 76,
    "trang_thai": "Chờ",
    "rs": 19.3,
-   "ghi_chu": "EMA9 cắt lên MA20"
+   "ghi_chu": "EMA9 cắt lên MA20",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "DGW",
@@ -426,7 +460,8 @@
    "kl_du_kien": 391,
    "trang_thai": "Chờ",
    "rs": 7.1,
-   "ghi_chu": "EMA9 cắt lên MA20"
+   "ghi_chu": "EMA9 cắt lên MA20",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "NVB",
@@ -438,7 +473,8 @@
    "kl_du_kien": 68,
    "trang_thai": "Đã báo mua",
    "rs": 29.4,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "DCL",
@@ -450,7 +486,8 @@
    "kl_du_kien": 122,
    "trang_thai": "Chờ",
    "rs": 23.3,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "PVP",
@@ -462,7 +499,8 @@
    "kl_du_kien": 134,
    "trang_thai": "Chờ",
    "rs": 20.6,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "DHC",
@@ -474,7 +512,8 @@
    "kl_du_kien": 76,
    "trang_thai": "Chờ",
    "rs": 19.3,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "PVT",
@@ -486,7 +525,8 @@
    "kl_du_kien": 71,
    "trang_thai": "Chờ",
    "rs": 10.2,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "GMD",
@@ -498,7 +538,8 @@
    "kl_du_kien": 145,
    "trang_thai": "Đã báo mua",
    "rs": 10.1,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "VPB",
@@ -510,7 +551,8 @@
    "kl_du_kien": 78,
    "trang_thai": "Chờ",
    "rs": 9.2,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "VGC",
@@ -522,7 +564,8 @@
    "kl_du_kien": 220,
    "trang_thai": "Đã báo mua",
    "rs": 7.5,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "DGW",
@@ -534,7 +577,8 @@
    "kl_du_kien": 391,
    "trang_thai": "Đã báo mua",
    "rs": 7.1,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "HDB",
@@ -546,7 +590,8 @@
    "kl_du_kien": 147,
    "trang_thai": "Đã báo mua",
    "rs": 6.3,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "VOS",
@@ -558,7 +603,8 @@
    "kl_du_kien": 70,
    "trang_thai": "Đã báo mua",
    "rs": 0.4,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "TCB",
@@ -570,7 +616,8 @@
    "kl_du_kien": 141,
    "trang_thai": "Đã báo mua",
    "rs": 0.0,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "BFC",
@@ -582,7 +629,8 @@
    "kl_du_kien": 47,
    "trang_thai": "Đã báo mua",
    "rs": -3.5,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "HAH",
@@ -594,7 +642,8 @@
    "kl_du_kien": 47,
    "trang_thai": "Đã báo mua",
    "rs": -6.8,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "DPR",
@@ -606,7 +655,8 @@
    "kl_du_kien": 73,
    "trang_thai": "Đã báo mua",
    "rs": -7.9,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "HAG",
@@ -618,7 +668,8 @@
    "kl_du_kien": 112,
    "trang_thai": "Chờ",
    "rs": -11.3,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "CSV",
@@ -630,7 +681,8 @@
    "kl_du_kien": 126,
    "trang_thai": "Đã báo mua",
    "rs": -11.8,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "DCM",
@@ -642,7 +694,8 @@
    "kl_du_kien": 71,
    "trang_thai": "Đã báo mua",
    "rs": -12.0,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ma": "ANV",
@@ -654,7 +707,8 @@
    "kl_du_kien": 84,
    "trang_thai": "Đã báo mua",
    "rs": -23.7,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   }
  ],
  "nhat_ky": [
@@ -667,7 +721,8 @@
    "gia": 14.65,
    "gia_kh": 14.19,
    "cat_lo": 13.19,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ngay": "2026-10-28",
@@ -678,7 +733,8 @@
    "gia": 44.72,
    "gia_kh": 44.55,
    "cat_lo": 41.43,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ngay": "2026-10-28",
@@ -689,7 +745,8 @@
    "gia": 45.97,
    "gia_kh": 45.7,
    "cat_lo": 42.5,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ngay": "2026-10-28",
@@ -700,7 +757,8 @@
    "gia": 22.48,
    "gia_kh": 22.3,
    "cat_lo": 20.74,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ngay": "2026-10-28",
@@ -711,7 +769,8 @@
    "gia": 33.72,
    "gia_kh": 33.65,
    "cat_lo": 31.3,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ngay": "2026-10-28",
@@ -722,7 +781,8 @@
    "gia": 51.1,
    "gia_kh": 50.38,
    "cat_lo": 46.85,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ngay": "2026-10-28",
@@ -733,7 +793,8 @@
    "gia": 38.18,
    "gia_kh": 37.81,
    "cat_lo": 35.16,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ngay": "2026-10-28",
@@ -744,7 +805,8 @@
    "gia": 23.85,
    "gia_kh": 23.39,
    "cat_lo": 21.76,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ngay": "2026-10-28",
@@ -755,7 +817,8 @@
    "gia": 34.72,
    "gia_kh": 34.69,
    "cat_lo": 32.26,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ngay": "2026-10-28",
@@ -766,7 +829,8 @@
    "gia": 18.72,
    "gia_kh": 18.62,
    "cat_lo": 17.32,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ngay": "2026-10-28",
@@ -776,8 +840,9 @@
    "loai": "MUA",
    "gia": 150.47,
    "gia_kh": 150.09,
-   "cat_lo": 139.58,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "cat_lo": 144.08,
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ngay": "2026-10-28",
@@ -788,7 +853,8 @@
    "gia": 151.03,
    "gia_kh": 150.5,
    "cat_lo": 146.76,
-   "ghi_chu": "Vượt đỉnh hôm qua sau nhịp chỉnh về EMA9"
+   "ghi_chu": "Vượt đỉnh hôm qua sau nhịp chỉnh về EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ngay": "2026-10-28",
@@ -798,8 +864,9 @@
    "loai": "MUA",
    "gia": 22.33,
    "gia_kh": 22.22,
-   "cat_lo": 20.66,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "cat_lo": 21.33,
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ngay": "2026-10-28",
@@ -809,8 +876,9 @@
    "loai": "MUA",
    "gia": 19.33,
    "gia_kh": 19.29,
-   "cat_lo": 17.94,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "cat_lo": 18.52,
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ngay": "2026-10-28",
@@ -820,8 +888,9 @@
    "loai": "MUA",
    "gia": 12.83,
    "gia_kh": 12.83,
-   "cat_lo": 11.93,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "cat_lo": 12.31,
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ngay": "2026-10-28",
@@ -831,8 +900,9 @@
    "loai": "MUA",
    "gia": 45.97,
    "gia_kh": 45.95,
-   "cat_lo": 42.74,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "cat_lo": 44.12,
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ngay": "2026-10-28",
@@ -842,8 +912,9 @@
    "loai": "MUA",
    "gia": 76.55,
    "gia_kh": 76.46,
-   "cat_lo": 71.11,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "cat_lo": 73.4,
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ngay": "2026-10-28",
@@ -853,8 +924,9 @@
    "loai": "MUA",
    "gia": 44.81,
    "gia_kh": 44.79,
-   "cat_lo": 41.66,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "cat_lo": 43.0,
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ngay": "2026-10-28",
@@ -865,7 +937,8 @@
    "gia": 11.84,
    "gia_kh": 11.84,
    "cat_lo": 11.01,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ngay": "2026-10-28",
@@ -875,8 +948,9 @@
    "loai": "MUA",
    "gia": 74.5,
    "gia_kh": 74.13,
-   "cat_lo": 68.94,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây"
+   "cat_lo": 71.17,
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20"
   },
   {
    "ngay": "2026-10-28",
@@ -887,7 +961,8 @@
    "gia": 55.0,
    "gia_kh": 54.86,
    "cat_lo": 51.02,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   },
   {
    "ngay": "2026-10-28",
@@ -898,13 +973,14 @@
    "gia": 57.8,
    "gia_kh": 57.72,
    "cat_lo": 53.68,
-   "ghi_chu": "Giá vượt lên EMA9"
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán"
   }
  ],
  "quy_tac": [
-  "Cắt lỗ đúng giá đã báo, không gồng lỗ.",
-  "Lãi đạt 8% thì dời cắt lỗ về hòa vốn.",
-  "Đóng cửa dưới MA20 thì bán.",
+  "Cắt lỗ đúng giá đã báo, không gồng lỗ (Pocket Pivot, VCP, 52 tuần: tối đa 4%).",
+  "Pocket Pivot, VCP, 52 tuần: gãy EMA9 chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20.",
+  "Luk, A+, B: lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán.",
   "Mỗi lệnh chỉ rủi ro 0,5–1% tài khoản."
  ]
 }
