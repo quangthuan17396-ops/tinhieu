@@ -403,7 +403,7 @@ async function load(){
     seen = new Set(prev||[]);
     const moi = (D.nhat_ky||[]).filter(e=>!seen.has(key(e)));
     render();
-    if(prev && moi.length){
+    if(!demo && prev && moi.length){
       moi.forEach(e=>e.tin_sieu?bao(`${e.kieu==='RADAR'?'📡':'🌟'} Khả năng siêu cổ phiếu · ${e.ma}`, e.ly_do||''):e.canh_bao?bao(`${e.loai==='CHẠM CẮT LỖ'?'⛔':'⚠️'} ${e.loai} · ${e.ma}`, `Giá ${f2(e.gia)} · ${e.loai==='CHẠM CẮT LỖ'?'Cắt lỗ '+f2(e.cat_lo):'Đáy ngày mua '+f2(e.day_ngay_mua)}`):bao(`${e.loai} · ${e.ma}`, `${tenSetup(e.setup)} · Giá ${f2(e.gia)} · Cắt lỗ ${f2(e.cat_lo)}${e.ty_trong!=null?' · Tỷ trọng '+e.ty_trong+'%':''}`));
       beep();
       moi.forEach(e=>document.querySelector(`tr[data-k="${e.ma}${e.setup}"]`)?.classList.add('flash'));
