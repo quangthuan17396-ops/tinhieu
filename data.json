@@ -1,11 +1,16 @@
 {
  "ngay": "2026-11-03",
- "gio": "Trước giờ mở cửa",
+ "gio": "09:16",
  "thi_truong": {
   "vnindex": 1710.72,
   "thay_doi": -1.77,
   "trang_thai": "Xấu",
-  "ghi_chu": "VN-Index dưới MA20, TẠM DỪNG MUA"
+  "ghi_chu": "VN-Index dưới MA20, TẠM DỪNG MUA",
+  "hom_nay": {
+   "diem": 1708.82,
+   "thay_doi": -0.11,
+   "gio": "09:16"
+  }
  },
  "cho_kich_hoat": [],
  "nhat_ky": [
@@ -338,6 +343,20 @@
    "nganh_dan_dat": false,
    "sieu": false,
    "radar": false
+  },
+  {
+   "ngay": "2026-11-03",
+   "gio": "09:16",
+   "ma": "HHP",
+   "setup": "B",
+   "loai": "THỦNG ĐÁY NGÀY MUA",
+   "gia": 17.35,
+   "gia_kh": 17.5,
+   "cat_lo": 16.75,
+   "day_ngay_mua": 17.4,
+   "ngay_mua": "2026-11-02",
+   "canh_bao": true,
+   "ghi_chu": ""
   }
  ],
  "nganh": [
