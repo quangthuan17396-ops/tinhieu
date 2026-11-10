@@ -174,6 +174,11 @@ footer{color:var(--dim);font-size:12px;text-align:center;padding:4px 20px 28px}
   <button class="more" id="radarMore">Xem tất cả ▾</button>
 </section>
 
+<section class="sec box" id="ntBox" hidden>
+  <div class="boxh"><b>⭐ Nền tảng tốt kiểu SHB 2025</b><span>rẻ (P/E ≤10 hoặc P/B ≤1) · lợi nhuận tăng bền · khối ngoại mua ròng · cổ tức đều · chỉ là điểm cộng, vẫn chờ điểm mua kỹ thuật</span></div>
+  <div class="sieu" id="ntDs"></div>
+</section>
+
 <section class="main">
   <div class="box">
     <div class="boxh"><b>📋 Danh sách chờ kích hoạt</b><span>giá chạm mức kích hoạt là báo mua</span></div>
@@ -220,7 +225,8 @@ const SETUP = {
   'VCP':{cls:'s-VCP', ngan:'VCP',    mau:'var(--up)'},
   'PP': {cls:'s-PP',  ngan:'Pocket Pivot', mau:'var(--ref)'},
   '52W':{cls:'s-52W', ngan:'52 tuần', mau:'var(--down)'},
-  'NR': {cls:'s-NR',  ngan:'🚀 Nước rút', mau:'#f08c00'}};
+  'NR': {cls:'s-NR',  ngan:'🚀 Nước rút', mau:'#f08c00'},
+  'BT': {cls:'s-B',   ngan:'🪂 Bán tháo', mau:'#4dabf7'}};
 const tenSetup = k => (SETUP[k]||{ngan:k}).ngan;
 const store = { get(k){ try{ return localStorage.getItem(k) }catch(e){ return null } }, set(k,v){ try{ localStorage.setItem(k,v) }catch(e){} } };
 let D=null, filt='all', q='', seen=null, firstLoad=true;
@@ -269,18 +275,26 @@ function render(){
   const [y,mo,d]=D.ngay.split('-');
   $('upd').innerHTML=`<span class="live"></span>${D.gio||''} · ${d}/${mo}/${y}`;
   $('rule').innerHTML='<b>Nguyên tắc lệnh</b><ul>'+(D.quy_tac||[]).map(x=>`<li>${x}</li>`).join('')+'</ul>';
-  rows(); feed(); sectors(); sieuCp(); radarCp(); tinNho();
+  rows(); feed(); sectors(); sieuCp(); radarCp(); ntCp(); tinNho();
 }
-const mo={sec:false,sieu:false,radar:false};
+const mo={sec:false,sieu:false,radar:false,nt:false};
 function tinNho(){
-  const ng=D.nganh||[], si=D.sieu||[], ra=D.radar||[];
+  const ng=D.nganh||[], si=D.sieu||[], ra=D.radar||[], nt=D.nen_tang||[];
   const chip=(ma,them)=>`<span class="chip" data-ma="${ma}">${ma}${them?` <span class="up">${them}</span>`:''}</span>`;
   const dong=[];
   if(ng.length) dong.push(`<div class="r"><span class="lb">🏆 Ngành dẫn dắt</span><span class="chips">${ng.slice(0,3).map(x=>`<span class="chip" style="cursor:default">${x.nganh}${x.thay_doi>0?` <span class="up">▲${x.thay_doi}</span>`:''}</span>`).join('')}</span><button class="ct" data-k="sec">${mo.sec?'Thu gọn ▴':'Chi tiết ▾'}</button></div>`);
   if(si.length) dong.push(`<div class="r"><span class="lb">🌟 Siêu cổ phiếu</span><span class="chips">${si.slice(0,6).map(x=>chip(x.ma,'+'+x.tang_15+'%')).join('')}</span><button class="ct" data-k="sieu">${mo.sieu?'Thu gọn ▴':'Chi tiết ▾'}</button></div>`);
   if(ra.length) dong.push(`<div class="r"><span class="lb">📡 Radar (${ra.length})</span><span class="chips">${ra.slice(0,8).map(x=>chip(x.ma)).join('')}${ra.length>8?`<span class="mut" style="font-size:12px">+${ra.length-8}</span>`:''}</span><button class="ct" data-k="radar">${mo.radar?'Thu gọn ▴':'Chi tiết ▾'}</button></div>`);
+  if(nt.length) dong.push(`<div class="r"><span class="lb">⭐ Nền tảng tốt (${nt.length})</span><span class="chips">${nt.slice(0,8).map(x=>chip(x.ma,x.diem+'/'+x.toi_da)).join('')}${nt.length>8?`<span class="mut" style="font-size:12px">+${nt.length-8}</span>`:''}</span><button class="ct" data-k="nt">${mo.nt?'Thu gọn ▴':'Chi tiết ▾'}</button></div>`);
   $('tinBox').hidden=!dong.length; $('tinDs').innerHTML=dong.join('');
-  $('secBox').hidden=!(mo.sec&&ng.length); $('sieuBox').hidden=!(mo.sieu&&si.length); $('radarBox').hidden=!(mo.radar&&ra.length);
+  $('secBox').hidden=!(mo.sec&&ng.length); $('sieuBox').hidden=!(mo.sieu&&si.length); $('radarBox').hidden=!(mo.radar&&ra.length); $('ntBox').hidden=!(mo.nt&&nt.length);
+}
+function ntCp(){
+  const n=D.nen_tang||[]; $('ntBox').hidden=!n.length; if(!n.length) return;
+  const so=v=>v==null?'—':v.toFixed(1).replace('.',',');
+  $('ntDs').innerHTML=n.map(x=>`<div class="sc" style="border-color:color-mix(in srgb,#fab005 45%,transparent);background:color-mix(in srgb,#fab005 7%,transparent)"><b>${x.ma}</b> <span class="mut num" style="font-size:12px">${x.diem}/${x.toi_da} tiêu chí</span>
+    <div class="mut num" style="font-size:12px;margin-top:4px">P/E ${so(x.pe)} · P/B ${so(x.pb)}${x.ln!=null?` · LN ${x.quy||''} ${x.ln>0?'+':''}${Math.round(x.ln*100)}%`:''}</div>
+    <div style="font-size:12px;margin-top:4px">${(x.tieu_chi||[]).map(t=>'✓ '+t).join(' · ')}</div></div>`).join('');
 }
 let radarAll=false;
 function radarCp(){
@@ -335,7 +349,7 @@ function rows(){
     const gan = con==null?0:Math.max(0,Math.min(100,100-con*20));
     const hit = stCls(x.trang_thai)==='mua';
     return `<tr class="${hit?'hit':''}" data-k="${x.ma}${x.setup}">
-      <td class="l"><span class="tk">${x.ma}</span>${x.sieu?'<span class="cup" title="Dấu hiệu siêu cổ phiếu">🌟</span>':''}${x.radar?'<span class="cup" title="Trong radar siêu cổ phiếu">📡</span>':''}${x.nganh_dan_dat?'<span class="cup" title="Thuộc ngành dẫn dắt">🏆</span>':''}${x.nganh?`<span class="sub">${x.nganh}</span>`:''}</td>
+      <td class="l"><span class="tk">${x.ma}</span>${x.sieu?'<span class="cup" title="Dấu hiệu siêu cổ phiếu">🌟</span>':''}${x.radar?'<span class="cup" title="Trong radar siêu cổ phiếu">📡</span>':''}${x.nganh_dan_dat?'<span class="cup" title="Thuộc ngành dẫn dắt">🏆</span>':''}${x.vua_nganh?'<span class="cup" title="Mạnh nhất ngành">👑</span>':''}${(x.nen_tang||0)>=3?`<span class="cup" title="Nền tảng kiểu SHB 2025: ${(x.nen_tang_ds||[]).join(', ')}">⭐</span>`:''}${x.nganh?`<span class="sub">${x.nganh}</span>`:''}</td>
       <td class="l"><span class="badge ${s.cls}">${tenSetup(x.setup)}</span></td>
       <td class="l">${nhom(x.nhom)}</td>
       <td class="num ${x.gia>=x.gia_kh?'up':''}">${f2(x.gia)}</td>
@@ -371,7 +385,7 @@ function feed(){
       return;
     }
     out+=`<div class="ev ${moi?'new':''}"><div class="h"><span class="dot" style="background:${s.mau}"></span>${e.loai} · ${tenSetup(e.setup)} · ${e.ma} · <span class="num">${e.gio}</span></div>
-      <div class="d num">Giá ${f2(e.gia)} · Kích hoạt ${f2(e.gia_kh)} · Cắt lỗ ${f2(e.cat_lo)} (rủi ro ${rr}%)</div>${e.ty_trong!=null?`<div class="d">💰 Tỷ trọng gợi ý ${String(e.ty_trong).replace('.',',')}% tài khoản${e.nhom?' · '+({L:'Leading',M:'Mediocre',G:'Lagging'}[e.nhom]):''}</div>`:''}${e.sieu?'<div class="d">🌟 Có dấu hiệu siêu cổ phiếu</div>':''}${e.radar?'<div class="d">📡 Trong radar siêu cổ phiếu</div>':''}${e.setup==='NR'&&e.ghi_chu?`<div class="d">🚀 ${e.ghi_chu}</div>`:''}${e.nganh?`<div class="d">🏭 ${e.nganh}${e.nganh_dan_dat?' · 🏆 ngành dẫn dắt':''}</div>`:''}${e.bctc?`<div class="d">📊 BCTC ${e.bctc.quy}: LN ${e.bctc.nhan||((e.bctc.ln>0?'+':'')+Math.round(e.bctc.ln)+'%')} so cùng kỳ (tham khảo)</div>`:''}${e.thoat?`<div class="d">🔻 Bán: ${e.thoat}</div>`:''}</div>`;
+      <div class="d num">${e.gia_bao&&Math.abs(e.gia_bao-e.gia)>0.001?`Giá vào (chạm) ${f2(e.gia)} · lúc báo ${f2(e.gia_bao)}`:`Giá ${f2(e.gia)}`} · Kích hoạt ${f2(e.gia_kh)} · Cắt lỗ ${f2(e.cat_lo)} (rủi ro ${rr}%)</div>${e.ty_trong!=null?`<div class="d">💰 Tỷ trọng gợi ý ${String(e.ty_trong).replace('.',',')}% tài khoản${e.nhom?' · '+({L:'Leading',M:'Mediocre',G:'Lagging'}[e.nhom]):''}</div>`:''}${e.sieu?'<div class="d">🌟 Có dấu hiệu siêu cổ phiếu</div>':''}${e.radar?'<div class="d">📡 Trong radar siêu cổ phiếu</div>':''}${e.setup==='NR'&&e.ghi_chu?`<div class="d">🚀 ${e.ghi_chu}</div>`:''}${e.nganh?`<div class="d">🏭 ${e.nganh}${e.nganh_dan_dat?' · 🏆 ngành dẫn dắt':''}${e.vua_nganh?' · 👑 mạnh nhất ngành':''}</div>`:''}${e.manh_hon&&e.manh_hon.length?`<div class="d">↳ Cùng ngành mạnh hơn: ${e.manh_hon.join(', ')}</div>`:''}${(e.nen_tang||0)>=3?`<div class="d">⭐ Nền tảng: ${(e.nen_tang_ds||[]).join(', ')}</div>`:''}${e.bctc?`<div class="d">📊 BCTC ${e.bctc.quy}: LN ${e.bctc.nhan||((e.bctc.ln>0?'+':'')+Math.round(e.bctc.ln)+'%')} so cùng kỳ (tham khảo)</div>`:''}${e.thoat?`<div class="d">🔻 Bán: ${e.thoat}</div>`:''}</div>`;
   });
   $('feed').innerHTML=out;
 }
