@@ -1,52 +1,56 @@
 {
- "ngay": "2026-11-11",
- "gio": "13:58",
+ "ngay": "2026-11-12",
+ "gio": "Trước giờ mở cửa",
  "thi_truong": {
-  "vnindex": 1743.07,
-  "thay_doi": 1.68,
+  "vnindex": 1746.9,
+  "thay_doi": 0.22,
   "trang_thai": "Tốt",
   "ghi_chu": "VN-Index trên MA20, được phép mua"
  },
  "cho_kich_hoat": [
   {
-   "ma": "VGS",
-   "setup": "LUK2",
-   "gia_kh": 19.9,
-   "cat_lo": 19.0,
-   "rui_ro": 4.5,
-   "gia": null,
+   "ma": "CII",
+   "setup": "DAY",
+   "gia_kh": 14.41,
+   "cat_lo": 13.84,
+   "rui_ro": 4.0,
+   "gia": 14.15,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -13.5,
-   "ghi_chu": "Vượt đỉnh nhịp chỉnh 19,90 (chạm hỗ trợ 1 phiên trước) – báo ngay khi vượt, vào 1/2, thêm khi KL xác nhận",
+   "rs": -26.1,
+   "ghi_chu": "Vượt đỉnh gần nhất 14,40 (đỉnh nền 14,40) sau khi giảm 57% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": 50.9,
-    "dt": 21.0,
+    "ln": -40.2,
+    "dt": 27.9,
     "nhan": null,
-    "lnst": 96
+    "lnst": 7
    },
    "nhom": "L",
-   "hang_1t": 99,
-   "ty_trong": 11.1,
-   "nganh": "Thép và sản phẩm thép",
-   "hang_nganh": 1,
+   "hang_1t": 94,
+   "ty_trong": 12.6,
+   "nganh": "Xây dựng",
+   "hang_nganh": 3,
    "nganh_dan_dat": true,
    "boi_canh": "Mạnh",
-   "meta": 3,
+   "meta": 2,
    "meta_ds": [
-    "xu hướng",
     "RS mạnh",
     "ngành dẫn dắt"
    ],
    "sieu": false,
    "radar": false,
    "nr_diem": null,
-   "vua_nganh": true,
-   "manh_hon": [],
-   "nen_tang": null,
-   "nen_tang_ds": null
+   "vua_nganh": false,
+   "manh_hon": [
+    "DPG (Leading, hạng 96)"
+   ],
+   "nen_tang": 2,
+   "nen_tang_ds": [
+    "rẻ",
+    "cổ tức đều"
+   ]
   },
   {
    "ma": "VCG",
@@ -54,11 +58,11 @@
    "gia_kh": 15.77,
    "cat_lo": 15.14,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 15.55,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -20.3,
-   "ghi_chu": "Vượt đỉnh gần nhất 15,75 (đỉnh nền 15,80) sau khi giảm 39% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "rs": -19.5,
+   "ghi_chu": "Vượt đỉnh gần nhất 15,75 (đỉnh nền 15,95) sau khi giảm 39% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
@@ -68,9 +72,56 @@
     "lnst": 306
    },
    "nhom": "L",
-   "hang_1t": 84,
+   "hang_1t": 87,
    "ty_trong": 12.5,
    "nganh": "Xây dựng",
+   "hang_nganh": 3,
+   "nganh_dan_dat": true,
+   "boi_canh": "Mạnh",
+   "meta": 3,
+   "meta_ds": [
+    "hỗ trợ EMA10/20",
+    "RS mạnh",
+    "ngành dẫn dắt"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "DPG (Leading, hạng 96)",
+    "CII (Leading, hạng 94)",
+    "CTD (Leading, hạng 91)"
+   ],
+   "nen_tang": 2,
+   "nen_tang_ds": [
+    "rẻ",
+    "cổ tức đều"
+   ]
+  },
+  {
+   "ma": "HVN",
+   "setup": "DAY",
+   "gia_kh": 23.12,
+   "cat_lo": 22.2,
+   "rui_ro": 4.0,
+   "gia": 22.55,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": 6.1,
+   "ghi_chu": "Vượt đỉnh gần nhất 23,10 (đỉnh nền 23,10) sau khi giảm 35% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -76.5,
+    "dt": 28.7,
+    "nhan": null,
+    "lnst": 145
+   },
+   "nhom": "L",
+   "hang_1t": 85,
+   "ty_trong": 12.6,
+   "nganh": "Hàng không",
    "hang_nganh": 2,
    "nganh_dan_dat": true,
    "boi_canh": "Mạnh",
@@ -83,112 +134,64 @@
    "sieu": false,
    "radar": false,
    "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "DPG (Leading, hạng 95)",
-    "CTD (Leading, hạng 90)"
-   ],
-   "nen_tang": 2,
-   "nen_tang_ds": [
-    "rẻ",
-    "cổ tức đều"
-   ]
-  },
-  {
-   "ma": "ORS",
-   "setup": "LUK2",
-   "gia_kh": 14.7,
-   "cat_lo": 14.18,
-   "rui_ro": 3.5,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": 7.1,
-   "ghi_chu": "Vượt đỉnh nhịp chỉnh 14,70 (chạm hỗ trợ 1 phiên trước) – báo ngay khi vượt, vào 1/2, thêm khi KL xác nhận",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -35.3,
-    "dt": 37.5,
-    "nhan": null,
-    "lnst": 86
-   },
-   "nhom": "L",
-   "hang_1t": 80,
-   "ty_trong": 14.1,
-   "nganh": "Môi giới chứng khoán",
-   "hang_nganh": 3,
-   "nganh_dan_dat": true,
-   "boi_canh": "Mạnh",
-   "meta": 5,
-   "meta_ds": [
-    "xu hướng",
-    "giá & KL cạn",
-    "hỗ trợ EMA10/20",
-    "RS mạnh",
-    "ngành dẫn dắt"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "BSI (Leading, hạng 97)",
-    "CTS (Leading, hạng 96)"
-   ],
+   "vua_nganh": true,
+   "manh_hon": [],
    "nen_tang": 0,
    "nen_tang_ds": []
   },
   {
-   "ma": "VGS",
-   "setup": "PP",
-   "gia_kh": 19.49,
-   "cat_lo": 18.71,
+   "ma": "FCN",
+   "setup": "DAY",
+   "gia_kh": 11.46,
+   "cat_lo": 11.0,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 11.4,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -13.5,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "rs": -11.6,
+   "ghi_chu": "Vượt đỉnh gần nhất 11,45 (đỉnh nền 11,45) sau khi giảm 39% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": 50.9,
-    "dt": 21.0,
+    "ln": 517.5,
+    "dt": 62.6,
     "nhan": null,
-    "lnst": 96
+    "lnst": 90
    },
    "nhom": "L",
-   "hang_1t": 99,
+   "hang_1t": 84,
    "ty_trong": 12.5,
-   "nganh": "Thép và sản phẩm thép",
-   "hang_nganh": 1,
+   "nganh": "Xây dựng",
+   "hang_nganh": 3,
    "nganh_dan_dat": true,
    "boi_canh": "Mạnh",
-   "meta": 3,
+   "meta": 2,
    "meta_ds": [
-    "xu hướng",
     "RS mạnh",
     "ngành dẫn dắt"
    ],
    "sieu": false,
    "radar": false,
    "nr_diem": null,
-   "vua_nganh": true,
-   "manh_hon": [],
+   "vua_nganh": false,
+   "manh_hon": [
+    "DPG (Leading, hạng 96)",
+    "CII (Leading, hạng 94)",
+    "CTD (Leading, hạng 91)"
+   ],
    "nen_tang": null,
    "nen_tang_ds": null
   },
   {
    "ma": "NKG",
    "setup": "PP",
-   "gia_kh": 12.22,
-   "cat_lo": 11.73,
-   "rui_ro": 4.0,
-   "gia": null,
+   "gia_kh": 12.42,
+   "cat_lo": 11.93,
+   "rui_ro": 3.9,
+   "gia": 12.3,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -4.6,
+   "rs": -2.7,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -200,7 +203,7 @@
    },
    "nhom": "L",
    "hang_1t": 98,
-   "ty_trong": 12.5,
+   "ty_trong": 12.7,
    "nganh": "Thép và sản phẩm thép",
    "hang_nganh": 1,
    "nganh_dan_dat": true,
@@ -216,7 +219,7 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "VGS (Leading, hạng 99)"
+    "VGS (Leading, hạng 100)"
    ],
    "nen_tang": 2,
    "nen_tang_ds": [
@@ -225,60 +228,15 @@
    ]
   },
   {
-   "ma": "ORS",
-   "setup": "PP",
-   "gia_kh": 14.49,
-   "cat_lo": 13.91,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": 7.1,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -35.3,
-    "dt": 37.5,
-    "nhan": null,
-    "lnst": 86
-   },
-   "nhom": "L",
-   "hang_1t": 80,
-   "ty_trong": 12.5,
-   "nganh": "Môi giới chứng khoán",
-   "hang_nganh": 3,
-   "nganh_dan_dat": true,
-   "boi_canh": "Mạnh",
-   "meta": 5,
-   "meta_ds": [
-    "xu hướng",
-    "giá & KL cạn",
-    "hỗ trợ EMA10/20",
-    "RS mạnh",
-    "ngành dẫn dắt"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "BSI (Leading, hạng 97)",
-    "CTS (Leading, hạng 96)"
-   ],
-   "nen_tang": 0,
-   "nen_tang_ds": []
-  },
-  {
    "ma": "HSG",
    "setup": "PP",
-   "gia_kh": 11.01,
-   "cat_lo": 10.57,
+   "gia_kh": 11.16,
+   "cat_lo": 10.71,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 11.05,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -10.7,
+   "rs": -9.4,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -289,16 +247,17 @@
     "lnst": 55
    },
    "nhom": "L",
-   "hang_1t": 77,
-   "ty_trong": 12.5,
+   "hang_1t": 80,
+   "ty_trong": 12.4,
    "nganh": "Thép và sản phẩm thép",
    "hang_nganh": 1,
    "nganh_dan_dat": true,
    "boi_canh": "Mạnh",
-   "meta": 3,
+   "meta": 4,
    "meta_ds": [
     "xu hướng",
     "hỗ trợ EMA10/20",
+    "RS mạnh",
     "ngành dẫn dắt"
    ],
    "sieu": false,
@@ -306,7 +265,7 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "VGS (Leading, hạng 99)",
+    "VGS (Leading, hạng 100)",
     "NKG (Leading, hạng 98)"
    ],
    "nen_tang": 2,
@@ -316,127 +275,35 @@
    ]
   },
   {
-   "ma": "ORS",
-   "setup": "A+",
-   "gia_kh": 15.02,
-   "cat_lo": 14.42,
+   "ma": "VJC",
+   "setup": "PP",
+   "gia_kh": 137.87,
+   "cat_lo": 132.35,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 136.5,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 7.1,
-   "ghi_chu": "EMA9 cắt lên MA20",
+   "rs": 2.5,
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": -35.3,
-    "dt": 37.5,
+    "ln": 8.6,
+    "dt": 35.0,
     "nhan": null,
-    "lnst": 86
+    "lnst": 347
    },
    "nhom": "L",
-   "hang_1t": 80,
+   "hang_1t": 74,
    "ty_trong": 12.5,
-   "nganh": "Môi giới chứng khoán",
-   "hang_nganh": 3,
-   "nganh_dan_dat": true,
-   "boi_canh": "Mạnh",
-   "meta": 5,
-   "meta_ds": [
-    "xu hướng",
-    "giá & KL cạn",
-    "hỗ trợ EMA10/20",
-    "RS mạnh",
-    "ngành dẫn dắt"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "BSI (Leading, hạng 97)",
-    "CTS (Leading, hạng 96)"
-   ],
-   "nen_tang": 0,
-   "nen_tang_ds": []
-  },
-  {
-   "ma": "NKG",
-   "setup": "B",
-   "gia_kh": 12.1,
-   "cat_lo": 11.62,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -4.6,
-   "ghi_chu": "Giá vượt lên EMA9",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 154.8,
-    "dt": 45.0,
-    "nhan": null,
-    "lnst": 126
-   },
-   "nhom": "L",
-   "hang_1t": 98,
-   "ty_trong": 12.6,
-   "nganh": "Thép và sản phẩm thép",
-   "hang_nganh": 1,
+   "nganh": "Hàng không",
+   "hang_nganh": 2,
    "nganh_dan_dat": true,
    "boi_canh": "Mạnh",
    "meta": 3,
    "meta_ds": [
     "xu hướng",
-    "RS mạnh",
-    "ngành dẫn dắt"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "VGS (Leading, hạng 99)"
-   ],
-   "nen_tang": 2,
-   "nen_tang_ds": [
-    "rẻ",
-    "LN tăng bền"
-   ]
-  },
-  {
-   "ma": "ORS",
-   "setup": "B",
-   "gia_kh": 14.39,
-   "cat_lo": 13.81,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": 7.1,
-   "ghi_chu": "Giá vượt lên EMA9",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -35.3,
-    "dt": 37.5,
-    "nhan": null,
-    "lnst": 86
-   },
-   "nhom": "L",
-   "hang_1t": 80,
-   "ty_trong": 12.4,
-   "nganh": "Môi giới chứng khoán",
-   "hang_nganh": 3,
-   "nganh_dan_dat": true,
-   "boi_canh": "Mạnh",
-   "meta": 5,
-   "meta_ds": [
-    "xu hướng",
-    "giá & KL cạn",
     "hỗ trợ EMA10/20",
-    "RS mạnh",
     "ngành dẫn dắt"
    ],
    "sieu": false,
@@ -444,8 +311,7 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "BSI (Leading, hạng 97)",
-    "CTS (Leading, hạng 96)"
+    "HVN (Leading, hạng 85)"
    ],
    "nen_tang": 0,
    "nen_tang_ds": []
@@ -456,10 +322,10 @@
    "gia_kh": 35.0,
    "cat_lo": 34.23,
    "rui_ro": 2.2,
-   "gia": null,
+   "gia": 34.7,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -0.9,
+   "rs": -1.4,
    "ghi_chu": "Vượt đỉnh hôm qua sau nhịp chỉnh về EMA9",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -470,16 +336,15 @@
     "lnst": 196
    },
    "nhom": "L",
-   "hang_1t": 83,
+   "hang_1t": 80,
    "ty_trong": 22.7,
    "nganh": "Hàng May mặc",
-   "hang_nganh": 8,
+   "hang_nganh": 9,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
-   "meta": 4,
+   "meta": 3,
    "meta_ds": [
     "xu hướng",
-    "giá & KL cạn",
     "hỗ trợ EMA10/20",
     "RS mạnh"
    ],
@@ -492,15 +357,58 @@
    "nen_tang_ds": null
   },
   {
-   "ma": "VPL",
-   "setup": "PP",
-   "gia_kh": 94.74,
-   "cat_lo": 90.95,
+   "ma": "ORS",
+   "setup": "LUK",
+   "gia_kh": 14.55,
+   "cat_lo": 13.97,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 14.5,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 4.2,
+   "rs": 6.2,
+   "ghi_chu": "Vượt đỉnh hôm qua sau nhịp chỉnh về EMA9",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -35.3,
+    "dt": 37.5,
+    "nhan": null,
+    "lnst": 86
+   },
+   "nhom": "L",
+   "hang_1t": 79,
+   "ty_trong": 12.5,
+   "nganh": "Môi giới chứng khoán",
+   "hang_nganh": 5,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 3,
+   "meta_ds": [
+    "xu hướng",
+    "giá & KL cạn",
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "BSI (Leading, hạng 98)",
+    "CTS (Leading, hạng 97)"
+   ],
+   "nen_tang": 0,
+   "nen_tang_ds": []
+  },
+  {
+   "ma": "VPL",
+   "setup": "PP",
+   "gia_kh": 94.94,
+   "cat_lo": 91.14,
+   "rui_ro": 4.0,
+   "gia": 94.0,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": 4.7,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -511,7 +419,7 @@
     "lnst": 649
    },
    "nhom": "L",
-   "hang_1t": 98,
+   "hang_1t": 96,
    "ty_trong": 12.5,
    "nganh": "Dịch vụ giải trí",
    "hang_nganh": null,
@@ -533,59 +441,15 @@
    ]
   },
   {
-   "ma": "SZC",
-   "setup": "PP",
-   "gia_kh": 20.55,
-   "cat_lo": 19.73,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -18.4,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 3.8,
-    "dt": 29.6,
-    "nhan": null,
-    "lnst": 22
-   },
-   "nhom": "L",
-   "hang_1t": 94,
-   "ty_trong": 12.5,
-   "nganh": "Bất động sản",
-   "hang_nganh": 5,
-   "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
-   "meta": 2,
-   "meta_ds": [
-    "xu hướng",
-    "RS mạnh"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "HDC (Leading, hạng 100)",
-    "TCH (Leading, hạng 99)"
-   ],
-   "nen_tang": 1,
-   "nen_tang_ds": [
-    "cổ tức đều"
-   ]
-  },
-  {
    "ma": "MSB",
    "setup": "PP",
    "gia_kh": 16.51,
    "cat_lo": 15.85,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 16.35,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 44.3,
+   "rs": 41.7,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -596,10 +460,10 @@
     "lnst": 1649
    },
    "nhom": "L",
-   "hang_1t": 87,
+   "hang_1t": 89,
    "ty_trong": 12.5,
    "nganh": "Ngân hàng",
-   "hang_nganh": 6,
+   "hang_nganh": 7,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 3,
@@ -623,13 +487,13 @@
   {
    "ma": "TPB",
    "setup": "PP",
-   "gia_kh": 12.83,
-   "cat_lo": 12.31,
-   "rui_ro": 4.1,
-   "gia": null,
+   "gia_kh": 13.23,
+   "cat_lo": 12.7,
+   "rui_ro": 4.0,
+   "gia": 13.1,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -3.0,
+   "rs": -1.5,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -640,10 +504,10 @@
     "lnst": 2393
    },
    "nhom": "L",
-   "hang_1t": 85,
-   "ty_trong": 12.3,
+   "hang_1t": 87,
+   "ty_trong": 12.5,
    "nganh": "Ngân hàng",
-   "hang_nganh": 6,
+   "hang_nganh": 7,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 3,
@@ -657,7 +521,7 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "MSB (Leading, hạng 87)"
+    "MSB (Leading, hạng 89)"
    ],
    "nen_tang": 3,
    "nen_tang_ds": [
@@ -669,13 +533,13 @@
   {
    "ma": "VIC",
    "setup": "PP",
-   "gia_kh": 244.42,
-   "cat_lo": 234.64,
+   "gia_kh": 247.65,
+   "cat_lo": 237.75,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 245.2,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 9.5,
+   "rs": 6.7,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -686,10 +550,10 @@
     "lnst": 22354
    },
    "nhom": "L",
-   "hang_1t": 85,
+   "hang_1t": 83,
    "ty_trong": 12.5,
    "nganh": "Bất động sản",
-   "hang_nganh": 5,
+   "hang_nganh": 6,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 4,
@@ -704,9 +568,9 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "HDC (Leading, hạng 100)",
+    "HDC (Leading, hạng 99)",
     "TCH (Leading, hạng 99)",
-    "SZC (Leading, hạng 94)"
+    "SZC (Leading, hạng 95)"
    ],
    "nen_tang": 1,
    "nen_tang_ds": [
@@ -716,13 +580,13 @@
   {
    "ma": "MSH",
    "setup": "PP",
-   "gia_kh": 35.15,
-   "cat_lo": 33.74,
+   "gia_kh": 35.05,
+   "cat_lo": 33.65,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 34.7,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -0.9,
+   "rs": -1.4,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -733,16 +597,15 @@
     "lnst": 196
    },
    "nhom": "L",
-   "hang_1t": 83,
+   "hang_1t": 80,
    "ty_trong": 12.5,
    "nganh": "Hàng May mặc",
-   "hang_nganh": 8,
+   "hang_nganh": 9,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
-   "meta": 4,
+   "meta": 3,
    "meta_ds": [
     "xu hướng",
-    "giá & KL cạn",
     "hỗ trợ EMA10/20",
     "RS mạnh"
    ],
@@ -755,68 +618,72 @@
    "nen_tang_ds": null
   },
   {
-   "ma": "VJC",
+   "ma": "ORS",
    "setup": "PP",
-   "gia_kh": 137.76,
-   "cat_lo": 132.25,
+   "gia_kh": 14.64,
+   "cat_lo": 14.06,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 14.5,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 2.4,
+   "rs": 6.2,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": 8.6,
-    "dt": 35.0,
+    "ln": -35.3,
+    "dt": 37.5,
     "nhan": null,
-    "lnst": 347
+    "lnst": 86
    },
    "nhom": "L",
-   "hang_1t": 73,
-   "ty_trong": 12.5,
-   "nganh": "Hàng không",
-   "hang_nganh": 4,
+   "hang_1t": 79,
+   "ty_trong": 12.6,
+   "nganh": "Môi giới chứng khoán",
+   "hang_nganh": 5,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
-   "meta": 2,
+   "meta": 3,
    "meta_ds": [
     "xu hướng",
+    "giá & KL cạn",
     "hỗ trợ EMA10/20"
    ],
    "sieu": false,
    "radar": false,
    "nr_diem": null,
-   "vua_nganh": true,
-   "manh_hon": [],
+   "vua_nganh": false,
+   "manh_hon": [
+    "BSI (Leading, hạng 98)",
+    "CTS (Leading, hạng 97)"
+   ],
    "nen_tang": 0,
    "nen_tang_ds": []
   },
   {
-   "ma": "BAF",
+   "ma": "NAB",
    "setup": "PP",
-   "gia_kh": 31.26,
-   "cat_lo": 30.01,
+   "gia_kh": 12.93,
+   "cat_lo": 12.41,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 12.8,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 10.2,
+   "rs": 2.8,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": -5.4,
-    "dt": 81.9,
+    "ln": 23.0,
+    "dt": null,
     "nhan": null,
-    "lnst": 20
+    "lnst": 1269
    },
    "nhom": "L",
-   "hang_1t": 70,
-   "ty_trong": 12.5,
-   "nganh": "Nuôi trồng nông & hải sản",
-   "hang_nganh": 9,
+   "hang_1t": 74,
+   "ty_trong": 12.4,
+   "nganh": "Ngân hàng",
+   "hang_nganh": 7,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 2,
@@ -827,11 +694,17 @@
    "sieu": false,
    "radar": false,
    "nr_diem": null,
-   "vua_nganh": true,
-   "manh_hon": [],
-   "nen_tang": 1,
+   "vua_nganh": false,
+   "manh_hon": [
+    "MSB (Leading, hạng 89)",
+    "TPB (Leading, hạng 87)",
+    "CTG (Leading, hạng 77)"
+   ],
+   "nen_tang": 3,
    "nen_tang_ds": [
-    "cổ tức đều"
+    "rẻ",
+    "LN tăng bền",
+    "khối ngoại mua"
    ]
   },
   {
@@ -840,10 +713,10 @@
    "gia_kh": 16.6,
    "cat_lo": 15.94,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 16.35,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 44.3,
+   "rs": 41.7,
    "ghi_chu": "Vượt đỉnh 52 tuần với khối lượng lớn",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -854,10 +727,10 @@
     "lnst": 1649
    },
    "nhom": "L",
-   "hang_1t": 87,
+   "hang_1t": 89,
    "ty_trong": 12.6,
    "nganh": "Ngân hàng",
-   "hang_nganh": 6,
+   "hang_nganh": 7,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 3,
@@ -879,29 +752,29 @@
    ]
   },
   {
-   "ma": "BAF",
+   "ma": "NAB",
    "setup": "52W",
-   "gia_kh": 31.28,
-   "cat_lo": 30.03,
+   "gia_kh": 13.5,
+   "cat_lo": 12.96,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 12.8,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 10.2,
+   "rs": 2.8,
    "ghi_chu": "Vượt đỉnh 52 tuần với khối lượng lớn",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": -5.4,
-    "dt": 81.9,
+    "ln": 23.0,
+    "dt": null,
     "nhan": null,
-    "lnst": 20
+    "lnst": 1269
    },
    "nhom": "L",
-   "hang_1t": 70,
+   "hang_1t": 74,
    "ty_trong": 12.5,
-   "nganh": "Nuôi trồng nông & hải sản",
-   "hang_nganh": 9,
+   "nganh": "Ngân hàng",
+   "hang_nganh": 7,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 2,
@@ -912,23 +785,117 @@
    "sieu": false,
    "radar": false,
    "nr_diem": null,
-   "vua_nganh": true,
-   "manh_hon": [],
+   "vua_nganh": false,
+   "manh_hon": [
+    "MSB (Leading, hạng 89)",
+    "TPB (Leading, hạng 87)",
+    "CTG (Leading, hạng 77)"
+   ],
+   "nen_tang": 3,
+   "nen_tang_ds": [
+    "rẻ",
+    "LN tăng bền",
+    "khối ngoại mua"
+   ]
+  },
+  {
+   "ma": "AAS",
+   "setup": "52W",
+   "gia_kh": 12.0,
+   "cat_lo": 11.52,
+   "rui_ro": 4.0,
+   "gia": 10.5,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": 25.0,
+   "ghi_chu": "Vượt đỉnh 52 tuần với khối lượng lớn",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -83.1,
+    "dt": -65.0,
+    "nhan": null,
+    "lnst": 19
+   },
+   "nhom": "L",
+   "hang_1t": 71,
+   "ty_trong": 12.5,
+   "nganh": "Môi giới chứng khoán",
+   "hang_nganh": 5,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 2,
+   "meta_ds": [
+    "xu hướng",
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "BSI (Leading, hạng 98)",
+    "CTS (Leading, hạng 97)",
+    "ORS (Leading, hạng 79)"
+   ],
    "nen_tang": 1,
    "nen_tang_ds": [
-    "cổ tức đều"
+    "rẻ"
    ]
+  },
+  {
+   "ma": "ORS",
+   "setup": "A+",
+   "gia_kh": 15.25,
+   "cat_lo": 14.64,
+   "rui_ro": 4.0,
+   "gia": 14.5,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": 6.2,
+   "ghi_chu": "EMA9 cắt lên MA20",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -35.3,
+    "dt": 37.5,
+    "nhan": null,
+    "lnst": 86
+   },
+   "nhom": "L",
+   "hang_1t": 79,
+   "ty_trong": 12.5,
+   "nganh": "Môi giới chứng khoán",
+   "hang_nganh": 5,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 3,
+   "meta_ds": [
+    "xu hướng",
+    "giá & KL cạn",
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "BSI (Leading, hạng 98)",
+    "CTS (Leading, hạng 97)"
+   ],
+   "nen_tang": 0,
+   "nen_tang_ds": []
   },
   {
    "ma": "MSH",
    "setup": "B",
-   "gia_kh": 34.91,
-   "cat_lo": 33.51,
+   "gia_kh": 34.87,
+   "cat_lo": 33.47,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 34.7,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -0.9,
+   "rs": -1.4,
    "ghi_chu": "Giá vượt lên EMA9",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -939,16 +906,15 @@
     "lnst": 196
    },
    "nhom": "L",
-   "hang_1t": 83,
+   "hang_1t": 80,
    "ty_trong": 12.5,
    "nganh": "Hàng May mặc",
-   "hang_nganh": 8,
+   "hang_nganh": 9,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
-   "meta": 4,
+   "meta": 3,
    "meta_ds": [
     "xu hướng",
-    "giá & KL cạn",
     "hỗ trợ EMA10/20",
     "RS mạnh"
    ],
@@ -961,155 +927,16 @@
    "nen_tang_ds": null
   },
   {
-   "ma": "SHS",
-   "setup": "DAY",
-   "gia_kh": 13.81,
-   "cat_lo": 13.26,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -19.4,
-   "ghi_chu": "Vượt đỉnh gần nhất 13,80 (đỉnh nền 13,80) sau khi giảm 47% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -57.5,
-    "dt": 22.8,
-    "nhan": null,
-    "lnst": 203
-   },
-   "nhom": "M",
-   "hang_1t": 95,
-   "ty_trong": 12.6,
-   "nganh": "Môi giới chứng khoán",
-   "hang_nganh": 3,
-   "nganh_dan_dat": true,
-   "boi_canh": "Mạnh",
-   "meta": 4,
-   "meta_ds": [
-    "giá & KL cạn",
-    "hỗ trợ EMA10/20",
-    "RS mạnh",
-    "ngành dẫn dắt"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "BSI (Leading, hạng 97)",
-    "CTS (Leading, hạng 96)",
-    "ORS (Leading, hạng 80)"
-   ],
-   "nen_tang": 2,
-   "nen_tang_ds": [
-    "rẻ",
-    "cổ tức đều"
-   ]
-  },
-  {
-   "ma": "FTS",
-   "setup": "DAY",
-   "gia_kh": 20.12,
-   "cat_lo": 19.32,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -15.2,
-   "ghi_chu": "Vượt đỉnh gần nhất 20,10 (đỉnh nền 20,35) sau khi giảm 44% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -35.0,
-    "dt": -4.4,
-    "nhan": null,
-    "lnst": 36
-   },
-   "nhom": "M",
-   "hang_1t": 90,
-   "ty_trong": 12.6,
-   "nganh": "Môi giới chứng khoán",
-   "hang_nganh": 3,
-   "nganh_dan_dat": true,
-   "boi_canh": "Mạnh",
-   "meta": 3,
-   "meta_ds": [
-    "hỗ trợ EMA10/20",
-    "RS mạnh",
-    "ngành dẫn dắt"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "BSI (Leading, hạng 97)",
-    "CTS (Leading, hạng 96)",
-    "ORS (Leading, hạng 80)"
-   ],
-   "nen_tang": 1,
-   "nen_tang_ds": [
-    "cổ tức đều"
-   ]
-  },
-  {
-   "ma": "VND",
-   "setup": "DAY",
-   "gia_kh": 15.12,
-   "cat_lo": 14.51,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -5.9,
-   "ghi_chu": "Vượt đỉnh gần nhất 15,10 (đỉnh nền 15,10) sau khi giảm 36% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -64.5,
-    "dt": -22.6,
-    "nhan": null,
-    "lnst": 329
-   },
-   "nhom": "M",
-   "hang_1t": 89,
-   "ty_trong": 12.4,
-   "nganh": "Môi giới chứng khoán",
-   "hang_nganh": 3,
-   "nganh_dan_dat": true,
-   "boi_canh": "Mạnh",
-   "meta": 2,
-   "meta_ds": [
-    "RS mạnh",
-    "ngành dẫn dắt"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "BSI (Leading, hạng 97)",
-    "CTS (Leading, hạng 96)",
-    "ORS (Leading, hạng 80)"
-   ],
-   "nen_tang": 1,
-   "nen_tang_ds": [
-    "cổ tức đều"
-   ]
-  },
-  {
    "ma": "HHV",
    "setup": "DAY",
-   "gia_kh": 9.97,
-   "cat_lo": 9.57,
+   "gia_kh": 10.11,
+   "cat_lo": 9.71,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 9.88,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -15.3,
-   "ghi_chu": "Vượt đỉnh gần nhất 9,96 (đỉnh nền 9,96) sau khi giảm 36% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "rs": -15.0,
+   "ghi_chu": "Vượt đỉnh gần nhất 10,10 (đỉnh nền 10,10) sau khi giảm 36% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
@@ -1119,15 +946,14 @@
     "lnst": 186
    },
    "nhom": "M",
-   "hang_1t": 84,
-   "ty_trong": 12.5,
+   "hang_1t": 81,
+   "ty_trong": 12.6,
    "nganh": "Xây dựng",
-   "hang_nganh": 2,
+   "hang_nganh": 3,
    "nganh_dan_dat": true,
    "boi_canh": "Mạnh",
-   "meta": 4,
+   "meta": 3,
    "meta_ds": [
-    "giá & KL cạn",
     "hỗ trợ EMA10/20",
     "RS mạnh",
     "ngành dẫn dắt"
@@ -1137,9 +963,9 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "DPG (Leading, hạng 95)",
-    "CTD (Leading, hạng 90)",
-    "VCG (Leading, hạng 84)"
+    "DPG (Leading, hạng 96)",
+    "CII (Leading, hạng 94)",
+    "CTD (Leading, hạng 91)"
    ],
    "nen_tang": 3,
    "nen_tang_ds": [
@@ -1149,150 +975,15 @@
    ]
   },
   {
-   "ma": "FCN",
-   "setup": "DAY",
-   "gia_kh": 11.46,
-   "cat_lo": 11.0,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -14.0,
-   "ghi_chu": "Vượt đỉnh gần nhất 11,45 (đỉnh nền 11,45) sau khi giảm 39% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 517.5,
-    "dt": 62.6,
-    "nhan": null,
-    "lnst": 90
-   },
-   "nhom": "M",
-   "hang_1t": 83,
-   "ty_trong": 12.5,
-   "nganh": "Xây dựng",
-   "hang_nganh": 2,
-   "nganh_dan_dat": true,
-   "boi_canh": "Mạnh",
-   "meta": 3,
-   "meta_ds": [
-    "hỗ trợ EMA10/20",
-    "RS mạnh",
-    "ngành dẫn dắt"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "DPG (Leading, hạng 95)",
-    "CTD (Leading, hạng 90)",
-    "VCG (Leading, hạng 84)"
-   ],
-   "nen_tang": null,
-   "nen_tang_ds": null
-  },
-  {
-   "ma": "VCI",
-   "setup": "DAY",
-   "gia_kh": 20.87,
-   "cat_lo": 20.04,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -22.2,
-   "ghi_chu": "Vượt đỉnh gần nhất 20,85 (đỉnh nền 20,85) sau khi giảm 39% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -12.6,
-    "dt": -9.6,
-    "nhan": null,
-    "lnst": 367
-   },
-   "nhom": "M",
-   "hang_1t": 82,
-   "ty_trong": 12.6,
-   "nganh": "Môi giới chứng khoán",
-   "hang_nganh": 3,
-   "nganh_dan_dat": true,
-   "boi_canh": "Mạnh",
-   "meta": 2,
-   "meta_ds": [
-    "RS mạnh",
-    "ngành dẫn dắt"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "BSI (Leading, hạng 97)",
-    "CTS (Leading, hạng 96)",
-    "ORS (Leading, hạng 80)"
-   ],
-   "nen_tang": 1,
-   "nen_tang_ds": [
-    "cổ tức đều"
-   ]
-  },
-  {
-   "ma": "SSI",
-   "setup": "DAY",
-   "gia_kh": 21.02,
-   "cat_lo": 20.18,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -7.1,
-   "ghi_chu": "Vượt đỉnh gần nhất 21,00 (đỉnh nền 21,00) sau khi giảm 30% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -23.7,
-    "dt": -24.2,
-    "nhan": null,
-    "lnst": 1125
-   },
-   "nhom": "M",
-   "hang_1t": 81,
-   "ty_trong": 12.5,
-   "nganh": "Môi giới chứng khoán",
-   "hang_nganh": 3,
-   "nganh_dan_dat": true,
-   "boi_canh": "Mạnh",
-   "meta": 3,
-   "meta_ds": [
-    "hỗ trợ EMA10/20",
-    "RS mạnh",
-    "ngành dẫn dắt"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "BSI (Leading, hạng 97)",
-    "CTS (Leading, hạng 96)",
-    "ORS (Leading, hạng 80)"
-   ],
-   "nen_tang": 1,
-   "nen_tang_ds": [
-    "cổ tức đều"
-   ]
-  },
-  {
    "ma": "LCG",
    "setup": "DAY",
    "gia_kh": 6.9,
    "cat_lo": 6.62,
    "rui_ro": 4.1,
-   "gia": null,
+   "gia": 6.75,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -23.2,
+   "rs": -22.9,
    "ghi_chu": "Vượt đỉnh gần nhất 6,89 (đỉnh nền 6,89) sau khi giảm 39% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -1303,10 +994,10 @@
     "lnst": 40
    },
    "nhom": "M",
-   "hang_1t": 72,
+   "hang_1t": 76,
    "ty_trong": 12.3,
    "nganh": "Xây dựng",
-   "hang_nganh": 2,
+   "hang_nganh": 3,
    "nganh_dan_dat": true,
    "boi_canh": "Mạnh",
    "meta": 3,
@@ -1320,41 +1011,42 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "DPG (Leading, hạng 95)",
-    "CTD (Leading, hạng 90)",
-    "VCG (Leading, hạng 84)"
+    "DPG (Leading, hạng 96)",
+    "CII (Leading, hạng 94)",
+    "CTD (Leading, hạng 91)"
    ],
    "nen_tang": null,
    "nen_tang_ds": null
   },
   {
-   "ma": "BVS",
+   "ma": "CDC",
    "setup": "PP",
-   "gia_kh": 27.88,
-   "cat_lo": 26.76,
+   "gia_kh": 23.03,
+   "cat_lo": 22.11,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 22.8,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 6.2,
+   "rs": 8.1,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": -79.4,
-    "dt": -39.7,
+    "ln": -38.7,
+    "dt": 19.3,
     "nhan": null,
-    "lnst": 17
+    "lnst": 5
    },
    "nhom": "M",
-   "hang_1t": 76,
-   "ty_trong": 12.4,
-   "nganh": "Môi giới chứng khoán",
+   "hang_1t": 68,
+   "ty_trong": 12.5,
+   "nganh": "Xây dựng",
    "hang_nganh": 3,
    "nganh_dan_dat": true,
-   "boi_canh": "Mạnh",
-   "meta": 2,
+   "boi_canh": "Trung tính",
+   "meta": 3,
    "meta_ds": [
+    "xu hướng",
     "hỗ trợ EMA10/20",
     "ngành dẫn dắt"
    ],
@@ -1363,9 +1055,139 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "BSI (Leading, hạng 97)",
-    "CTS (Leading, hạng 96)",
-    "ORS (Leading, hạng 80)"
+    "DPG (Leading, hạng 96)",
+    "CII (Leading, hạng 94)",
+    "CTD (Leading, hạng 91)"
+   ],
+   "nen_tang": null,
+   "nen_tang_ds": null
+  },
+  {
+   "ma": "CDC",
+   "setup": "52W",
+   "gia_kh": 23.95,
+   "cat_lo": 22.99,
+   "rui_ro": 4.0,
+   "gia": 22.8,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": 8.1,
+   "ghi_chu": "Vượt đỉnh 52 tuần với khối lượng lớn",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -38.7,
+    "dt": 19.3,
+    "nhan": null,
+    "lnst": 5
+   },
+   "nhom": "M",
+   "hang_1t": 68,
+   "ty_trong": 12.5,
+   "nganh": "Xây dựng",
+   "hang_nganh": 3,
+   "nganh_dan_dat": true,
+   "boi_canh": "Trung tính",
+   "meta": 3,
+   "meta_ds": [
+    "xu hướng",
+    "hỗ trợ EMA10/20",
+    "ngành dẫn dắt"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "DPG (Leading, hạng 96)",
+    "CII (Leading, hạng 94)",
+    "CTD (Leading, hạng 91)"
+   ],
+   "nen_tang": null,
+   "nen_tang_ds": null
+  },
+  {
+   "ma": "CDC",
+   "setup": "A+",
+   "gia_kh": 23.01,
+   "cat_lo": 22.09,
+   "rui_ro": 4.0,
+   "gia": 22.8,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": 8.1,
+   "ghi_chu": "EMA9 cắt lên MA20",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -38.7,
+    "dt": 19.3,
+    "nhan": null,
+    "lnst": 5
+   },
+   "nhom": "M",
+   "hang_1t": 68,
+   "ty_trong": 12.5,
+   "nganh": "Xây dựng",
+   "hang_nganh": 3,
+   "nganh_dan_dat": true,
+   "boi_canh": "Trung tính",
+   "meta": 3,
+   "meta_ds": [
+    "xu hướng",
+    "hỗ trợ EMA10/20",
+    "ngành dẫn dắt"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "DPG (Leading, hạng 96)",
+    "CII (Leading, hạng 94)",
+    "CTD (Leading, hạng 91)"
+   ],
+   "nen_tang": null,
+   "nen_tang_ds": null
+  },
+  {
+   "ma": "SHS",
+   "setup": "DAY",
+   "gia_kh": 13.81,
+   "cat_lo": 13.26,
+   "rui_ro": 4.0,
+   "gia": 13.6,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -20.0,
+   "ghi_chu": "Vượt đỉnh gần nhất 13,80 (đỉnh nền 13,80) sau khi giảm 47% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -57.5,
+    "dt": 22.8,
+    "nhan": null,
+    "lnst": 203
+   },
+   "nhom": "M",
+   "hang_1t": 94,
+   "ty_trong": 12.6,
+   "nganh": "Môi giới chứng khoán",
+   "hang_nganh": 5,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 1,
+   "meta_ds": [
+    "RS mạnh"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "BSI (Leading, hạng 98)",
+    "CTS (Leading, hạng 97)",
+    "ORS (Leading, hạng 79)"
    ],
    "nen_tang": 2,
    "nen_tang_ds": [
@@ -1374,230 +1196,93 @@
    ]
   },
   {
-   "ma": "CDC",
-   "setup": "PP",
-   "gia_kh": 22.73,
-   "cat_lo": 21.82,
+   "ma": "VND",
+   "setup": "DAY",
+   "gia_kh": 15.12,
+   "cat_lo": 14.51,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 14.9,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 4.7,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "rs": -6.5,
+   "ghi_chu": "Vượt đỉnh gần nhất 15,10 (đỉnh nền 15,10) sau khi giảm 36% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": -38.7,
-    "dt": 19.3,
+    "ln": -64.5,
+    "dt": -22.6,
     "nhan": null,
-    "lnst": 5
+    "lnst": 329
    },
    "nhom": "M",
-   "hang_1t": 66,
-   "ty_trong": 12.5,
-   "nganh": "Xây dựng",
-   "hang_nganh": 2,
-   "nganh_dan_dat": true,
-   "boi_canh": "Trung tính",
-   "meta": 3,
-   "meta_ds": [
-    "xu hướng",
-    "hỗ trợ EMA10/20",
-    "ngành dẫn dắt"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "DPG (Leading, hạng 95)",
-    "CTD (Leading, hạng 90)",
-    "VCG (Leading, hạng 84)"
-   ],
-   "nen_tang": null,
-   "nen_tang_ds": null
-  },
-  {
-   "ma": "AAS",
-   "setup": "52W",
-   "gia_kh": 12.0,
-   "cat_lo": 11.52,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": 27.4,
-   "ghi_chu": "Vượt đỉnh 52 tuần với khối lượng lớn",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -83.1,
-    "dt": -65.0,
-    "nhan": null,
-    "lnst": 19
-   },
-   "nhom": "M",
-   "hang_1t": 67,
-   "ty_trong": 12.5,
+   "hang_1t": 92,
+   "ty_trong": 12.4,
    "nganh": "Môi giới chứng khoán",
-   "hang_nganh": 3,
-   "nganh_dan_dat": true,
+   "hang_nganh": 5,
+   "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
-   "meta": 4,
+   "meta": 1,
    "meta_ds": [
-    "xu hướng",
-    "giá & KL cạn",
-    "hỗ trợ EMA10/20",
-    "ngành dẫn dắt"
+    "RS mạnh"
    ],
    "sieu": false,
    "radar": false,
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "BSI (Leading, hạng 97)",
-    "CTS (Leading, hạng 96)",
-    "ORS (Leading, hạng 80)"
+    "BSI (Leading, hạng 98)",
+    "CTS (Leading, hạng 97)",
+    "ORS (Leading, hạng 79)"
    ],
    "nen_tang": 1,
    "nen_tang_ds": [
-    "rẻ"
+    "cổ tức đều"
    ]
   },
   {
-   "ma": "CDC",
-   "setup": "52W",
-   "gia_kh": 23.95,
-   "cat_lo": 22.99,
+   "ma": "FTS",
+   "setup": "DAY",
+   "gia_kh": 20.37,
+   "cat_lo": 19.56,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 19.8,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 4.7,
-   "ghi_chu": "Vượt đỉnh 52 tuần với khối lượng lớn",
+   "rs": -17.0,
+   "ghi_chu": "Vượt đỉnh gần nhất 20,35 (đỉnh nền 20,35) sau khi giảm 44% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": -38.7,
-    "dt": 19.3,
+    "ln": -35.0,
+    "dt": -4.4,
     "nhan": null,
-    "lnst": 5
+    "lnst": 36
    },
    "nhom": "M",
-   "hang_1t": 66,
-   "ty_trong": 12.5,
-   "nganh": "Xây dựng",
-   "hang_nganh": 2,
-   "nganh_dan_dat": true,
-   "boi_canh": "Trung tính",
-   "meta": 3,
-   "meta_ds": [
-    "xu hướng",
-    "hỗ trợ EMA10/20",
-    "ngành dẫn dắt"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "DPG (Leading, hạng 95)",
-    "CTD (Leading, hạng 90)",
-    "VCG (Leading, hạng 84)"
-   ],
-   "nen_tang": null,
-   "nen_tang_ds": null
-  },
-  {
-   "ma": "AAS",
-   "setup": "A+",
-   "gia_kh": 10.3,
-   "cat_lo": 9.89,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": 27.4,
-   "ghi_chu": "EMA9 cắt lên MA20",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -83.1,
-    "dt": -65.0,
-    "nhan": null,
-    "lnst": 19
-   },
-   "nhom": "M",
-   "hang_1t": 67,
+   "hang_1t": 91,
    "ty_trong": 12.6,
    "nganh": "Môi giới chứng khoán",
-   "hang_nganh": 3,
-   "nganh_dan_dat": true,
+   "hang_nganh": 5,
+   "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
-   "meta": 4,
+   "meta": 2,
    "meta_ds": [
-    "xu hướng",
-    "giá & KL cạn",
     "hỗ trợ EMA10/20",
-    "ngành dẫn dắt"
+    "RS mạnh"
    ],
    "sieu": false,
    "radar": false,
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "BSI (Leading, hạng 97)",
-    "CTS (Leading, hạng 96)",
-    "ORS (Leading, hạng 80)"
+    "BSI (Leading, hạng 98)",
+    "CTS (Leading, hạng 97)",
+    "ORS (Leading, hạng 79)"
    ],
    "nen_tang": 1,
    "nen_tang_ds": [
-    "rẻ"
+    "cổ tức đều"
    ]
-  },
-  {
-   "ma": "CDC",
-   "setup": "B",
-   "gia_kh": 22.61,
-   "cat_lo": 21.71,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": 4.7,
-   "ghi_chu": "Giá vượt lên EMA9",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -38.7,
-    "dt": 19.3,
-    "nhan": null,
-    "lnst": 5
-   },
-   "nhom": "M",
-   "hang_1t": 66,
-   "ty_trong": 12.6,
-   "nganh": "Xây dựng",
-   "hang_nganh": 2,
-   "nganh_dan_dat": true,
-   "boi_canh": "Trung tính",
-   "meta": 3,
-   "meta_ds": [
-    "xu hướng",
-    "hỗ trợ EMA10/20",
-    "ngành dẫn dắt"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "DPG (Leading, hạng 95)",
-    "CTD (Leading, hạng 90)",
-    "VCG (Leading, hạng 84)"
-   ],
-   "nen_tang": null,
-   "nen_tang_ds": null
   },
   {
    "ma": "DXG",
@@ -1605,10 +1290,10 @@
    "gia_kh": 11.46,
    "cat_lo": 11.0,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 11.3,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -18.5,
+   "rs": -19.5,
    "ghi_chu": "Vượt đỉnh gần nhất 11,45 (đỉnh nền 11,45) sau khi giảm 44% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -1619,10 +1304,10 @@
     "lnst": 15
    },
    "nhom": "M",
-   "hang_1t": 93,
+   "hang_1t": 89,
    "ty_trong": 12.5,
    "nganh": "Bất động sản",
-   "hang_nganh": 5,
+   "hang_nganh": 6,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 2,
@@ -1635,9 +1320,9 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "HDC (Leading, hạng 100)",
+    "HDC (Leading, hạng 99)",
     "TCH (Leading, hạng 99)",
-    "SZC (Leading, hạng 94)"
+    "SZC (Leading, hạng 95)"
    ],
    "nen_tang": 0,
    "nen_tang_ds": []
@@ -1648,10 +1333,10 @@
    "gia_kh": 17.17,
    "cat_lo": 16.48,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 16.5,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -26.2,
+   "rs": -26.7,
    "ghi_chu": "Vượt đỉnh gần nhất 17,15 (đỉnh nền 17,15) sau khi giảm 52% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -1662,22 +1347,23 @@
     "lnst": 163
    },
    "nhom": "M",
-   "hang_1t": 91,
+   "hang_1t": 88,
    "ty_trong": 12.4,
    "nganh": "Sản xuất & Phân phối Điện",
-   "hang_nganh": 7,
+   "hang_nganh": 4,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
-   "meta": 2,
+   "meta": 1,
    "meta_ds": [
-    "hỗ trợ EMA10/20",
     "RS mạnh"
    ],
    "sieu": false,
    "radar": false,
    "nr_diem": null,
-   "vua_nganh": true,
-   "manh_hon": [],
+   "vua_nganh": false,
+   "manh_hon": [
+    "REE (Leading, hạng 70)"
+   ],
    "nen_tang": 2,
    "nen_tang_ds": [
     "rẻ",
@@ -1690,10 +1376,10 @@
    "gia_kh": 10.21,
    "cat_lo": 9.8,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 9.92,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -21.3,
+   "rs": -21.9,
    "ghi_chu": "Vượt đỉnh gần nhất 10,20 (đỉnh nền 10,20) sau khi giảm 43% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -1707,7 +1393,7 @@
    "hang_1t": 88,
    "ty_trong": 12.5,
    "nganh": "Sản xuất ô tô",
-   "hang_nganh": 10,
+   "hang_nganh": 12,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 1,
@@ -1727,14 +1413,14 @@
   {
    "ma": "IJC",
    "setup": "DAY",
-   "gia_kh": 7.48,
-   "cat_lo": 7.18,
-   "rui_ro": 4.0,
-   "gia": null,
+   "gia_kh": 7.4,
+   "cat_lo": 7.1,
+   "rui_ro": 4.1,
+   "gia": 7.23,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -22.0,
-   "ghi_chu": "Vượt đỉnh gần nhất 7,47 (đỉnh nền 7,47) sau khi giảm 46% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "rs": -23.7,
+   "ghi_chu": "Vượt đỉnh gần nhất 7,39 (đỉnh nền 7,47) sau khi giảm 46% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
@@ -1744,10 +1430,99 @@
     "lnst": 134
    },
    "nhom": "M",
-   "hang_1t": 88,
+   "hang_1t": 85,
+   "ty_trong": 12.3,
+   "nganh": "Bất động sản",
+   "hang_nganh": 6,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 2,
+   "meta_ds": [
+    "hỗ trợ EMA10/20",
+    "RS mạnh"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "HDC (Leading, hạng 99)",
+    "TCH (Leading, hạng 99)",
+    "SZC (Leading, hạng 95)"
+   ],
+   "nen_tang": null,
+   "nen_tang_ds": null
+  },
+  {
+   "ma": "DIG",
+   "setup": "DAY",
+   "gia_kh": 10.71,
+   "cat_lo": 10.28,
+   "rui_ro": 4.0,
+   "gia": 10.5,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -25.1,
+   "ghi_chu": "Vượt đỉnh gần nhất 10,70 (đỉnh nền 10,70) sau khi giảm 55% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -63.6,
+    "dt": -43.2,
+    "nhan": null,
+    "lnst": 77
+   },
+   "nhom": "M",
+   "hang_1t": 84,
    "ty_trong": 12.5,
    "nganh": "Bất động sản",
-   "hang_nganh": 5,
+   "hang_nganh": 6,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 1,
+   "meta_ds": [
+    "RS mạnh"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "HDC (Leading, hạng 99)",
+    "TCH (Leading, hạng 99)",
+    "SZC (Leading, hạng 95)"
+   ],
+   "nen_tang": 3,
+   "nen_tang_ds": [
+    "rẻ",
+    "cổ tức đều",
+    "khối ngoại mua"
+   ]
+  },
+  {
+   "ma": "NLG",
+   "setup": "DAY",
+   "gia_kh": 24.52,
+   "cat_lo": 23.54,
+   "rui_ro": 4.0,
+   "gia": 23.9,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -9.6,
+   "ghi_chu": "Vượt đỉnh gần nhất 24,50 (đỉnh nền 24,50) sau khi giảm 44% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -96.7,
+    "dt": -82.5,
+    "nhan": null,
+    "lnst": 5
+   },
+   "nhom": "M",
+   "hang_1t": 82,
+   "ty_trong": 12.5,
+   "nganh": "Bất động sản",
+   "hang_nganh": 6,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 3,
@@ -1761,36 +1536,82 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "HDC (Leading, hạng 100)",
+    "HDC (Leading, hạng 99)",
     "TCH (Leading, hạng 99)",
-    "SZC (Leading, hạng 94)"
+    "SZC (Leading, hạng 95)"
+   ],
+   "nen_tang": 2,
+   "nen_tang_ds": [
+    "rẻ",
+    "cổ tức đều"
+   ]
+  },
+  {
+   "ma": "NTL",
+   "setup": "DAY",
+   "gia_kh": 13.56,
+   "cat_lo": 13.02,
+   "rui_ro": 4.0,
+   "gia": 13.25,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -17.7,
+   "ghi_chu": "Vượt đỉnh gần nhất 13,55 (đỉnh nền 13,55) sau khi giảm 41% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -703.1,
+    "dt": 15.2,
+    "nhan": null,
+    "lnst": -77
+   },
+   "nhom": "M",
+   "hang_1t": 82,
+   "ty_trong": 12.6,
+   "nganh": "Bất động sản",
+   "hang_nganh": 6,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 2,
+   "meta_ds": [
+    "hỗ trợ EMA10/20",
+    "RS mạnh"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "HDC (Leading, hạng 99)",
+    "TCH (Leading, hạng 99)",
+    "SZC (Leading, hạng 95)"
    ],
    "nen_tang": null,
    "nen_tang_ds": null
   },
   {
-   "ma": "DIG",
+   "ma": "VCI",
    "setup": "DAY",
-   "gia_kh": 10.71,
-   "cat_lo": 10.28,
+   "gia_kh": 20.42,
+   "cat_lo": 19.6,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 20.2,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -22.9,
-   "ghi_chu": "Vượt đỉnh gần nhất 10,70 (đỉnh nền 10,70) sau khi giảm 55% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "rs": -22.2,
+   "ghi_chu": "Vượt đỉnh gần nhất 20,40 (đỉnh nền 20,85) sau khi giảm 39% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": -63.6,
-    "dt": -43.2,
+    "ln": -12.6,
+    "dt": -9.6,
     "nhan": null,
-    "lnst": 77
+    "lnst": 367
    },
    "nhom": "M",
-   "hang_1t": 87,
+   "hang_1t": 81,
    "ty_trong": 12.5,
-   "nganh": "Bất động sản",
+   "nganh": "Môi giới chứng khoán",
    "hang_nganh": 5,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
@@ -1803,84 +1624,38 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "HDC (Leading, hạng 100)",
-    "TCH (Leading, hạng 99)",
-    "SZC (Leading, hạng 94)"
-   ],
-   "nen_tang": 3,
-   "nen_tang_ds": [
-    "rẻ",
-    "cổ tức đều",
-    "khối ngoại mua"
-   ]
-  },
-  {
-   "ma": "KBC",
-   "setup": "DAY",
-   "gia_kh": 27.43,
-   "cat_lo": 26.47,
-   "rui_ro": 3.5,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -16.6,
-   "ghi_chu": "Vượt đỉnh gần nhất 27,40 (đỉnh nền 27,40) sau khi giảm 34% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 196.6,
-    "dt": 136.6,
-    "nhan": null,
-    "lnst": 911
-   },
-   "nhom": "M",
-   "hang_1t": 79,
-   "ty_trong": 14.3,
-   "nganh": "Bất động sản",
-   "hang_nganh": 5,
-   "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
-   "meta": 1,
-   "meta_ds": [
-    "hỗ trợ EMA10/20"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "HDC (Leading, hạng 100)",
-    "TCH (Leading, hạng 99)",
-    "SZC (Leading, hạng 94)"
+    "BSI (Leading, hạng 98)",
+    "CTS (Leading, hạng 97)",
+    "ORS (Leading, hạng 79)"
    ],
    "nen_tang": 1,
    "nen_tang_ds": [
-    "rẻ"
+    "cổ tức đều"
    ]
   },
   {
-   "ma": "NLG",
+   "ma": "SSI",
    "setup": "DAY",
-   "gia_kh": 24.52,
-   "cat_lo": 23.54,
+   "gia_kh": 20.82,
+   "cat_lo": 19.99,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 20.55,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -8.9,
-   "ghi_chu": "Vượt đỉnh gần nhất 24,50 (đỉnh nền 24,50) sau khi giảm 44% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "rs": -8.5,
+   "ghi_chu": "Vượt đỉnh gần nhất 20,80 (đỉnh nền 21,00) sau khi giảm 30% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": -96.7,
-    "dt": -82.5,
+    "ln": -23.7,
+    "dt": -24.2,
     "nhan": null,
-    "lnst": 5
+    "lnst": 1125
    },
    "nhom": "M",
    "hang_1t": 78,
    "ty_trong": 12.5,
-   "nganh": "Bất động sản",
+   "nganh": "Môi giới chứng khoán",
    "hang_nganh": 5,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
@@ -1894,44 +1669,44 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "HDC (Leading, hạng 100)",
-    "TCH (Leading, hạng 99)",
-    "SZC (Leading, hạng 94)"
+    "BSI (Leading, hạng 98)",
+    "CTS (Leading, hạng 97)",
+    "ORS (Leading, hạng 79)"
    ],
-   "nen_tang": 2,
+   "nen_tang": 1,
    "nen_tang_ds": [
-    "rẻ",
     "cổ tức đều"
    ]
   },
   {
-   "ma": "DBC",
+   "ma": "SHB",
    "setup": "DAY",
-   "gia_kh": 16.57,
-   "cat_lo": 15.9,
+   "gia_kh": 11.31,
+   "cat_lo": 10.86,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 11.15,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -18.6,
-   "ghi_chu": "Vượt đỉnh gần nhất 16,55 (đỉnh nền 16,55) sau khi giảm 41% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "rs": -20.4,
+   "ghi_chu": "Vượt đỉnh gần nhất 11,30 (đỉnh nền 11,30) sau khi giảm 42% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": -41.6,
-    "dt": 6.1,
+    "ln": 58.0,
+    "dt": null,
     "nhan": null,
-    "lnst": 200
+    "lnst": 4119
    },
    "nhom": "M",
-   "hang_1t": 74,
-   "ty_trong": 12.4,
-   "nganh": "Nuôi trồng nông & hải sản",
-   "hang_nganh": 9,
+   "hang_1t": 75,
+   "ty_trong": 12.6,
+   "nganh": "Ngân hàng",
+   "hang_nganh": 7,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
-   "meta": 1,
+   "meta": 2,
    "meta_ds": [
+    "giá & KL cạn",
     "hỗ trợ EMA10/20"
    ],
    "sieu": false,
@@ -1939,25 +1714,77 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "BAF (Leading, hạng 70)"
+    "MSB (Leading, hạng 89)",
+    "TPB (Leading, hạng 87)",
+    "CTG (Leading, hạng 77)"
    ],
-   "nen_tang": 2,
+   "nen_tang": 4,
    "nen_tang_ds": [
     "rẻ",
-    "cổ tức đều"
+    "LN tăng bền",
+    "cổ tức đều",
+    "khối ngoại mua"
+   ]
+  },
+  {
+   "ma": "SHB",
+   "setup": "BT",
+   "gia_kh": 11.16,
+   "cat_lo": 10.27,
+   "rui_ro": 8.0,
+   "gia": 11.15,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -20.4,
+   "ghi_chu": "Bán tháo ngày 09/10 (KL 3.2 lần TB, rút chân) sau khi giảm 35% từ đỉnh 1 năm, nền 23 phiên KL cạn – mua khi vol vào vượt 11,16; mẫu ít dữ liệu kiểm định, tỷ trọng nhỏ",
+   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": 58.0,
+    "dt": null,
+    "nhan": null,
+    "lnst": 4119
+   },
+   "nhom": "M",
+   "hang_1t": 75,
+   "ty_trong": 6.3,
+   "nganh": "Ngân hàng",
+   "hang_nganh": 7,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 2,
+   "meta_ds": [
+    "giá & KL cạn",
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "MSB (Leading, hạng 89)",
+    "TPB (Leading, hạng 87)",
+    "CTG (Leading, hạng 77)"
+   ],
+   "nen_tang": 4,
+   "nen_tang_ds": [
+    "rẻ",
+    "LN tăng bền",
+    "cổ tức đều",
+    "khối ngoại mua"
    ]
   },
   {
    "ma": "PDR",
    "setup": "DAY",
-   "gia_kh": 12.46,
-   "cat_lo": 11.96,
+   "gia_kh": 12.01,
+   "cat_lo": 11.53,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 11.8,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -27.2,
-   "ghi_chu": "Vượt đỉnh gần nhất 12,45 (đỉnh nền 12,45) sau khi giảm 52% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "rs": -28.7,
+   "ghi_chu": "Vượt đỉnh gần nhất 12,00 (đỉnh nền 12,45) sau khi giảm 52% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
@@ -1967,10 +1794,10 @@
     "lnst": 10
    },
    "nhom": "M",
-   "hang_1t": 74,
+   "hang_1t": 73,
    "ty_trong": 12.5,
    "nganh": "Bất động sản",
-   "hang_nganh": 5,
+   "hang_nganh": 6,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 1,
@@ -1982,9 +1809,139 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "HDC (Leading, hạng 100)",
+    "HDC (Leading, hạng 99)",
     "TCH (Leading, hạng 99)",
-    "SZC (Leading, hạng 94)"
+    "SZC (Leading, hạng 95)"
+   ],
+   "nen_tang": 1,
+   "nen_tang_ds": [
+    "rẻ"
+   ]
+  },
+  {
+   "ma": "TCX",
+   "setup": "DAY",
+   "gia_kh": 29.38,
+   "cat_lo": 28.2,
+   "rui_ro": 4.0,
+   "gia": 28.8,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -18.7,
+   "ghi_chu": "Vượt đỉnh gần nhất 29,35 (đỉnh nền 29,95) sau khi giảm 40% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": 7.9,
+    "dt": 11.7,
+    "nhan": null,
+    "lnst": 1748
+   },
+   "nhom": "M",
+   "hang_1t": 73,
+   "ty_trong": 12.4,
+   "nganh": "Môi giới chứng khoán",
+   "hang_nganh": 5,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 2,
+   "meta_ds": [
+    "giá & KL cạn",
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "BSI (Leading, hạng 98)",
+    "CTS (Leading, hạng 97)",
+    "ORS (Leading, hạng 79)"
+   ],
+   "nen_tang": 0,
+   "nen_tang_ds": []
+  },
+  {
+   "ma": "DBC",
+   "setup": "DAY",
+   "gia_kh": 16.42,
+   "cat_lo": 15.76,
+   "rui_ro": 4.0,
+   "gia": 16.2,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -18.6,
+   "ghi_chu": "Vượt đỉnh gần nhất 16,40 (đỉnh nền 16,55) sau khi giảm 41% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -41.6,
+    "dt": 6.1,
+    "nhan": null,
+    "lnst": 200
+   },
+   "nhom": "M",
+   "hang_1t": 72,
+   "ty_trong": 12.4,
+   "nganh": "Nuôi trồng nông & hải sản",
+   "hang_nganh": 11,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 1,
+   "meta_ds": [
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "BAF (Leading, hạng 67)"
+   ],
+   "nen_tang": 2,
+   "nen_tang_ds": [
+    "rẻ",
+    "cổ tức đều"
+   ]
+  },
+  {
+   "ma": "VRE",
+   "setup": "DAY",
+   "gia_kh": 24.47,
+   "cat_lo": 23.5,
+   "rui_ro": 4.0,
+   "gia": 24.1,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -26.9,
+   "ghi_chu": "Vượt đỉnh gần nhất 24,45 (đỉnh nền 25,50) sau khi giảm 40% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": 10.6,
+    "dt": 5.5,
+    "nhan": null,
+    "lnst": 1522
+   },
+   "nhom": "M",
+   "hang_1t": 70,
+   "ty_trong": 12.6,
+   "nganh": "Bất động sản",
+   "hang_nganh": 6,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 1,
+   "meta_ds": [
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "HDC (Leading, hạng 99)",
+    "TCH (Leading, hạng 99)",
+    "SZC (Leading, hạng 95)"
    ],
    "nen_tang": 1,
    "nen_tang_ds": [
@@ -1997,10 +1954,10 @@
    "gia_kh": 13.01,
    "cat_lo": 12.49,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 12.9,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -17.8,
+   "rs": -19.4,
    "ghi_chu": "Vượt đỉnh gần nhất 13,00 (đỉnh nền 13,00) sau khi giảm 35% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -2011,10 +1968,10 @@
     "lnst": 33
    },
    "nhom": "M",
-   "hang_1t": 72,
+   "hang_1t": 69,
    "ty_trong": 12.5,
    "nganh": "Sản xuất ô tô",
-   "hang_nganh": 10,
+   "hang_nganh": 12,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 1,
@@ -2032,76 +1989,29 @@
    "nen_tang_ds": []
   },
   {
-   "ma": "IDC",
+   "ma": "KBC",
    "setup": "DAY",
-   "gia_kh": 36.84,
-   "cat_lo": 35.36,
-   "rui_ro": 4.0,
-   "gia": null,
+   "gia_kh": 27.43,
+   "cat_lo": 26.47,
+   "rui_ro": 3.5,
+   "gia": 27.2,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -5.4,
-   "ghi_chu": "Vượt đỉnh gần nhất 36,80 (đỉnh nền 36,80) sau khi giảm 34% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "rs": -16.6,
+   "ghi_chu": "Vượt đỉnh gần nhất 27,40 (đỉnh nền 27,65) sau khi giảm 34% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": -41.5,
-    "dt": -27.7,
+    "ln": 196.6,
+    "dt": 136.6,
     "nhan": null,
-    "lnst": 493
+    "lnst": 911
    },
    "nhom": "M",
-   "hang_1t": 63,
-   "ty_trong": 12.4,
+   "hang_1t": 68,
+   "ty_trong": 14.3,
    "nganh": "Bất động sản",
-   "hang_nganh": 5,
-   "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
-   "meta": 3,
-   "meta_ds": [
-    "xu hướng",
-    "giá & KL cạn",
-    "hỗ trợ EMA10/20"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "HDC (Leading, hạng 100)",
-    "TCH (Leading, hạng 99)",
-    "SZC (Leading, hạng 94)"
-   ],
-   "nen_tang": 2,
-   "nen_tang_ds": [
-    "rẻ",
-    "cổ tức đều"
-   ]
-  },
-  {
-   "ma": "KHG",
-   "setup": "DAY",
-   "gia_kh": 4.65,
-   "cat_lo": 4.47,
-   "rui_ro": 3.9,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -12.7,
-   "ghi_chu": "Vượt đỉnh gần nhất 4,65 (đỉnh nền 4,65) sau khi giảm 43% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 111.7,
-    "dt": 160.5,
-    "nhan": null,
-    "lnst": 39
-   },
-   "nhom": "M",
-   "hang_1t": 63,
-   "ty_trong": 12.9,
-   "nganh": "Bất động sản",
-   "hang_nganh": 5,
+   "hang_nganh": 6,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 1,
@@ -2113,27 +2023,26 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "HDC (Leading, hạng 100)",
+    "HDC (Leading, hạng 99)",
     "TCH (Leading, hạng 99)",
-    "SZC (Leading, hạng 94)"
+    "SZC (Leading, hạng 95)"
    ],
-   "nen_tang": 2,
+   "nen_tang": 1,
    "nen_tang_ds": [
-    "rẻ",
-    "khối ngoại mua"
+    "rẻ"
    ]
   },
   {
    "ma": "CSV",
-   "setup": "LUK",
-   "gia_kh": 23.05,
-   "cat_lo": 22.29,
-   "rui_ro": 3.3,
-   "gia": null,
+   "setup": "LUK2",
+   "gia_kh": 23.3,
+   "cat_lo": 22.59,
+   "rui_ro": 3.0,
+   "gia": 22.9,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -14.2,
-   "ghi_chu": "Vượt đỉnh hôm qua sau nhịp chỉnh về EMA9",
+   "rs": -12.4,
+   "ghi_chu": "Vượt đỉnh nhịp chỉnh 23,30 (chạm hỗ trợ 1 phiên trước) – báo ngay khi vượt, vào 1/2, thêm khi KL xác nhận",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
@@ -2143,15 +2052,17 @@
     "lnst": 85
    },
    "nhom": "M",
-   "hang_1t": 55,
-   "ty_trong": 15.2,
+   "hang_1t": 66,
+   "ty_trong": 16.4,
    "nganh": "Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
-   "hang_nganh": 11,
+   "hang_nganh": 10,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
-   "meta": 1,
+   "meta": 3,
    "meta_ds": [
-    "xu hướng"
+    "xu hướng",
+    "giá & KL cạn",
+    "hỗ trợ EMA10/20"
    ],
    "sieu": false,
    "radar": false,
@@ -2171,10 +2082,10 @@
    "gia_kh": 23.37,
    "cat_lo": 22.44,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 22.9,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -14.2,
+   "rs": -12.4,
    "ghi_chu": "Vượt đỉnh gần nhất 23,35 (đỉnh nền 24,75) sau khi giảm 42% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -2185,15 +2096,17 @@
     "lnst": 85
    },
    "nhom": "M",
-   "hang_1t": 55,
+   "hang_1t": 66,
    "ty_trong": 12.6,
    "nganh": "Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
-   "hang_nganh": 11,
+   "hang_nganh": 10,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
-   "meta": 1,
+   "meta": 3,
    "meta_ds": [
-    "xu hướng"
+    "xu hướng",
+    "giá & KL cạn",
+    "hỗ trợ EMA10/20"
    ],
    "sieu": false,
    "radar": false,
@@ -2208,196 +2121,28 @@
    ]
   },
   {
-   "ma": "PET",
-   "setup": "LUK",
-   "gia_kh": 51.5,
-   "cat_lo": 49.5,
-   "rui_ro": 3.9,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": 54.8,
-   "ghi_chu": "Vượt đỉnh hôm qua sau nhịp chỉnh về EMA9",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -34.2,
-    "dt": 32.5,
-    "nhan": null,
-    "lnst": 69
-   },
-   "nhom": "M",
-   "hang_1t": 52,
-   "ty_trong": 12.9,
-   "nganh": "Phân phối hàng chuyên dụng",
-   "hang_nganh": 12,
-   "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
-   "meta": 1,
-   "meta_ds": [
-    "xu hướng"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": true,
-   "manh_hon": [],
-   "nen_tang": 0,
-   "nen_tang_ds": []
-  },
-  {
-   "ma": "LAS",
+   "ma": "IDC",
    "setup": "DAY",
-   "gia_kh": 11.81,
-   "cat_lo": 11.34,
+   "gia_kh": 36.34,
+   "cat_lo": 34.88,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 35.8,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -21.4,
-   "ghi_chu": "Vượt đỉnh gần nhất 11,80 (đỉnh nền 12,50) sau khi giảm 43% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "rs": -6.7,
+   "ghi_chu": "Vượt đỉnh gần nhất 36,30 (đỉnh nền 36,80) sau khi giảm 34% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": -20.3,
-    "dt": -6.8,
+    "ln": -41.5,
+    "dt": -27.7,
     "nhan": null,
-    "lnst": 16
-   },
-   "nhom": "M",
-   "hang_1t": 45,
-   "ty_trong": 12.6,
-   "nganh": "Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
-   "hang_nganh": 11,
-   "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
-   "meta": 2,
-   "meta_ds": [
-    "xu hướng",
-    "giá & KL cạn"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "CSV (Leading, hạng 55)",
-    "BFC (Leading, hạng 31)",
-    "PLC (hạng 70)"
-   ],
-   "nen_tang": null,
-   "nen_tang_ds": null
-  },
-  {
-   "ma": "VGT",
-   "setup": "DAY",
-   "gia_kh": 11.61,
-   "cat_lo": 11.15,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -0.9,
-   "ghi_chu": "Vượt đỉnh gần nhất 11,60 (đỉnh nền 12,20) sau khi giảm 32% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 44.1,
-    "dt": 4.8,
-    "nhan": null,
-    "lnst": 324
-   },
-   "nhom": "M",
-   "hang_1t": 34,
-   "ty_trong": 12.6,
-   "nganh": "Hàng May mặc",
-   "hang_nganh": 8,
-   "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
-   "meta": 1,
-   "meta_ds": [
-    "hỗ trợ EMA10/20"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "MSH (Leading, hạng 83)"
-   ],
-   "nen_tang": null,
-   "nen_tang_ds": null
-  },
-  {
-   "ma": "NAB",
-   "setup": "PP",
-   "gia_kh": 12.93,
-   "cat_lo": 12.41,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": 3.2,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 23.0,
-    "dt": null,
-    "nhan": null,
-    "lnst": 1269
-   },
-   "nhom": "M",
-   "hang_1t": 68,
-   "ty_trong": 12.4,
-   "nganh": "Ngân hàng",
-   "hang_nganh": 6,
-   "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
-   "meta": 2,
-   "meta_ds": [
-    "xu hướng",
-    "hỗ trợ EMA10/20"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "MSB (Leading, hạng 87)",
-    "TPB (Leading, hạng 85)",
-    "CTG (Leading, hạng 81)"
-   ],
-   "nen_tang": 3,
-   "nen_tang_ds": [
-    "rẻ",
-    "LN tăng bền",
-    "khối ngoại mua"
-   ]
-  },
-  {
-   "ma": "VIB",
-   "setup": "PP",
-   "gia_kh": 14.19,
-   "cat_lo": 13.62,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -3.6,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 18.5,
-    "dt": null,
-    "nhan": null,
-    "lnst": 1925
+    "lnst": 493
    },
    "nhom": "M",
    "hang_1t": 65,
    "ty_trong": 12.4,
-   "nganh": "Ngân hàng",
+   "nganh": "Bất động sản",
    "hang_nganh": 6,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
@@ -2412,35 +2157,383 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "MSB (Leading, hạng 87)",
-    "TPB (Leading, hạng 85)",
-    "CTG (Leading, hạng 81)"
+    "HDC (Leading, hạng 99)",
+    "TCH (Leading, hạng 99)",
+    "SZC (Leading, hạng 95)"
    ],
-   "nen_tang": 3,
+   "nen_tang": 2,
    "nen_tang_ds": [
     "rẻ",
-    "cổ tức đều",
+    "cổ tức đều"
+   ]
+  },
+  {
+   "ma": "VDS",
+   "setup": "DAY",
+   "gia_kh": 10.0,
+   "cat_lo": 9.6,
+   "rui_ro": 4.0,
+   "gia": 9.94,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -27.4,
+   "ghi_chu": "Vượt đỉnh gần nhất 9,99 (đỉnh nền 10,15) sau khi giảm 53% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -139.8,
+    "dt": -59.1,
+    "nhan": null,
+    "lnst": -104
+   },
+   "nhom": "M",
+   "hang_1t": 64,
+   "ty_trong": 12.5,
+   "nganh": "Môi giới chứng khoán",
+   "hang_nganh": 5,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 2,
+   "meta_ds": [
+    "giá & KL cạn",
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "BSI (Leading, hạng 98)",
+    "CTS (Leading, hạng 97)",
+    "ORS (Leading, hạng 79)"
+   ],
+   "nen_tang": null,
+   "nen_tang_ds": null
+  },
+  {
+   "ma": "NVB",
+   "setup": "LUK2",
+   "gia_kh": 15.6,
+   "cat_lo": 15.02,
+   "rui_ro": 3.7,
+   "gia": 15.4,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": 43.9,
+   "ghi_chu": "Vượt đỉnh nhịp chỉnh 15,60 (chạm hỗ trợ 1 phiên trước) – báo ngay khi vượt, vào 1/2, thêm khi KL xác nhận",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": 346.3,
+    "dt": null,
+    "nhan": null,
+    "lnst": 847
+   },
+   "nhom": "M",
+   "hang_1t": 63,
+   "ty_trong": 13.4,
+   "nganh": "Ngân hàng",
+   "hang_nganh": 7,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 1,
+   "meta_ds": [
+    "xu hướng"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "MSB (Leading, hạng 89)",
+    "TPB (Leading, hạng 87)",
+    "CTG (Leading, hạng 77)"
+   ],
+   "nen_tang": 1,
+   "nen_tang_ds": [
+    "LN tăng bền"
+   ]
+  },
+  {
+   "ma": "PET",
+   "setup": "LUK",
+   "gia_kh": 50.7,
+   "cat_lo": 49.5,
+   "rui_ro": 2.4,
+   "gia": 50.7,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": 56.4,
+   "ghi_chu": "Vượt đỉnh hôm qua sau nhịp chỉnh về EMA9",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -34.2,
+    "dt": 32.5,
+    "nhan": null,
+    "lnst": 69
+   },
+   "nhom": "M",
+   "hang_1t": 58,
+   "ty_trong": 21.1,
+   "nganh": "Phân phối hàng chuyên dụng",
+   "hang_nganh": 8,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 3,
+   "meta_ds": [
+    "xu hướng",
+    "giá & KL cạn",
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "FRT (Leading, hạng 63)"
+   ],
+   "nen_tang": 0,
+   "nen_tang_ds": []
+  },
+  {
+   "ma": "KHG",
+   "setup": "DAY",
+   "gia_kh": 4.65,
+   "cat_lo": 4.47,
+   "rui_ro": 3.9,
+   "gia": 4.6,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -13.2,
+   "ghi_chu": "Vượt đỉnh gần nhất 4,65 (đỉnh nền 4,65) sau khi giảm 43% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": 111.7,
+    "dt": 160.5,
+    "nhan": null,
+    "lnst": 39
+   },
+   "nhom": "M",
+   "hang_1t": 57,
+   "ty_trong": 12.9,
+   "nganh": "Bất động sản",
+   "hang_nganh": 6,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 1,
+   "meta_ds": [
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "HDC (Leading, hạng 99)",
+    "TCH (Leading, hạng 99)",
+    "SZC (Leading, hạng 95)"
+   ],
+   "nen_tang": 2,
+   "nen_tang_ds": [
+    "rẻ",
     "khối ngoại mua"
    ]
   },
   {
-   "ma": "CLI",
-   "setup": "PP",
-   "gia_kh": 28.58,
-   "cat_lo": 27.44,
+   "ma": "VGT",
+   "setup": "DAY",
+   "gia_kh": 11.51,
+   "cat_lo": 11.05,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 11.4,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 20.3,
+   "rs": -0.9,
+   "ghi_chu": "Vượt đỉnh gần nhất 11,50 (đỉnh nền 12,20) sau khi giảm 32% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": 44.1,
+    "dt": 4.8,
+    "nhan": null,
+    "lnst": 324
+   },
+   "nhom": "M",
+   "hang_1t": 44,
+   "ty_trong": 12.5,
+   "nganh": "Hàng May mặc",
+   "hang_nganh": 9,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 1,
+   "meta_ds": [
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "MSH (Leading, hạng 80)"
+   ],
+   "nen_tang": null,
+   "nen_tang_ds": null
+  },
+  {
+   "ma": "TNG",
+   "setup": "DAY",
+   "gia_kh": 18.29,
+   "cat_lo": 17.56,
+   "rui_ro": 4.0,
+   "gia": 17.5,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -5.5,
+   "ghi_chu": "Vượt đỉnh gần nhất 18,27 (đỉnh nền 19,70) sau khi giảm 35% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": 29.5,
+    "dt": 22.6,
+    "nhan": null,
+    "lnst": 152
+   },
+   "nhom": "M",
+   "hang_1t": 41,
+   "ty_trong": 12.5,
+   "nganh": "Hàng May mặc",
+   "hang_nganh": 9,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 1,
+   "meta_ds": [
+    "xu hướng"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "MSH (Leading, hạng 80)"
+   ],
+   "nen_tang": 3,
+   "nen_tang_ds": [
+    "rẻ",
+    "LN tăng bền",
+    "cổ tức đều"
+   ]
+  },
+  {
+   "ma": "DXP",
+   "setup": "LUK2",
+   "gia_kh": 14.6,
+   "cat_lo": 14.23,
+   "rui_ro": 2.5,
+   "gia": 14.6,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -2.7,
+   "ghi_chu": "Vượt đỉnh nhịp chỉnh 14,60 (chạm hỗ trợ 1 phiên trước) – báo ngay khi vượt, vào 1/2, thêm khi KL xác nhận",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": 98.4,
+    "dt": 128.5,
+    "nhan": null,
+    "lnst": 58
+   },
+   "nhom": "M",
+   "hang_1t": 36,
+   "ty_trong": 19.7,
+   "nganh": "Kho bãi, hậu cần và bảo dưỡng",
+   "hang_nganh": 14,
+   "nganh_dan_dat": false,
+   "boi_canh": "Yếu",
+   "meta": 1,
+   "meta_ds": [
+    "xu hướng"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "VSC (hạng 75)"
+   ],
+   "nen_tang": null,
+   "nen_tang_ds": null
+  },
+  {
+   "ma": "BVS",
+   "setup": "PP",
+   "gia_kh": 28.08,
+   "cat_lo": 26.95,
+   "rui_ro": 4.0,
+   "gia": 27.8,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": 7.3,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": null,
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -79.4,
+    "dt": -39.7,
+    "nhan": null,
+    "lnst": 17
+   },
    "nhom": "M",
-   "hang_1t": 64,
+   "hang_1t": 78,
+   "ty_trong": 12.4,
+   "nganh": "Môi giới chứng khoán",
+   "hang_nganh": 5,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 1,
+   "meta_ds": [
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "BSI (Leading, hạng 98)",
+    "CTS (Leading, hạng 97)",
+    "ORS (Leading, hạng 79)"
+   ],
+   "nen_tang": 2,
+   "nen_tang_ds": [
+    "rẻ",
+    "cổ tức đều"
+   ]
+  },
+  {
+   "ma": "BAF",
+   "setup": "PP",
+   "gia_kh": 31.26,
+   "cat_lo": 30.01,
+   "rui_ro": 4.0,
+   "gia": 30.95,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": 10.1,
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -5.4,
+    "dt": 81.9,
+    "nhan": null,
+    "lnst": 20
+   },
+   "nhom": "M",
+   "hang_1t": 67,
    "ty_trong": 12.5,
-   "nganh": "Kim Loại màu",
-   "hang_nganh": null,
+   "nganh": "Nuôi trồng nông & hải sản",
+   "hang_nganh": 11,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 2,
@@ -2451,21 +2544,158 @@
    "sieu": false,
    "radar": false,
    "nr_diem": null,
-   "vua_nganh": false,
+   "vua_nganh": true,
    "manh_hon": [],
-   "nen_tang": null,
-   "nen_tang_ds": null
+   "nen_tang": 1,
+   "nen_tang_ds": [
+    "cổ tức đều"
+   ]
+  },
+  {
+   "ma": "CSV",
+   "setup": "PP",
+   "gia_kh": 23.13,
+   "cat_lo": 22.2,
+   "rui_ro": 4.0,
+   "gia": 22.9,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -12.4,
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": 47.9,
+    "dt": 59.6,
+    "nhan": null,
+    "lnst": 85
+   },
+   "nhom": "M",
+   "hang_1t": 66,
+   "ty_trong": 12.4,
+   "nganh": "Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
+   "hang_nganh": 10,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 3,
+   "meta_ds": [
+    "xu hướng",
+    "giá & KL cạn",
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": true,
+   "manh_hon": [],
+   "nen_tang": 3,
+   "nen_tang_ds": [
+    "rẻ",
+    "LN tăng bền",
+    "cổ tức đều"
+   ]
+  },
+  {
+   "ma": "IDC",
+   "setup": "PP",
+   "gia_kh": 36.16,
+   "cat_lo": 34.71,
+   "rui_ro": 4.0,
+   "gia": 35.8,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -6.7,
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -41.5,
+    "dt": -27.7,
+    "nhan": null,
+    "lnst": 493
+   },
+   "nhom": "M",
+   "hang_1t": 65,
+   "ty_trong": 12.5,
+   "nganh": "Bất động sản",
+   "hang_nganh": 6,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 3,
+   "meta_ds": [
+    "xu hướng",
+    "giá & KL cạn",
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "HDC (Leading, hạng 99)",
+    "TCH (Leading, hạng 99)",
+    "SZC (Leading, hạng 95)"
+   ],
+   "nen_tang": 2,
+   "nen_tang_ds": [
+    "rẻ",
+    "cổ tức đều"
+   ]
+  },
+  {
+   "ma": "NVB",
+   "setup": "PP",
+   "gia_kh": 15.55,
+   "cat_lo": 14.93,
+   "rui_ro": 4.0,
+   "gia": 15.4,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": 43.9,
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": 346.3,
+    "dt": null,
+    "nhan": null,
+    "lnst": 847
+   },
+   "nhom": "M",
+   "hang_1t": 63,
+   "ty_trong": 12.5,
+   "nganh": "Ngân hàng",
+   "hang_nganh": 7,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 1,
+   "meta_ds": [
+    "xu hướng"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "MSB (Leading, hạng 89)",
+    "TPB (Leading, hạng 87)",
+    "CTG (Leading, hạng 77)"
+   ],
+   "nen_tang": 1,
+   "nen_tang_ds": [
+    "LN tăng bền"
+   ]
   },
   {
    "ma": "NTP",
    "setup": "PP",
-   "gia_kh": 55.35,
-   "cat_lo": 53.13,
+   "gia_kh": 55.15,
+   "cat_lo": 52.94,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 54.6,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 9.3,
+   "rs": 8.5,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -2496,29 +2726,115 @@
    "nen_tang_ds": null
   },
   {
-   "ma": "CSV",
+   "ma": "GMD",
    "setup": "PP",
-   "gia_kh": 22.83,
-   "cat_lo": 21.91,
+   "gia_kh": 54.14,
+   "cat_lo": 51.97,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 53.6,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -14.2,
+   "rs": 1.8,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": 47.9,
-    "dt": 59.6,
+    "ln": 40.8,
+    "dt": 41.6,
     "nhan": null,
-    "lnst": 85
+    "lnst": 444
    },
    "nhom": "M",
-   "hang_1t": 55,
+   "hang_1t": 61,
+   "ty_trong": 12.5,
+   "nganh": "Kho bãi, hậu cần và bảo dưỡng",
+   "hang_nganh": 14,
+   "nganh_dan_dat": false,
+   "boi_canh": "Yếu",
+   "meta": 2,
+   "meta_ds": [
+    "giá & KL cạn",
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "VSC (hạng 75)"
+   ],
+   "nen_tang": 2,
+   "nen_tang_ds": [
+    "LN tăng bền",
+    "cổ tức đều"
+   ]
+  },
+  {
+   "ma": "VIB",
+   "setup": "PP",
+   "gia_kh": 14.19,
+   "cat_lo": 13.62,
+   "rui_ro": 4.0,
+   "gia": 14.05,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -4.2,
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": 18.5,
+    "dt": null,
+    "nhan": null,
+    "lnst": 1925
+   },
+   "nhom": "M",
+   "hang_1t": 60,
    "ty_trong": 12.4,
-   "nganh": "Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
-   "hang_nganh": 11,
+   "nganh": "Ngân hàng",
+   "hang_nganh": 7,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 3,
+   "meta_ds": [
+    "xu hướng",
+    "giá & KL cạn",
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "MSB (Leading, hạng 89)",
+    "TPB (Leading, hạng 87)",
+    "CTG (Leading, hạng 77)"
+   ],
+   "nen_tang": 3,
+   "nen_tang_ds": [
+    "rẻ",
+    "cổ tức đều",
+    "khối ngoại mua"
+   ]
+  },
+  {
+   "ma": "CLI",
+   "setup": "PP",
+   "gia_kh": 28.48,
+   "cat_lo": 27.34,
+   "rui_ro": 4.0,
+   "gia": 28.2,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": 17.6,
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": null,
+   "nhom": "M",
+   "hang_1t": 59,
+   "ty_trong": 12.5,
+   "nganh": "Kim Loại màu",
+   "hang_nganh": null,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 1,
@@ -2528,8 +2844,132 @@
    "sieu": false,
    "radar": false,
    "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [],
+   "nen_tang": null,
+   "nen_tang_ds": null
+  },
+  {
+   "ma": "PET",
+   "setup": "PP",
+   "gia_kh": 51.21,
+   "cat_lo": 49.16,
+   "rui_ro": 4.0,
+   "gia": 50.7,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": 56.4,
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -34.2,
+    "dt": 32.5,
+    "nhan": null,
+    "lnst": 69
+   },
+   "nhom": "M",
+   "hang_1t": 58,
+   "ty_trong": 12.5,
+   "nganh": "Phân phối hàng chuyên dụng",
+   "hang_nganh": 8,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 3,
+   "meta_ds": [
+    "xu hướng",
+    "giá & KL cạn",
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "FRT (Leading, hạng 63)"
+   ],
+   "nen_tang": 0,
+   "nen_tang_ds": []
+  },
+  {
+   "ma": "MSN",
+   "setup": "PP",
+   "gia_kh": 72.52,
+   "cat_lo": 69.62,
+   "rui_ro": 4.0,
+   "gia": 71.8,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -9.2,
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": 203.7,
+    "dt": 74.7,
+    "nhan": null,
+    "lnst": 3671
+   },
+   "nhom": "M",
+   "hang_1t": 54,
+   "ty_trong": 12.5,
+   "nganh": "Thực phẩm",
+   "hang_nganh": 15,
+   "nganh_dan_dat": false,
+   "boi_canh": "Yếu",
+   "meta": 2,
+   "meta_ds": [
+    "xu hướng",
+    "giá & KL cạn"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
    "vua_nganh": true,
    "manh_hon": [],
+   "nen_tang": 2,
+   "nen_tang_ds": [
+    "LN tăng bền",
+    "khối ngoại mua"
+   ]
+  },
+  {
+   "ma": "TNG",
+   "setup": "PP",
+   "gia_kh": 17.68,
+   "cat_lo": 16.97,
+   "rui_ro": 4.0,
+   "gia": 17.5,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -5.5,
+   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": 29.5,
+    "dt": 22.6,
+    "nhan": null,
+    "lnst": 152
+   },
+   "nhom": "M",
+   "hang_1t": 41,
+   "ty_trong": 12.5,
+   "nganh": "Hàng May mặc",
+   "hang_nganh": 9,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 1,
+   "meta_ds": [
+    "xu hướng"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "MSH (Leading, hạng 80)"
+   ],
    "nen_tang": 3,
    "nen_tang_ds": [
     "rẻ",
@@ -2543,10 +2983,10 @@
    "gia_kh": 22.73,
    "cat_lo": 21.82,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 22.5,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 5.6,
+   "rs": 5.2,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -2557,10 +2997,10 @@
     "lnst": 3852
    },
    "nhom": "M",
-   "hang_1t": 52,
+   "hang_1t": 40,
    "ty_trong": 12.5,
    "nganh": "Ngân hàng",
-   "hang_nganh": 6,
+   "hang_nganh": 7,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 3,
@@ -2574,9 +3014,9 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "MSB (Leading, hạng 87)",
-    "TPB (Leading, hạng 85)",
-    "CTG (Leading, hạng 81)"
+    "MSB (Leading, hạng 89)",
+    "TPB (Leading, hạng 87)",
+    "CTG (Leading, hạng 77)"
    ],
    "nen_tang": 2,
    "nen_tang_ds": [
@@ -2585,222 +3025,15 @@
    ]
   },
   {
-   "ma": "PET",
-   "setup": "PP",
-   "gia_kh": 50.7,
-   "cat_lo": 48.67,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": 54.8,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -34.2,
-    "dt": 32.5,
-    "nhan": null,
-    "lnst": 69
-   },
-   "nhom": "M",
-   "hang_1t": 52,
-   "ty_trong": 12.5,
-   "nganh": "Phân phối hàng chuyên dụng",
-   "hang_nganh": 12,
-   "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
-   "meta": 1,
-   "meta_ds": [
-    "xu hướng"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": true,
-   "manh_hon": [],
-   "nen_tang": 0,
-   "nen_tang_ds": []
-  },
-  {
-   "ma": "MSN",
-   "setup": "PP",
-   "gia_kh": 73.33,
-   "cat_lo": 70.39,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -8.0,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 203.7,
-    "dt": 74.7,
-    "nhan": null,
-    "lnst": 3671
-   },
-   "nhom": "M",
-   "hang_1t": 50,
-   "ty_trong": 12.5,
-   "nganh": "Thực phẩm",
-   "hang_nganh": 14,
-   "nganh_dan_dat": false,
-   "boi_canh": "Yếu",
-   "meta": 3,
-   "meta_ds": [
-    "xu hướng",
-    "giá & KL cạn",
-    "hỗ trợ EMA10/20"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": true,
-   "manh_hon": [],
-   "nen_tang": 2,
-   "nen_tang_ds": [
-    "LN tăng bền",
-    "khối ngoại mua"
-   ]
-  },
-  {
-   "ma": "GMD",
-   "setup": "PP",
-   "gia_kh": 54.04,
-   "cat_lo": 51.87,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": 1.2,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 40.8,
-    "dt": 41.6,
-    "nhan": null,
-    "lnst": 444
-   },
-   "nhom": "M",
-   "hang_1t": 48,
-   "ty_trong": 12.5,
-   "nganh": "Kho bãi, hậu cần và bảo dưỡng",
-   "hang_nganh": 15,
-   "nganh_dan_dat": false,
-   "boi_canh": "Yếu",
-   "meta": 2,
-   "meta_ds": [
-    "giá & KL cạn",
-    "hỗ trợ EMA10/20"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [],
-   "nen_tang": 2,
-   "nen_tang_ds": [
-    "LN tăng bền",
-    "cổ tức đều"
-   ]
-  },
-  {
-   "ma": "TLG",
-   "setup": "PP",
-   "gia_kh": 54.44,
-   "cat_lo": 52.26,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": 9.6,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 41.1,
-    "dt": 7.0,
-    "nhan": null,
-    "lnst": 107
-   },
-   "nhom": "M",
-   "hang_1t": 47,
-   "ty_trong": 12.5,
-   "nganh": "Đồ gia dụng một lần",
-   "hang_nganh": null,
-   "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
-   "meta": 1,
-   "meta_ds": [
-    "xu hướng"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [],
-   "nen_tang": 2,
-   "nen_tang_ds": [
-    "LN tăng bền",
-    "cổ tức đều"
-   ]
-  },
-  {
-   "ma": "LAS",
-   "setup": "PP",
-   "gia_kh": 11.51,
-   "cat_lo": 11.05,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -21.4,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -20.3,
-    "dt": -6.8,
-    "nhan": null,
-    "lnst": 16
-   },
-   "nhom": "M",
-   "hang_1t": 45,
-   "ty_trong": 12.5,
-   "nganh": "Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
-   "hang_nganh": 11,
-   "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
-   "meta": 2,
-   "meta_ds": [
-    "xu hướng",
-    "giá & KL cạn"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "CSV (Leading, hạng 55)",
-    "BFC (Leading, hạng 31)",
-    "PLC (hạng 70)"
-   ],
-   "nen_tang": null,
-   "nen_tang_ds": null
-  },
-  {
    "ma": "VEA",
    "setup": "PP",
-   "gia_kh": 37.88,
-   "cat_lo": 36.36,
+   "gia_kh": 32.6,
+   "cat_lo": 31.29,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 32.2725,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 8.1,
+   "rs": 7.8,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -2811,8 +3044,8 @@
     "lnst": 1893
    },
    "nhom": "M",
-   "hang_1t": 44,
-   "ty_trong": 12.5,
+   "hang_1t": 40,
+   "ty_trong": 12.4,
    "nganh": "Máy công nghiệp",
    "hang_nganh": null,
    "nganh_dan_dat": false,
@@ -2833,115 +3066,69 @@
    ]
   },
   {
-   "ma": "ANV",
+   "ma": "DXP",
    "setup": "PP",
-   "gia_kh": 17.78,
-   "cat_lo": 17.06,
+   "gia_kh": 14.75,
+   "cat_lo": 14.16,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 14.6,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -22.8,
+   "rs": -2.7,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": -27.0,
-    "dt": 3.5,
+    "ln": 98.4,
+    "dt": 128.5,
     "nhan": null,
-    "lnst": 207
+    "lnst": 58
    },
    "nhom": "M",
-   "hang_1t": 35,
-   "ty_trong": 12.3,
-   "nganh": "Nuôi trồng nông & hải sản",
-   "hang_nganh": 9,
+   "hang_1t": 36,
+   "ty_trong": 12.5,
+   "nganh": "Kho bãi, hậu cần và bảo dưỡng",
+   "hang_nganh": 14,
    "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
+   "boi_canh": "Yếu",
    "meta": 1,
    "meta_ds": [
-    "hỗ trợ EMA10/20"
+    "xu hướng"
    ],
    "sieu": false,
    "radar": false,
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "BAF (Leading, hạng 70)",
-    "DBC (hạng 74)"
-   ],
-   "nen_tang": 2,
-   "nen_tang_ds": [
-    "rẻ",
-    "cổ tức đều"
-   ]
-  },
-  {
-   "ma": "BFC",
-   "setup": "PP",
-   "gia_kh": 58.88,
-   "cat_lo": 56.53,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -2.2,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -1.4,
-    "dt": 48.2,
-    "nhan": null,
-    "lnst": 60
-   },
-   "nhom": "M",
-   "hang_1t": 31,
-   "ty_trong": 12.5,
-   "nganh": "Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
-   "hang_nganh": 11,
-   "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
-   "meta": 3,
-   "meta_ds": [
-    "xu hướng",
-    "giá & KL cạn",
-    "hỗ trợ EMA10/20"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "CSV (Leading, hạng 55)"
+    "VSC (hạng 75)"
    ],
    "nen_tang": null,
    "nen_tang_ds": null
   },
   {
-   "ma": "BFC",
+   "ma": "PET",
    "setup": "VCP",
-   "gia_kh": 58.9,
-   "cat_lo": 56.54,
+   "gia_kh": 53.6,
+   "cat_lo": 51.46,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 50.7,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -2.2,
-   "ghi_chu": "Nền co hẹp 28% → 17% → 10%, vol cạn",
+   "rs": 56.4,
+   "ghi_chu": "Nền co hẹp 34% → 20% → 9%, vol cạn",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": -1.4,
-    "dt": 48.2,
+    "ln": -34.2,
+    "dt": 32.5,
     "nhan": null,
-    "lnst": 60
+    "lnst": 69
    },
    "nhom": "M",
-   "hang_1t": 31,
+   "hang_1t": 58,
    "ty_trong": 12.5,
-   "nganh": "Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
-   "hang_nganh": 11,
+   "nganh": "Phân phối hàng chuyên dụng",
+   "hang_nganh": 8,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 3,
@@ -2955,35 +3142,35 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "CSV (Leading, hạng 55)"
+    "FRT (Leading, hạng 63)"
    ],
-   "nen_tang": null,
-   "nen_tang_ds": null
+   "nen_tang": 0,
+   "nen_tang_ds": []
   },
   {
-   "ma": "NAB",
+   "ma": "BAF",
    "setup": "52W",
-   "gia_kh": 13.5,
-   "cat_lo": 12.96,
+   "gia_kh": 31.28,
+   "cat_lo": 30.03,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 30.95,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 3.2,
+   "rs": 10.1,
    "ghi_chu": "Vượt đỉnh 52 tuần với khối lượng lớn",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": 23.0,
-    "dt": null,
+    "ln": -5.4,
+    "dt": 81.9,
     "nhan": null,
-    "lnst": 1269
+    "lnst": 20
    },
    "nhom": "M",
-   "hang_1t": 68,
+   "hang_1t": 67,
    "ty_trong": 12.5,
-   "nganh": "Ngân hàng",
-   "hang_nganh": 6,
+   "nganh": "Nuôi trồng nông & hải sản",
+   "hang_nganh": 11,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 2,
@@ -2994,17 +3181,11 @@
    "sieu": false,
    "radar": false,
    "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "MSB (Leading, hạng 87)",
-    "TPB (Leading, hạng 85)",
-    "CTG (Leading, hạng 81)"
-   ],
-   "nen_tang": 3,
+   "vua_nganh": true,
+   "manh_hon": [],
+   "nen_tang": 1,
    "nen_tang_ds": [
-    "rẻ",
-    "LN tăng bền",
-    "khối ngoại mua"
+    "cổ tức đều"
    ]
   },
   {
@@ -3013,10 +3194,10 @@
    "gia_kh": 23.45,
    "cat_lo": 22.51,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 22.5,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 5.6,
+   "rs": 5.2,
    "ghi_chu": "Vượt đỉnh 52 tuần với khối lượng lớn",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -3027,10 +3208,10 @@
     "lnst": 3852
    },
    "nhom": "M",
-   "hang_1t": 52,
+   "hang_1t": 40,
    "ty_trong": 12.5,
    "nganh": "Ngân hàng",
-   "hang_nganh": 6,
+   "hang_nganh": 7,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 3,
@@ -3044,157 +3225,26 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "MSB (Leading, hạng 87)",
-    "TPB (Leading, hạng 85)",
-    "CTG (Leading, hạng 81)"
+    "MSB (Leading, hạng 89)",
+    "TPB (Leading, hạng 87)",
+    "CTG (Leading, hạng 77)"
    ],
    "nen_tang": 2,
    "nen_tang_ds": [
     "rẻ",
-    "cổ tức đều"
-   ]
-  },
-  {
-   "ma": "HDB",
-   "setup": "A+",
-   "gia_kh": 22.6,
-   "cat_lo": 21.69,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": 5.6,
-   "ghi_chu": "EMA9 cắt lên MA20",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 5.6,
-    "dt": null,
-    "nhan": null,
-    "lnst": 3852
-   },
-   "nhom": "M",
-   "hang_1t": 52,
-   "ty_trong": 12.4,
-   "nganh": "Ngân hàng",
-   "hang_nganh": 6,
-   "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
-   "meta": 3,
-   "meta_ds": [
-    "xu hướng",
-    "giá & KL cạn",
-    "hỗ trợ EMA10/20"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "MSB (Leading, hạng 87)",
-    "TPB (Leading, hạng 85)",
-    "CTG (Leading, hạng 81)"
-   ],
-   "nen_tang": 2,
-   "nen_tang_ds": [
-    "rẻ",
-    "cổ tức đều"
-   ]
-  },
-  {
-   "ma": "MSN",
-   "setup": "A+",
-   "gia_kh": 73.67,
-   "cat_lo": 70.72,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -8.0,
-   "ghi_chu": "EMA9 cắt lên MA20",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 203.7,
-    "dt": 74.7,
-    "nhan": null,
-    "lnst": 3671
-   },
-   "nhom": "M",
-   "hang_1t": 50,
-   "ty_trong": 12.5,
-   "nganh": "Thực phẩm",
-   "hang_nganh": 14,
-   "nganh_dan_dat": false,
-   "boi_canh": "Yếu",
-   "meta": 3,
-   "meta_ds": [
-    "xu hướng",
-    "giá & KL cạn",
-    "hỗ trợ EMA10/20"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": true,
-   "manh_hon": [],
-   "nen_tang": 2,
-   "nen_tang_ds": [
-    "LN tăng bền",
-    "khối ngoại mua"
-   ]
-  },
-  {
-   "ma": "TLG",
-   "setup": "A+",
-   "gia_kh": 57.21,
-   "cat_lo": 54.92,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": 9.6,
-   "ghi_chu": "EMA9 cắt lên MA20",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 41.1,
-    "dt": 7.0,
-    "nhan": null,
-    "lnst": 107
-   },
-   "nhom": "M",
-   "hang_1t": 47,
-   "ty_trong": 12.5,
-   "nganh": "Đồ gia dụng một lần",
-   "hang_nganh": null,
-   "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
-   "meta": 1,
-   "meta_ds": [
-    "xu hướng"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [],
-   "nen_tang": 2,
-   "nen_tang_ds": [
-    "LN tăng bền",
     "cổ tức đều"
    ]
   },
   {
    "ma": "FRT",
    "setup": "A+",
-   "gia_kh": 153.33,
-   "cat_lo": 147.2,
+   "gia_kh": 151.51,
+   "cat_lo": 145.45,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 148.0,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 11.8,
+   "rs": 14.3,
    "ghi_chu": "EMA9 cắt lên MA20",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -3205,10 +3255,10 @@
     "lnst": 440
    },
    "nhom": "M",
-   "hang_1t": 44,
+   "hang_1t": 63,
    "ty_trong": 12.5,
    "nganh": "Phân phối hàng chuyên dụng",
-   "hang_nganh": 12,
+   "hang_nganh": 8,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 2,
@@ -3219,10 +3269,8 @@
    "sieu": false,
    "radar": false,
    "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "PET (Leading, hạng 52)"
-   ],
+   "vua_nganh": true,
+   "manh_hon": [],
    "nen_tang": 3,
    "nen_tang_ds": [
     "LN tăng bền",
@@ -3231,70 +3279,115 @@
    ]
   },
   {
-   "ma": "VEA",
+   "ma": "GMD",
    "setup": "A+",
-   "gia_kh": 40.78,
-   "cat_lo": 39.15,
+   "gia_kh": 57.03,
+   "cat_lo": 54.75,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 53.6,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 8.1,
+   "rs": 1.8,
    "ghi_chu": "EMA9 cắt lên MA20",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": 5.2,
-    "dt": 15.2,
+    "ln": 40.8,
+    "dt": 41.6,
     "nhan": null,
-    "lnst": 1893
+    "lnst": 444
    },
    "nhom": "M",
-   "hang_1t": 44,
+   "hang_1t": 61,
    "ty_trong": 12.5,
-   "nganh": "Máy công nghiệp",
-   "hang_nganh": null,
+   "nganh": "Kho bãi, hậu cần và bảo dưỡng",
+   "hang_nganh": 14,
    "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
-   "meta": 1,
+   "boi_canh": "Yếu",
+   "meta": 2,
    "meta_ds": [
-    "xu hướng"
+    "giá & KL cạn",
+    "hỗ trợ EMA10/20"
    ],
    "sieu": false,
    "radar": false,
    "nr_diem": null,
    "vua_nganh": false,
-   "manh_hon": [],
+   "manh_hon": [
+    "VSC (hạng 75)"
+   ],
    "nen_tang": 2,
    "nen_tang_ds": [
-    "rẻ",
+    "LN tăng bền",
     "cổ tức đều"
    ]
   },
   {
-   "ma": "MWG",
+   "ma": "MSN",
    "setup": "A+",
-   "gia_kh": 77.04,
-   "cat_lo": 73.96,
+   "gia_kh": 74.29,
+   "cat_lo": 71.31,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 71.8,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -9.0,
+   "rs": -9.2,
    "ghi_chu": "EMA9 cắt lên MA20",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": 74.7,
-    "dt": 32.0,
+    "ln": 203.7,
+    "dt": 74.7,
     "nhan": null,
-    "lnst": 3094
+    "lnst": 3671
    },
    "nhom": "M",
-   "hang_1t": 43,
+   "hang_1t": 54,
    "ty_trong": 12.5,
-   "nganh": "Phân phối hàng chuyên dụng",
-   "hang_nganh": 12,
+   "nganh": "Thực phẩm",
+   "hang_nganh": 15,
+   "nganh_dan_dat": false,
+   "boi_canh": "Yếu",
+   "meta": 2,
+   "meta_ds": [
+    "xu hướng",
+    "giá & KL cạn"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": true,
+   "manh_hon": [],
+   "nen_tang": 2,
+   "nen_tang_ds": [
+    "LN tăng bền",
+    "khối ngoại mua"
+   ]
+  },
+  {
+   "ma": "ANV",
+   "setup": "A+",
+   "gia_kh": 17.65,
+   "cat_lo": 16.94,
+   "rui_ro": 4.0,
+   "gia": 17.65,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -22.9,
+   "ghi_chu": "EMA9 cắt lên MA20",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -27.0,
+    "dt": 3.5,
+    "nhan": null,
+    "lnst": 207
+   },
+   "nhom": "M",
+   "hang_1t": 46,
+   "ty_trong": 12.4,
+   "nganh": "Nuôi trồng nông & hải sản",
+   "hang_nganh": 11,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 2,
@@ -3307,7 +3400,52 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "PET (Leading, hạng 52)"
+    "BAF (Leading, hạng 67)",
+    "DBC (hạng 72)"
+   ],
+   "nen_tang": 2,
+   "nen_tang_ds": [
+    "rẻ",
+    "cổ tức đều"
+   ]
+  },
+  {
+   "ma": "MWG",
+   "setup": "A+",
+   "gia_kh": 77.51,
+   "cat_lo": 74.41,
+   "rui_ro": 4.0,
+   "gia": 73.7,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -9.9,
+   "ghi_chu": "EMA9 cắt lên MA20",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": 74.7,
+    "dt": 32.0,
+    "nhan": null,
+    "lnst": 3094
+   },
+   "nhom": "M",
+   "hang_1t": 44,
+   "ty_trong": 12.5,
+   "nganh": "Phân phối hàng chuyên dụng",
+   "hang_nganh": 8,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 1,
+   "meta_ds": [
+    "xu hướng"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "FRT (Leading, hạng 63)",
+    "PET (Leading, hạng 58)"
    ],
    "nen_tang": 3,
    "nen_tang_ds": [
@@ -3317,56 +3455,12 @@
    ]
   },
   {
-   "ma": "ANV",
-   "setup": "A+",
-   "gia_kh": 18.24,
-   "cat_lo": 17.51,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -22.8,
-   "ghi_chu": "EMA9 cắt lên MA20",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -27.0,
-    "dt": 3.5,
-    "nhan": null,
-    "lnst": 207
-   },
-   "nhom": "M",
-   "hang_1t": 35,
-   "ty_trong": 12.5,
-   "nganh": "Nuôi trồng nông & hải sản",
-   "hang_nganh": 9,
-   "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
-   "meta": 1,
-   "meta_ds": [
-    "hỗ trợ EMA10/20"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "BAF (Leading, hạng 70)",
-    "DBC (hạng 74)"
-   ],
-   "nen_tang": 2,
-   "nen_tang_ds": [
-    "rẻ",
-    "cổ tức đều"
-   ]
-  },
-  {
    "ma": "VGT",
    "setup": "A+",
-   "gia_kh": 12.48,
-   "cat_lo": 11.98,
-   "rui_ro": 4.0,
-   "gia": null,
+   "gia_kh": 12.43,
+   "cat_lo": 11.94,
+   "rui_ro": 3.9,
+   "gia": 11.4,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
    "rs": -0.9,
@@ -3380,10 +3474,10 @@
     "lnst": 324
    },
    "nhom": "M",
-   "hang_1t": 34,
-   "ty_trong": 12.5,
+   "hang_1t": 44,
+   "ty_trong": 12.7,
    "nganh": "Hàng May mặc",
-   "hang_nganh": 8,
+   "hang_nganh": 9,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 1,
@@ -3395,35 +3489,35 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "MSH (Leading, hạng 83)"
+    "MSH (Leading, hạng 80)"
    ],
    "nen_tang": null,
    "nen_tang_ds": null
   },
   {
-   "ma": "BFC",
+   "ma": "HDB",
    "setup": "A+",
-   "gia_kh": 57.8,
-   "cat_lo": 55.48,
+   "gia_kh": 22.37,
+   "cat_lo": 21.47,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 22.5,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -2.2,
+   "rs": 5.2,
    "ghi_chu": "EMA9 cắt lên MA20",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": -1.4,
-    "dt": 48.2,
+    "ln": 5.6,
+    "dt": null,
     "nhan": null,
-    "lnst": 60
+    "lnst": 3852
    },
    "nhom": "M",
-   "hang_1t": 31,
-   "ty_trong": 12.5,
-   "nganh": "Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
-   "hang_nganh": 11,
+   "hang_1t": 40,
+   "ty_trong": 12.4,
+   "nganh": "Ngân hàng",
+   "hang_nganh": 7,
    "nganh_dan_dat": false,
    "boi_canh": "Trung tính",
    "meta": 3,
@@ -3437,219 +3531,27 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "CSV (Leading, hạng 55)"
+    "MSB (Leading, hạng 89)",
+    "TPB (Leading, hạng 87)",
+    "CTG (Leading, hạng 77)"
    ],
-   "nen_tang": null,
-   "nen_tang_ds": null
-  },
-  {
-   "ma": "CLI",
-   "setup": "B",
-   "gia_kh": 28.86,
-   "cat_lo": 27.71,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": 20.3,
-   "ghi_chu": "Giá vượt lên EMA9",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": null,
-   "nhom": "M",
-   "hang_1t": 64,
-   "ty_trong": 12.5,
-   "nganh": "Kim Loại màu",
-   "hang_nganh": null,
-   "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
-   "meta": 2,
-   "meta_ds": [
-    "xu hướng",
-    "hỗ trợ EMA10/20"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [],
-   "nen_tang": null,
-   "nen_tang_ds": null
-  },
-  {
-   "ma": "CSV",
-   "setup": "B",
-   "gia_kh": 22.69,
-   "cat_lo": 21.79,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -14.2,
-   "ghi_chu": "Giá vượt lên EMA9",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 47.9,
-    "dt": 59.6,
-    "nhan": null,
-    "lnst": 85
-   },
-   "nhom": "M",
-   "hang_1t": 55,
-   "ty_trong": 12.6,
-   "nganh": "Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
-   "hang_nganh": 11,
-   "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
-   "meta": 1,
-   "meta_ds": [
-    "xu hướng"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": true,
-   "manh_hon": [],
-   "nen_tang": 3,
-   "nen_tang_ds": [
-    "rẻ",
-    "LN tăng bền",
-    "cổ tức đều"
-   ]
-  },
-  {
-   "ma": "PET",
-   "setup": "B",
-   "gia_kh": 50.68,
-   "cat_lo": 48.66,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": 54.8,
-   "ghi_chu": "Giá vượt lên EMA9",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -34.2,
-    "dt": 32.5,
-    "nhan": null,
-    "lnst": 69
-   },
-   "nhom": "M",
-   "hang_1t": 52,
-   "ty_trong": 12.5,
-   "nganh": "Phân phối hàng chuyên dụng",
-   "hang_nganh": 12,
-   "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
-   "meta": 1,
-   "meta_ds": [
-    "xu hướng"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": true,
-   "manh_hon": [],
-   "nen_tang": 0,
-   "nen_tang_ds": []
-  },
-  {
-   "ma": "TLG",
-   "setup": "B",
-   "gia_kh": 54.06,
-   "cat_lo": 51.9,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": 9.6,
-   "ghi_chu": "Giá vượt lên EMA9",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 41.1,
-    "dt": 7.0,
-    "nhan": null,
-    "lnst": 107
-   },
-   "nhom": "M",
-   "hang_1t": 47,
-   "ty_trong": 12.5,
-   "nganh": "Đồ gia dụng một lần",
-   "hang_nganh": null,
-   "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
-   "meta": 1,
-   "meta_ds": [
-    "xu hướng"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [],
    "nen_tang": 2,
    "nen_tang_ds": [
-    "LN tăng bền",
+    "rẻ",
     "cổ tức đều"
    ]
-  },
-  {
-   "ma": "LAS",
-   "setup": "B",
-   "gia_kh": 11.41,
-   "cat_lo": 10.96,
-   "rui_ro": 3.9,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -21.4,
-   "ghi_chu": "Giá vượt lên EMA9",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -20.3,
-    "dt": -6.8,
-    "nhan": null,
-    "lnst": 16
-   },
-   "nhom": "M",
-   "hang_1t": 45,
-   "ty_trong": 12.7,
-   "nganh": "Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
-   "hang_nganh": 11,
-   "nganh_dan_dat": false,
-   "boi_canh": "Trung tính",
-   "meta": 2,
-   "meta_ds": [
-    "xu hướng",
-    "giá & KL cạn"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "CSV (Leading, hạng 55)",
-    "BFC (Leading, hạng 31)",
-    "PLC (hạng 70)"
-   ],
-   "nen_tang": null,
-   "nen_tang_ds": null
   },
   {
    "ma": "VEA",
-   "setup": "B",
-   "gia_kh": 37.91,
-   "cat_lo": 36.39,
+   "setup": "A+",
+   "gia_kh": 35.1,
+   "cat_lo": 33.69,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 32.2725,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 8.1,
-   "ghi_chu": "Giá vượt lên EMA9",
+   "rs": 7.8,
+   "ghi_chu": "EMA9 cắt lên MA20",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
@@ -3659,8 +3561,8 @@
     "lnst": 1893
    },
    "nhom": "M",
-   "hang_1t": 44,
-   "ty_trong": 12.5,
+   "hang_1t": 40,
+   "ty_trong": 12.4,
    "nganh": "Máy công nghiệp",
    "hang_nganh": null,
    "nganh_dan_dat": false,
@@ -3681,287 +3583,300 @@
    ]
   },
   {
-   "ma": "TCX",
-   "setup": "DAY",
-   "gia_kh": 29.43,
-   "cat_lo": 28.25,
+   "ma": "DXP",
+   "setup": "A+",
+   "gia_kh": 15.97,
+   "cat_lo": 15.33,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 14.6,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -16.8,
-   "ghi_chu": "Vượt đỉnh gần nhất 29,40 (đỉnh nền 29,95) sau khi giảm 40% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "rs": -2.7,
+   "ghi_chu": "EMA9 cắt lên MA20",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": 7.9,
-    "dt": 11.7,
+    "ln": 98.4,
+    "dt": 128.5,
     "nhan": null,
-    "lnst": 1748
+    "lnst": 58
    },
-   "nhom": "G",
-   "hang_1t": 77,
+   "nhom": "M",
+   "hang_1t": 36,
    "ty_trong": 12.5,
-   "nganh": "Môi giới chứng khoán",
-   "hang_nganh": 3,
-   "nganh_dan_dat": true,
-   "boi_canh": "Yếu",
-   "meta": 2,
-   "meta_ds": [
-    "hỗ trợ EMA10/20",
-    "ngành dẫn dắt"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "BSI (Leading, hạng 97)",
-    "CTS (Leading, hạng 96)",
-    "ORS (Leading, hạng 80)"
-   ],
-   "nen_tang": 0,
-   "nen_tang_ds": []
-  },
-  {
-   "ma": "VDS",
-   "setup": "DAY",
-   "gia_kh": 10.11,
-   "cat_lo": 9.71,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -27.4,
-   "ghi_chu": "Vượt đỉnh gần nhất 10,10 (đỉnh nền 10,15) sau khi giảm 53% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -139.8,
-    "dt": -59.1,
-    "nhan": null,
-    "lnst": -104
-   },
-   "nhom": "G",
-   "hang_1t": 67,
-   "ty_trong": 12.6,
-   "nganh": "Môi giới chứng khoán",
-   "hang_nganh": 3,
-   "nganh_dan_dat": true,
-   "boi_canh": "Yếu",
-   "meta": 3,
-   "meta_ds": [
-    "giá & KL cạn",
-    "hỗ trợ EMA10/20",
-    "ngành dẫn dắt"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "BSI (Leading, hạng 97)",
-    "CTS (Leading, hạng 96)",
-    "ORS (Leading, hạng 80)"
-   ],
-   "nen_tang": null,
-   "nen_tang_ds": null
-  },
-  {
-   "ma": "VFS",
-   "setup": "DAY",
-   "gia_kh": 9.81,
-   "cat_lo": 9.42,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -16.7,
-   "ghi_chu": "Vượt đỉnh gần nhất 9,80 (đỉnh nền 10,10) sau khi giảm 39% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -37.1,
-    "dt": 11.0,
-    "nhan": null,
-    "lnst": 25
-   },
-   "nhom": "G",
-   "hang_1t": 45,
-   "ty_trong": 12.6,
-   "nganh": "Môi giới chứng khoán",
-   "hang_nganh": 3,
-   "nganh_dan_dat": true,
-   "boi_canh": "Yếu",
-   "meta": 3,
-   "meta_ds": [
-    "giá & KL cạn",
-    "hỗ trợ EMA10/20",
-    "ngành dẫn dắt"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "BSI (Leading, hạng 97)",
-    "CTS (Leading, hạng 96)",
-    "ORS (Leading, hạng 80)"
-   ],
-   "nen_tang": null,
-   "nen_tang_ds": null
-  },
-  {
-   "ma": "VRE",
-   "setup": "DAY",
-   "gia_kh": 24.72,
-   "cat_lo": 23.74,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -24.4,
-   "ghi_chu": "Vượt đỉnh gần nhất 24,70 (đỉnh nền 25,50) sau khi giảm 40% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 10.6,
-    "dt": 5.5,
-    "nhan": null,
-    "lnst": 1522
-   },
-   "nhom": "G",
-   "hang_1t": 76,
-   "ty_trong": 12.6,
-   "nganh": "Bất động sản",
-   "hang_nganh": 5,
+   "nganh": "Kho bãi, hậu cần và bảo dưỡng",
+   "hang_nganh": 14,
    "nganh_dan_dat": false,
    "boi_canh": "Yếu",
    "meta": 1,
    "meta_ds": [
-    "hỗ trợ EMA10/20"
+    "xu hướng"
    ],
    "sieu": false,
    "radar": false,
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "HDC (Leading, hạng 100)",
-    "TCH (Leading, hạng 99)",
-    "SZC (Leading, hạng 94)"
+    "VSC (hạng 75)"
    ],
-   "nen_tang": 1,
-   "nen_tang_ds": [
-    "rẻ"
-   ]
+   "nen_tang": null,
+   "nen_tang_ds": null
   },
   {
-   "ma": "SHB",
-   "setup": "DAY",
-   "gia_kh": 10.91,
-   "cat_lo": 10.47,
+   "ma": "CLI",
+   "setup": "B",
+   "gia_kh": 28.73,
+   "cat_lo": 27.58,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 28.2,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -22.1,
-   "ghi_chu": "Vượt đỉnh gần nhất 10,90 (đỉnh nền 10,90) sau khi giảm 42% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "rs": 17.6,
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": null,
+   "nhom": "M",
+   "hang_1t": 59,
+   "ty_trong": 12.5,
+   "nganh": "Kim Loại màu",
+   "hang_nganh": null,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 1,
+   "meta_ds": [
+    "xu hướng"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [],
+   "nen_tang": null,
+   "nen_tang_ds": null
+  },
+  {
+   "ma": "MSN",
+   "setup": "B",
+   "gia_kh": 71.92,
+   "cat_lo": 69.04,
+   "rui_ro": 4.0,
+   "gia": 71.8,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -9.2,
+   "ghi_chu": "Giá vượt lên EMA9",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": 58.0,
-    "dt": null,
+    "ln": 203.7,
+    "dt": 74.7,
     "nhan": null,
-    "lnst": 4119
+    "lnst": 3671
    },
-   "nhom": "G",
-   "hang_1t": 71,
-   "ty_trong": 12.4,
-   "nganh": "Ngân hàng",
-   "hang_nganh": 6,
+   "nhom": "M",
+   "hang_1t": 54,
+   "ty_trong": 12.5,
+   "nganh": "Thực phẩm",
+   "hang_nganh": 15,
    "nganh_dan_dat": false,
    "boi_canh": "Yếu",
    "meta": 2,
    "meta_ds": [
-    "giá & KL cạn",
-    "hỗ trợ EMA10/20"
+    "xu hướng",
+    "giá & KL cạn"
    ],
    "sieu": false,
    "radar": false,
    "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "MSB (Leading, hạng 87)",
-    "TPB (Leading, hạng 85)",
-    "CTG (Leading, hạng 81)"
-   ],
-   "nen_tang": 4,
+   "vua_nganh": true,
+   "manh_hon": [],
+   "nen_tang": 2,
    "nen_tang_ds": [
-    "rẻ",
     "LN tăng bền",
-    "cổ tức đều",
     "khối ngoại mua"
    ]
   },
   {
-   "ma": "SHB",
-   "setup": "BT",
-   "gia_kh": 10.91,
-   "cat_lo": 10.05,
-   "rui_ro": 7.9,
-   "gia": null,
+   "ma": "MWG",
+   "setup": "B",
+   "gia_kh": 73.83,
+   "cat_lo": 70.88,
+   "rui_ro": 4.0,
+   "gia": 73.7,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -22.1,
-   "ghi_chu": "Bán tháo ngày 09/10 (KL 3.2 lần TB, rút chân) sau khi giảm 36% từ đỉnh 1 năm, nền 22 phiên KL cạn – mua khi vol vào vượt 10,91; mẫu ít dữ liệu kiểm định, tỷ trọng nhỏ",
-   "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán",
+   "rs": -9.9,
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": 58.0,
-    "dt": null,
+    "ln": 74.7,
+    "dt": 32.0,
     "nhan": null,
-    "lnst": 4119
+    "lnst": 3094
    },
-   "nhom": "G",
-   "hang_1t": 71,
-   "ty_trong": 6.3,
-   "nganh": "Ngân hàng",
-   "hang_nganh": 6,
+   "nhom": "M",
+   "hang_1t": 44,
+   "ty_trong": 12.5,
+   "nganh": "Phân phối hàng chuyên dụng",
+   "hang_nganh": 8,
    "nganh_dan_dat": false,
-   "boi_canh": "Yếu",
-   "meta": 2,
+   "boi_canh": "Trung tính",
+   "meta": 1,
    "meta_ds": [
-    "giá & KL cạn",
-    "hỗ trợ EMA10/20"
+    "xu hướng"
    ],
    "sieu": false,
    "radar": false,
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "MSB (Leading, hạng 87)",
-    "TPB (Leading, hạng 85)",
-    "CTG (Leading, hạng 81)"
+    "FRT (Leading, hạng 63)",
+    "PET (Leading, hạng 58)"
    ],
-   "nen_tang": 4,
+   "nen_tang": 3,
    "nen_tang_ds": [
     "rẻ",
     "LN tăng bền",
-    "cổ tức đều",
-    "khối ngoại mua"
+    "cổ tức đều"
    ]
+  },
+  {
+   "ma": "TNG",
+   "setup": "B",
+   "gia_kh": 17.7,
+   "cat_lo": 16.99,
+   "rui_ro": 4.0,
+   "gia": 17.5,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -5.5,
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": 29.5,
+    "dt": 22.6,
+    "nhan": null,
+    "lnst": 152
+   },
+   "nhom": "M",
+   "hang_1t": 41,
+   "ty_trong": 12.5,
+   "nganh": "Hàng May mặc",
+   "hang_nganh": 9,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 1,
+   "meta_ds": [
+    "xu hướng"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "MSH (Leading, hạng 80)"
+   ],
+   "nen_tang": 3,
+   "nen_tang_ds": [
+    "rẻ",
+    "LN tăng bền",
+    "cổ tức đều"
+   ]
+  },
+  {
+   "ma": "VEA",
+   "setup": "B",
+   "gia_kh": 32.56,
+   "cat_lo": 31.25,
+   "rui_ro": 4.0,
+   "gia": 32.2725,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": 7.8,
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": 5.2,
+    "dt": 15.2,
+    "nhan": null,
+    "lnst": 1893
+   },
+   "nhom": "M",
+   "hang_1t": 40,
+   "ty_trong": 12.4,
+   "nganh": "Máy công nghiệp",
+   "hang_nganh": null,
+   "nganh_dan_dat": false,
+   "boi_canh": "Trung tính",
+   "meta": 1,
+   "meta_ds": [
+    "xu hướng"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [],
+   "nen_tang": 2,
+   "nen_tang_ds": [
+    "rẻ",
+    "cổ tức đều"
+   ]
+  },
+  {
+   "ma": "DXP",
+   "setup": "B",
+   "gia_kh": 14.76,
+   "cat_lo": 14.17,
+   "rui_ro": 4.0,
+   "gia": 14.6,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -2.7,
+   "ghi_chu": "Giá vượt lên EMA9",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": 98.4,
+    "dt": 128.5,
+    "nhan": null,
+    "lnst": 58
+   },
+   "nhom": "M",
+   "hang_1t": 36,
+   "ty_trong": 12.5,
+   "nganh": "Kho bãi, hậu cần và bảo dưỡng",
+   "hang_nganh": 14,
+   "nganh_dan_dat": false,
+   "boi_canh": "Yếu",
+   "meta": 1,
+   "meta_ds": [
+    "xu hướng"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "VSC (hạng 75)"
+   ],
+   "nen_tang": null,
+   "nen_tang_ds": null
   },
   {
    "ma": "DXS",
    "setup": "DAY",
-   "gia_kh": 5.36,
-   "cat_lo": 5.14,
+   "gia_kh": 5.13,
+   "cat_lo": 4.92,
    "rui_ro": 4.1,
-   "gia": null,
+   "gia": 5.0,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -39.1,
-   "ghi_chu": "Vượt đỉnh gần nhất 5,35 (đỉnh nền 5,35) sau khi giảm 56% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "rs": -38.1,
+   "ghi_chu": "Vượt đỉnh gần nhất 5,12 (đỉnh nền 5,35) sau khi giảm 56% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
@@ -3997,10 +3912,10 @@
    "gia_kh": 16.97,
    "cat_lo": 16.29,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 16.4,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -26.0,
+   "rs": -25.8,
    "ghi_chu": "Vượt đỉnh gần nhất 16,95 (đỉnh nền 18,10) sau khi giảm 34% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -4011,10 +3926,52 @@
     "lnst": 144
    },
    "nhom": "G",
-   "hang_1t": 60,
+   "hang_1t": 58,
    "ty_trong": 12.5,
    "nganh": "Ngân hàng",
-   "hang_nganh": 6,
+   "hang_nganh": 7,
+   "nganh_dan_dat": false,
+   "boi_canh": "Yếu",
+   "meta": 1,
+   "meta_ds": [
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "MSB (Leading, hạng 89)",
+    "TPB (Leading, hạng 87)",
+    "CTG (Leading, hạng 77)"
+   ],
+   "nen_tang": 0,
+   "nen_tang_ds": []
+  },
+  {
+   "ma": "HAH",
+   "setup": "DAY",
+   "gia_kh": 49.5,
+   "cat_lo": 47.52,
+   "rui_ro": 4.0,
+   "gia": 48.2,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -12.4,
+   "ghi_chu": "Vượt đỉnh gần nhất 49,45 (đỉnh nền 53,20) sau khi giảm 34% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": 8.0,
+    "dt": 5.3,
+    "nhan": null,
+    "lnst": 329
+   },
+   "nhom": "G",
+   "hang_1t": 56,
+   "ty_trong": 12.5,
+   "nganh": "Kho bãi, hậu cần và bảo dưỡng",
+   "hang_nganh": 14,
    "nganh_dan_dat": false,
    "boi_canh": "Yếu",
    "meta": 0,
@@ -4024,12 +3981,13 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "MSB (Leading, hạng 87)",
-    "TPB (Leading, hạng 85)",
-    "CTG (Leading, hạng 81)"
+    "VSC (hạng 75)"
    ],
-   "nen_tang": 0,
-   "nen_tang_ds": []
+   "nen_tang": 2,
+   "nen_tang_ds": [
+    "rẻ",
+    "cổ tức đều"
+   ]
   },
   {
    "ma": "GEX",
@@ -4037,10 +3995,10 @@
    "gia_kh": 23.62,
    "cat_lo": 22.68,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 22.35,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -36.1,
+   "rs": -36.4,
    "ghi_chu": "Vượt đỉnh gần nhất 23,60 (đỉnh nền 24,35) sau khi giảm 41% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy · ⚡ Nhóm biến động cao (Gelex): tỷ trọng 1/2, thoát theo giá ĐÓNG CỬA, theo dõi cả nhóm",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -4051,7 +4009,7 @@
     "lnst": 246
    },
    "nhom": "G",
-   "hang_1t": 58,
+   "hang_1t": 55,
    "ty_trong": 6.3,
    "nganh": "Thiết bị điện",
    "hang_nganh": null,
@@ -4070,232 +4028,15 @@
    ]
   },
   {
-   "ma": "TCM",
-   "setup": "DAY",
-   "gia_kh": 15.22,
-   "cat_lo": 14.63,
-   "rui_ro": 3.9,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -30.0,
-   "ghi_chu": "Vượt đỉnh gần nhất 15,20 (đỉnh nền 16,30) sau khi giảm 45% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -24.3,
-    "dt": 9.8,
-    "nhan": null,
-    "lnst": 48
-   },
-   "nhom": "G",
-   "hang_1t": 54,
-   "ty_trong": 12.9,
-   "nganh": "Hàng May mặc",
-   "hang_nganh": 8,
-   "nganh_dan_dat": false,
-   "boi_canh": "Yếu",
-   "meta": 1,
-   "meta_ds": [
-    "giá & KL cạn"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "MSH (Leading, hạng 83)"
-   ],
-   "nen_tang": 2,
-   "nen_tang_ds": [
-    "rẻ",
-    "cổ tức đều"
-   ]
-  },
-  {
-   "ma": "BCM",
-   "setup": "DAY",
-   "gia_kh": 38.94,
-   "cat_lo": 37.38,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -27.8,
-   "ghi_chu": "Vượt đỉnh gần nhất 38,90 (đỉnh nền 42,40) sau khi giảm 53% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 35.5,
-    "dt": 13.6,
-    "nhan": null,
-    "lnst": 563
-   },
-   "nhom": "G",
-   "hang_1t": 53,
-   "ty_trong": 12.5,
-   "nganh": "Bất động sản",
-   "hang_nganh": 5,
-   "nganh_dan_dat": false,
-   "boi_canh": "Yếu",
-   "meta": 1,
-   "meta_ds": [
-    "giá & KL cạn"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "HDC (Leading, hạng 100)",
-    "TCH (Leading, hạng 99)",
-    "SZC (Leading, hạng 94)"
-   ],
-   "nen_tang": 2,
-   "nen_tang_ds": [
-    "cổ tức đều",
-    "khối ngoại mua"
-   ]
-  },
-  {
-   "ma": "DGC",
-   "setup": "DAY",
-   "gia_kh": 33.98,
-   "cat_lo": 32.64,
-   "rui_ro": 3.9,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -19.9,
-   "ghi_chu": "Vượt đỉnh gần nhất 33,95 (đỉnh nền 34,40) sau khi giảm 60% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -36.4,
-    "dt": -12.3,
-    "nhan": null,
-    "lnst": 478
-   },
-   "nhom": "G",
-   "hang_1t": 51,
-   "ty_trong": 12.7,
-   "nganh": "Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
-   "hang_nganh": 11,
-   "nganh_dan_dat": false,
-   "boi_canh": "Yếu",
-   "meta": 0,
-   "meta_ds": [],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "CSV (Leading, hạng 55)",
-    "BFC (Leading, hạng 31)",
-    "PLC (hạng 70)"
-   ],
-   "nen_tang": 2,
-   "nen_tang_ds": [
-    "rẻ",
-    "cổ tức đều"
-   ]
-  },
-  {
-   "ma": "HAH",
-   "setup": "DAY",
-   "gia_kh": 49.5,
-   "cat_lo": 47.52,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -13.3,
-   "ghi_chu": "Vượt đỉnh gần nhất 49,45 (đỉnh nền 53,20) sau khi giảm 34% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 8.0,
-    "dt": 5.3,
-    "nhan": null,
-    "lnst": 329
-   },
-   "nhom": "G",
-   "hang_1t": 47,
-   "ty_trong": 12.5,
-   "nganh": "Kho bãi, hậu cần và bảo dưỡng",
-   "hang_nganh": 15,
-   "nganh_dan_dat": false,
-   "boi_canh": "Yếu",
-   "meta": 1,
-   "meta_ds": [
-    "giá & KL cạn"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [],
-   "nen_tang": 2,
-   "nen_tang_ds": [
-    "rẻ",
-    "cổ tức đều"
-   ]
-  },
-  {
-   "ma": "NVL",
-   "setup": "DAY",
-   "gia_kh": 11.16,
-   "cat_lo": 10.71,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -29.6,
-   "ghi_chu": "Vượt đỉnh gần nhất 11,15 (đỉnh nền 11,15) sau khi giảm 46% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": null,
-    "dt": 204.2,
-    "nhan": "Lãi trở lại",
-    "lnst": 1119
-   },
-   "nhom": "G",
-   "hang_1t": 42,
-   "ty_trong": 12.4,
-   "nganh": "Bất động sản",
-   "hang_nganh": 5,
-   "nganh_dan_dat": false,
-   "boi_canh": "Yếu",
-   "meta": 1,
-   "meta_ds": [
-    "hỗ trợ EMA10/20"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "HDC (Leading, hạng 100)",
-    "TCH (Leading, hạng 99)",
-    "SZC (Leading, hạng 94)"
-   ],
-   "nen_tang": 2,
-   "nen_tang_ds": [
-    "rẻ",
-    "LN tăng bền"
-   ]
-  },
-  {
    "ma": "VTP",
    "setup": "DAY",
    "gia_kh": 48.25,
    "cat_lo": 46.32,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 46.2,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -19.6,
+   "rs": -18.7,
    "ghi_chu": "Vượt đỉnh gần nhất 48,20 (đỉnh nền 48,90) sau khi giảm 44% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -4306,7 +4047,7 @@
     "lnst": 109
    },
    "nhom": "G",
-   "hang_1t": 42,
+   "hang_1t": 54,
    "ty_trong": 12.5,
    "nganh": "Chuyển phát nhanh",
    "hang_nganh": null,
@@ -4325,71 +4066,34 @@
    ]
   },
   {
-   "ma": "ACV",
+   "ma": "BCM",
    "setup": "DAY",
-   "gia_kh": 40.34,
-   "cat_lo": 38.73,
+   "gia_kh": 38.94,
+   "cat_lo": 37.38,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 38.45,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -11.2,
-   "ghi_chu": "Vượt đỉnh gần nhất 40,30 (đỉnh nền 43,90) sau khi giảm 38% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "rs": -28.0,
+   "ghi_chu": "Vượt đỉnh gần nhất 38,90 (đỉnh nền 42,40) sau khi giảm 53% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": -20.3,
-    "dt": -6.3,
+    "ln": 35.5,
+    "dt": 13.6,
     "nhan": null,
-    "lnst": 2206
+    "lnst": 563
    },
    "nhom": "G",
-   "hang_1t": 40,
+   "hang_1t": 52,
    "ty_trong": 12.5,
-   "nganh": "Kho bãi, hậu cần và bảo dưỡng",
-   "hang_nganh": 15,
+   "nganh": "Bất động sản",
+   "hang_nganh": 6,
    "nganh_dan_dat": false,
    "boi_canh": "Yếu",
-   "meta": 1,
+   "meta": 2,
    "meta_ds": [
-    "giá & KL cạn"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [],
-   "nen_tang": 0,
-   "nen_tang_ds": []
-  },
-  {
-   "ma": "VHC",
-   "setup": "DAY",
-   "gia_kh": 52.05,
-   "cat_lo": 49.97,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -18.5,
-   "ghi_chu": "Vượt đỉnh gần nhất 52,00 (đỉnh nền 52,80) sau khi giảm 31% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": -50.8,
-    "dt": -4.4,
-    "nhan": null,
-    "lnst": 213
-   },
-   "nhom": "G",
-   "hang_1t": 38,
-   "ty_trong": 12.5,
-   "nganh": "Nuôi trồng nông & hải sản",
-   "hang_nganh": 9,
-   "nganh_dan_dat": false,
-   "boi_canh": "Yếu",
-   "meta": 1,
-   "meta_ds": [
+    "giá & KL cạn",
     "hỗ trợ EMA10/20"
    ],
    "sieu": false,
@@ -4397,8 +4101,50 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "BAF (Leading, hạng 70)",
-    "DBC (hạng 74)"
+    "HDC (Leading, hạng 99)",
+    "TCH (Leading, hạng 99)",
+    "SZC (Leading, hạng 95)"
+   ],
+   "nen_tang": 2,
+   "nen_tang_ds": [
+    "cổ tức đều",
+    "khối ngoại mua"
+   ]
+  },
+  {
+   "ma": "TCM",
+   "setup": "DAY",
+   "gia_kh": 15.22,
+   "cat_lo": 14.73,
+   "rui_ro": 3.2,
+   "gia": 14.95,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -30.2,
+   "ghi_chu": "Vượt đỉnh gần nhất 15,20 (đỉnh nền 16,30) sau khi giảm 45% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -24.3,
+    "dt": 9.8,
+    "nhan": null,
+    "lnst": 48
+   },
+   "nhom": "G",
+   "hang_1t": 50,
+   "ty_trong": 15.5,
+   "nganh": "Hàng May mặc",
+   "hang_nganh": 9,
+   "nganh_dan_dat": false,
+   "boi_canh": "Yếu",
+   "meta": 0,
+   "meta_ds": [],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "MSH (Leading, hạng 80)"
    ],
    "nen_tang": 2,
    "nen_tang_ds": [
@@ -4407,15 +4153,101 @@
    ]
   },
   {
+   "ma": "DGC",
+   "setup": "DAY",
+   "gia_kh": 33.98,
+   "cat_lo": 32.62,
+   "rui_ro": 4.0,
+   "gia": 32.7,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -22.3,
+   "ghi_chu": "Vượt đỉnh gần nhất 33,95 (đỉnh nền 34,40) sau khi giảm 60% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -36.4,
+    "dt": -12.3,
+    "nhan": null,
+    "lnst": 478
+   },
+   "nhom": "G",
+   "hang_1t": 46,
+   "ty_trong": 12.5,
+   "nganh": "Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
+   "hang_nganh": 10,
+   "nganh_dan_dat": false,
+   "boi_canh": "Yếu",
+   "meta": 0,
+   "meta_ds": [],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "CSV (Leading, hạng 66)",
+    "PLC (Leading, hạng 64)",
+    "BFC (Leading, hạng 19)"
+   ],
+   "nen_tang": 2,
+   "nen_tang_ds": [
+    "rẻ",
+    "cổ tức đều"
+   ]
+  },
+  {
+   "ma": "VFS",
+   "setup": "DAY",
+   "gia_kh": 9.81,
+   "cat_lo": 9.42,
+   "rui_ro": 4.0,
+   "gia": 9.7,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -17.9,
+   "ghi_chu": "Vượt đỉnh gần nhất 9,80 (đỉnh nền 10,10) sau khi giảm 39% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -37.1,
+    "dt": 11.0,
+    "nhan": null,
+    "lnst": 25
+   },
+   "nhom": "G",
+   "hang_1t": 42,
+   "ty_trong": 12.6,
+   "nganh": "Môi giới chứng khoán",
+   "hang_nganh": 5,
+   "nganh_dan_dat": false,
+   "boi_canh": "Yếu",
+   "meta": 2,
+   "meta_ds": [
+    "giá & KL cạn",
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "BSI (Leading, hạng 98)",
+    "CTS (Leading, hạng 97)",
+    "ORS (Leading, hạng 79)"
+   ],
+   "nen_tang": null,
+   "nen_tang_ds": null
+  },
+  {
    "ma": "YEG",
    "setup": "DAY",
    "gia_kh": 7.71,
    "cat_lo": 7.4,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 7.55,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -18.6,
+   "rs": -19.3,
    "ghi_chu": "Vượt đỉnh gần nhất 7,70 (đỉnh nền 8,29) sau khi giảm 47% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -4426,7 +4258,7 @@
     "lnst": 12
    },
    "nhom": "G",
-   "hang_1t": 37,
+   "hang_1t": 42,
    "ty_trong": 12.4,
    "nganh": "Giải trí & Truyền thông",
    "hang_nganh": null,
@@ -4443,15 +4275,55 @@
    "nen_tang_ds": null
   },
   {
+   "ma": "ACV",
+   "setup": "DAY",
+   "gia_kh": 40.04,
+   "cat_lo": 38.8,
+   "rui_ro": 3.1,
+   "gia": 39.6,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -10.6,
+   "ghi_chu": "Vượt đỉnh gần nhất 40,00 (đỉnh nền 43,90) sau khi giảm 38% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -20.3,
+    "dt": -6.3,
+    "nhan": null,
+    "lnst": 2206
+   },
+   "nhom": "G",
+   "hang_1t": 39,
+   "ty_trong": 16.1,
+   "nganh": "Kho bãi, hậu cần và bảo dưỡng",
+   "hang_nganh": 14,
+   "nganh_dan_dat": false,
+   "boi_canh": "Yếu",
+   "meta": 1,
+   "meta_ds": [
+    "giá & KL cạn"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "VSC (hạng 75)"
+   ],
+   "nen_tang": 0,
+   "nen_tang_ds": []
+  },
+  {
    "ma": "BID",
    "setup": "DAY",
    "gia_kh": 33.13,
-   "cat_lo": 31.81,
-   "rui_ro": 4.0,
-   "gia": null,
+   "cat_lo": 31.84,
+   "rui_ro": 3.9,
+   "gia": 32.45,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -18.7,
+   "rs": -19.5,
    "ghi_chu": "Vượt đỉnh gần nhất 33,10 (đỉnh nền 34,80) sau khi giảm 38% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -4462,10 +4334,10 @@
     "lnst": 8331
    },
    "nhom": "G",
-   "hang_1t": 35,
-   "ty_trong": 12.5,
+   "hang_1t": 39,
+   "ty_trong": 12.8,
    "nganh": "Ngân hàng",
-   "hang_nganh": 6,
+   "hang_nganh": 7,
    "nganh_dan_dat": false,
    "boi_canh": "Yếu",
    "meta": 0,
@@ -4475,10 +4347,92 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "MSB (Leading, hạng 87)",
-    "TPB (Leading, hạng 85)",
-    "CTG (Leading, hạng 81)"
+    "MSB (Leading, hạng 89)",
+    "TPB (Leading, hạng 87)",
+    "CTG (Leading, hạng 77)"
    ],
+   "nen_tang": 3,
+   "nen_tang_ds": [
+    "rẻ",
+    "LN tăng bền",
+    "cổ tức đều"
+   ]
+  },
+  {
+   "ma": "VHC",
+   "setup": "DAY",
+   "gia_kh": 49.7,
+   "cat_lo": 48.31,
+   "rui_ro": 2.8,
+   "gia": 49.55,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -19.0,
+   "ghi_chu": "Vượt đỉnh gần nhất 49,65 (đỉnh nền 52,80) sau khi giảm 31% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -50.8,
+    "dt": -4.4,
+    "nhan": null,
+    "lnst": 213
+   },
+   "nhom": "G",
+   "hang_1t": 38,
+   "ty_trong": 17.9,
+   "nganh": "Nuôi trồng nông & hải sản",
+   "hang_nganh": 11,
+   "nganh_dan_dat": false,
+   "boi_canh": "Yếu",
+   "meta": 0,
+   "meta_ds": [],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "BAF (Leading, hạng 67)",
+    "DBC (hạng 72)"
+   ],
+   "nen_tang": 2,
+   "nen_tang_ds": [
+    "rẻ",
+    "cổ tức đều"
+   ]
+  },
+  {
+   "ma": "OIL",
+   "setup": "DAY",
+   "gia_kh": 13.01,
+   "cat_lo": 12.49,
+   "rui_ro": 4.0,
+   "gia": 12.6,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -15.6,
+   "ghi_chu": "Vượt đỉnh gần nhất 13,00 (đỉnh nền 13,50) sau khi giảm 49% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": 471.8,
+    "dt": 175.8,
+    "nhan": null,
+    "lnst": 716
+   },
+   "nhom": "G",
+   "hang_1t": 32,
+   "ty_trong": 12.5,
+   "nganh": "Sản xuất và Khai thác dầu khí",
+   "hang_nganh": 19,
+   "nganh_dan_dat": false,
+   "boi_canh": "Yếu",
+   "meta": 0,
+   "meta_ds": [],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": true,
+   "manh_hon": [],
    "nen_tang": 3,
    "nen_tang_ds": [
     "rẻ",
@@ -4492,10 +4446,10 @@
    "gia_kh": 77.08,
    "cat_lo": 73.99,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 73.6,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -15.3,
+   "rs": -15.6,
    "ghi_chu": "Vượt đỉnh gần nhất 77,00 (đỉnh nền 79,00) sau khi giảm 45% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -4506,7 +4460,7 @@
     "lnst": 2797
    },
    "nhom": "G",
-   "hang_1t": 32,
+   "hang_1t": 31,
    "ty_trong": 12.5,
    "nganh": "Viễn thông di động",
    "hang_nganh": null,
@@ -4532,10 +4486,10 @@
    "gia_kh": 12.91,
    "cat_lo": 12.4,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 12.6,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -20.0,
+   "rs": -19.7,
    "ghi_chu": "Vượt đỉnh gần nhất 12,90 (đỉnh nền 14,00) sau khi giảm 36% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -4546,7 +4500,7 @@
     "lnst": 35
    },
    "nhom": "G",
-   "hang_1t": 31,
+   "hang_1t": 29,
    "ty_trong": 12.7,
    "nganh": "Vật liệu xây dựng & Nội thất",
    "hang_nganh": 13,
@@ -4572,11 +4526,11 @@
    "gia_kh": 12.61,
    "cat_lo": 11.94,
    "rui_ro": 5.3,
-   "gia": null,
+   "gia": 12.6,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -20.0,
-   "ghi_chu": "Bán tháo ngày 02/11 (KL 3.7 lần TB, rút chân) sau khi giảm 34% từ đỉnh 1 năm, nền 6 phiên KL cạn – mua khi vol vào vượt 12,61; mẫu ít dữ liệu kiểm định, tỷ trọng nhỏ",
+   "rs": -19.7,
+   "ghi_chu": "Bán tháo ngày 02/11 (KL 3.7 lần TB, rút chân) sau khi giảm 34% từ đỉnh 1 năm, nền 7 phiên KL cạn – mua khi vol vào vượt 12,61; mẫu ít dữ liệu kiểm định, tỷ trọng nhỏ",
    "thoat": "Lãi 8% dời cắt lỗ về hòa vốn, đóng cửa dưới MA20 thì bán",
    "bctc": {
     "quy": "Q3/26",
@@ -4586,7 +4540,7 @@
     "lnst": 35
    },
    "nhom": "G",
-   "hang_1t": 31,
+   "hang_1t": 29,
    "ty_trong": 9.4,
    "nganh": "Vật liệu xây dựng & Nội thất",
    "hang_nganh": 13,
@@ -4607,86 +4561,47 @@
    ]
   },
   {
-   "ma": "OIL",
+   "ma": "NVL",
    "setup": "DAY",
-   "gia_kh": 13.01,
-   "cat_lo": 12.49,
+   "gia_kh": 11.01,
+   "cat_lo": 10.57,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 10.55,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -16.8,
-   "ghi_chu": "Vượt đỉnh gần nhất 13,00 (đỉnh nền 13,50) sau khi giảm 49% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "rs": -31.4,
+   "ghi_chu": "Vượt đỉnh gần nhất 11,00 (đỉnh nền 11,15) sau khi giảm 46% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": 471.8,
-    "dt": 175.8,
-    "nhan": null,
-    "lnst": 716
+    "ln": null,
+    "dt": 204.2,
+    "nhan": "Lãi trở lại",
+    "lnst": 1119
    },
    "nhom": "G",
-   "hang_1t": 30,
+   "hang_1t": 28,
    "ty_trong": 12.5,
-   "nganh": "Sản xuất và Khai thác dầu khí",
-   "hang_nganh": 19,
-   "nganh_dan_dat": false,
-   "boi_canh": "Yếu",
-   "meta": 0,
-   "meta_ds": [],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": true,
-   "manh_hon": [],
-   "nen_tang": 3,
-   "nen_tang_ds": [
-    "rẻ",
-    "LN tăng bền",
-    "cổ tức đều"
-   ]
-  },
-  {
-   "ma": "NVB",
-   "setup": "LUK2",
-   "gia_kh": 16.1,
-   "cat_lo": 15.32,
-   "rui_ro": 4.8,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": 43.5,
-   "ghi_chu": "Vượt đỉnh nhịp chỉnh 16,10 (chạm hỗ trợ 1 phiên trước) – báo ngay khi vượt, vào 1/2, thêm khi KL xác nhận",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 346.3,
-    "dt": null,
-    "nhan": null,
-    "lnst": 847
-   },
-   "nhom": "G",
-   "hang_1t": 29,
-   "ty_trong": 10.3,
-   "nganh": "Ngân hàng",
+   "nganh": "Bất động sản",
    "hang_nganh": 6,
    "nganh_dan_dat": false,
    "boi_canh": "Yếu",
    "meta": 1,
    "meta_ds": [
-    "xu hướng"
+    "hỗ trợ EMA10/20"
    ],
    "sieu": false,
    "radar": false,
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "MSB (Leading, hạng 87)",
-    "TPB (Leading, hạng 85)",
-    "CTG (Leading, hạng 81)"
+    "HDC (Leading, hạng 99)",
+    "TCH (Leading, hạng 99)",
+    "SZC (Leading, hạng 95)"
    ],
-   "nen_tang": 1,
+   "nen_tang": 2,
    "nen_tang_ds": [
+    "rẻ",
     "LN tăng bền"
    ]
   },
@@ -4696,10 +4611,10 @@
    "gia_kh": 11.16,
    "cat_lo": 10.71,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 10.75,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -30.3,
+   "rs": -30.7,
    "ghi_chu": "Vượt đỉnh gần nhất 11,15 (đỉnh nền 12,05) sau khi giảm 58% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -4710,7 +4625,7 @@
     "lnst": 37
    },
    "nhom": "G",
-   "hang_1t": 27,
+   "hang_1t": 23,
    "ty_trong": 12.4,
    "nganh": "Thiết bị viễn thông",
    "hang_nganh": null,
@@ -4729,187 +4644,15 @@
    "nen_tang_ds": null
   },
   {
-   "ma": "TNG",
-   "setup": "DAY",
-   "gia_kh": 18.29,
-   "cat_lo": 17.56,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -6.4,
-   "ghi_chu": "Vượt đỉnh gần nhất 18,27 (đỉnh nền 19,70) sau khi giảm 35% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 29.5,
-    "dt": 22.6,
-    "nhan": null,
-    "lnst": 152
-   },
-   "nhom": "G",
-   "hang_1t": 27,
-   "ty_trong": 12.5,
-   "nganh": "Hàng May mặc",
-   "hang_nganh": 8,
-   "nganh_dan_dat": false,
-   "boi_canh": "Yếu",
-   "meta": 2,
-   "meta_ds": [
-    "xu hướng",
-    "giá & KL cạn"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "MSH (Leading, hạng 83)"
-   ],
-   "nen_tang": 3,
-   "nen_tang_ds": [
-    "rẻ",
-    "LN tăng bền",
-    "cổ tức đều"
-   ]
-  },
-  {
-   "ma": "SSB",
-   "setup": "DAY",
-   "gia_kh": 15.32,
-   "cat_lo": 14.7,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": 9.3,
-   "ghi_chu": "Vượt đỉnh gần nhất 15,30 (đỉnh nền 16,65) sau khi giảm 39% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 35.0,
-    "dt": null,
-    "nhan": null,
-    "lnst": 1052
-   },
-   "nhom": "G",
-   "hang_1t": 26,
-   "ty_trong": 12.4,
-   "nganh": "Ngân hàng",
-   "hang_nganh": 6,
-   "nganh_dan_dat": false,
-   "boi_canh": "Yếu",
-   "meta": 0,
-   "meta_ds": [],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "MSB (Leading, hạng 87)",
-    "TPB (Leading, hạng 85)",
-    "CTG (Leading, hạng 81)"
-   ],
-   "nen_tang": 1,
-   "nen_tang_ds": [
-    "cổ tức đều"
-   ]
-  },
-  {
-   "ma": "GVR",
-   "setup": "DAY",
-   "gia_kh": 30.36,
-   "cat_lo": 29.14,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -19.4,
-   "ghi_chu": "Vượt đỉnh gần nhất 30,33 (đỉnh nền 32,70) sau khi giảm 37% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 75.8,
-    "dt": 2.3,
-    "nhan": null,
-    "lnst": 3336
-   },
-   "nhom": "G",
-   "hang_1t": 19,
-   "ty_trong": 12.4,
-   "nganh": "Nhựa, cao su & sợi",
-   "hang_nganh": 16,
-   "nganh_dan_dat": false,
-   "boi_canh": "Yếu",
-   "meta": 1,
-   "meta_ds": [
-    "giá & KL cạn"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "DPR (Leading, hạng 56)"
-   ],
-   "nen_tang": 2,
-   "nen_tang_ds": [
-    "LN tăng bền",
-    "cổ tức đều"
-   ]
-  },
-  {
-   "ma": "PAN",
-   "setup": "DAY",
-   "gia_kh": 17.42,
-   "cat_lo": 16.72,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -28.1,
-   "ghi_chu": "Vượt đỉnh gần nhất 17,40 (đỉnh nền 19,15) sau khi giảm 36% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 25.3,
-    "dt": -21.0,
-    "nhan": null,
-    "lnst": 196
-   },
-   "nhom": "G",
-   "hang_1t": 19,
-   "ty_trong": 12.4,
-   "nganh": "Thực phẩm",
-   "hang_nganh": 14,
-   "nganh_dan_dat": false,
-   "boi_canh": "Yếu",
-   "meta": 0,
-   "meta_ds": [],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [
-    "MSN (Leading, hạng 50)"
-   ],
-   "nen_tang": 3,
-   "nen_tang_ds": [
-    "rẻ",
-    "LN tăng bền",
-    "cổ tức đều"
-   ]
-  },
-  {
    "ma": "PVC",
    "setup": "DAY",
    "gia_kh": 11.21,
    "cat_lo": 10.76,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 10.8,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -32.3,
+   "rs": -29.9,
    "ghi_chu": "Vượt đỉnh gần nhất 11,20 (đỉnh nền 12,30) sau khi giảm 51% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -4920,14 +4663,16 @@
     "lnst": 9
    },
    "nhom": "G",
-   "hang_1t": 18,
+   "hang_1t": 23,
    "ty_trong": 12.5,
    "nganh": "Thiết bị và Dịch vụ Dầu khí",
    "hang_nganh": 18,
    "nganh_dan_dat": false,
    "boi_canh": "Yếu",
-   "meta": 0,
-   "meta_ds": [],
+   "meta": 1,
+   "meta_ds": [
+    "giá & KL cạn"
+   ],
    "sieu": false,
    "radar": false,
    "nr_diem": null,
@@ -4937,29 +4682,29 @@
    "nen_tang_ds": null
   },
   {
-   "ma": "KSF",
+   "ma": "SSB",
    "setup": "DAY",
-   "gia_kh": 70.87,
-   "cat_lo": 68.04,
+   "gia_kh": 15.22,
+   "cat_lo": 14.61,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 15.1,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -22.5,
-   "ghi_chu": "Vượt đỉnh gần nhất 70,80 (đỉnh nền 76,40) sau khi giảm 40% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "rs": 8.9,
+   "ghi_chu": "Vượt đỉnh gần nhất 15,20 (đỉnh nền 16,65) sau khi giảm 39% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": -97.5,
-    "dt": -94.2,
+    "ln": 35.0,
+    "dt": null,
     "nhan": null,
-    "lnst": 34
+    "lnst": 1052
    },
    "nhom": "G",
-   "hang_1t": 17,
+   "hang_1t": 22,
    "ty_trong": 12.5,
-   "nganh": "Bất động sản",
-   "hang_nganh": 5,
+   "nganh": "Ngân hàng",
+   "hang_nganh": 7,
    "nganh_dan_dat": false,
    "boi_canh": "Yếu",
    "meta": 0,
@@ -4969,49 +4714,12 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "HDC (Leading, hạng 100)",
-    "TCH (Leading, hạng 99)",
-    "SZC (Leading, hạng 94)"
+    "MSB (Leading, hạng 89)",
+    "TPB (Leading, hạng 87)",
+    "CTG (Leading, hạng 77)"
    ],
-   "nen_tang": null,
-   "nen_tang_ds": null
-  },
-  {
-   "ma": "PLX",
-   "setup": "DAY",
-   "gia_kh": 34.13,
-   "cat_lo": 32.77,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -15.8,
-   "ghi_chu": "Vượt đỉnh gần nhất 34,10 (đỉnh nền 36,80) sau khi giảm 51% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 103.2,
-    "dt": 65.6,
-    "nhan": null,
-    "lnst": 1241
-   },
-   "nhom": "G",
-   "hang_1t": 17,
-   "ty_trong": 12.5,
-   "nganh": "Sản xuất và Khai thác dầu khí",
-   "hang_nganh": 19,
-   "nganh_dan_dat": false,
-   "boi_canh": "Yếu",
-   "meta": 0,
-   "meta_ds": [],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [],
-   "nen_tang": 2,
+   "nen_tang": 1,
    "nen_tang_ds": [
-    "LN tăng bền",
     "cổ tức đều"
    ]
   },
@@ -5021,10 +4729,10 @@
    "gia_kh": 20.02,
    "cat_lo": 19.22,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 19.4,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -23.9,
+   "rs": -23.0,
    "ghi_chu": "Vượt đỉnh gần nhất 20,00 (đỉnh nền 22,00) sau khi giảm 40% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -5035,24 +4743,22 @@
     "lnst": 40
    },
    "nhom": "G",
-   "hang_1t": 16,
+   "hang_1t": 17,
    "ty_trong": 12.5,
    "nganh": "Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
-   "hang_nganh": 11,
+   "hang_nganh": 10,
    "nganh_dan_dat": false,
    "boi_canh": "Yếu",
-   "meta": 1,
-   "meta_ds": [
-    "giá & KL cạn"
-   ],
+   "meta": 0,
+   "meta_ds": [],
    "sieu": false,
    "radar": false,
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "CSV (Leading, hạng 55)",
-    "BFC (Leading, hạng 31)",
-    "PLC (hạng 70)"
+    "CSV (Leading, hạng 66)",
+    "PLC (Leading, hạng 64)",
+    "BFC (Leading, hạng 19)"
    ],
    "nen_tang": 2,
    "nen_tang_ds": [
@@ -5061,182 +4767,303 @@
    ]
   },
   {
-   "ma": "NVB",
-   "setup": "PP",
-   "gia_kh": 15.65,
-   "cat_lo": 15.03,
+   "ma": "KSF",
+   "setup": "DAY",
+   "gia_kh": 70.27,
+   "cat_lo": 67.46,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 68.5,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 43.5,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "rs": -18.7,
+   "ghi_chu": "Vượt đỉnh gần nhất 70,20 (đỉnh nền 76,40) sau khi giảm 40% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": 346.3,
-    "dt": null,
+    "ln": -97.5,
+    "dt": -94.2,
     "nhan": null,
-    "lnst": 847
+    "lnst": 34
    },
    "nhom": "G",
-   "hang_1t": 29,
-   "ty_trong": 12.6,
-   "nganh": "Ngân hàng",
+   "hang_1t": 16,
+   "ty_trong": 12.5,
+   "nganh": "Bất động sản",
    "hang_nganh": 6,
    "nganh_dan_dat": false,
    "boi_canh": "Yếu",
-   "meta": 1,
-   "meta_ds": [
-    "xu hướng"
-   ],
+   "meta": 0,
+   "meta_ds": [],
    "sieu": false,
    "radar": false,
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "MSB (Leading, hạng 87)",
-    "TPB (Leading, hạng 85)",
-    "CTG (Leading, hạng 81)"
+    "HDC (Leading, hạng 99)",
+    "TCH (Leading, hạng 99)",
+    "SZC (Leading, hạng 95)"
    ],
-   "nen_tang": 1,
-   "nen_tang_ds": [
-    "LN tăng bền"
-   ]
+   "nen_tang": null,
+   "nen_tang_ds": null
   },
   {
-   "ma": "TNG",
-   "setup": "PP",
-   "gia_kh": 17.68,
-   "cat_lo": 16.97,
+   "ma": "PLX",
+   "setup": "DAY",
+   "gia_kh": 34.13,
+   "cat_lo": 32.77,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 32.85,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -6.4,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "rs": -14.6,
+   "ghi_chu": "Vượt đỉnh gần nhất 34,10 (đỉnh nền 36,40) sau khi giảm 51% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": 29.5,
-    "dt": 22.6,
+    "ln": 103.2,
+    "dt": 65.6,
     "nhan": null,
-    "lnst": 152
+    "lnst": 1241
    },
    "nhom": "G",
-   "hang_1t": 27,
+   "hang_1t": 16,
    "ty_trong": 12.5,
-   "nganh": "Hàng May mặc",
-   "hang_nganh": 8,
+   "nganh": "Sản xuất và Khai thác dầu khí",
+   "hang_nganh": 19,
    "nganh_dan_dat": false,
    "boi_canh": "Yếu",
-   "meta": 2,
+   "meta": 1,
    "meta_ds": [
-    "xu hướng",
     "giá & KL cạn"
    ],
    "sieu": false,
    "radar": false,
    "nr_diem": null,
    "vua_nganh": false,
-   "manh_hon": [
-    "MSH (Leading, hạng 83)"
-   ],
-   "nen_tang": 3,
+   "manh_hon": [],
+   "nen_tang": 2,
    "nen_tang_ds": [
-    "rẻ",
     "LN tăng bền",
     "cổ tức đều"
    ]
   },
   {
-   "ma": "MSR",
-   "setup": "PP",
-   "gia_kh": 60.8,
-   "cat_lo": 58.37,
-   "rui_ro": 4.0,
-   "gia": null,
+   "ma": "GVR",
+   "setup": "DAY",
+   "gia_kh": 29.78,
+   "cat_lo": 28.61,
+   "rui_ro": 3.9,
+   "gia": 29.4,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 45.7,
-   "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
+   "rs": -18.8,
+   "ghi_chu": "Vượt đỉnh gần nhất 29,75 (đỉnh nền 32,70) sau khi giảm 37% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": 41509.7,
-    "dt": 613.2,
+    "ln": 75.8,
+    "dt": 2.3,
     "nhan": null,
-    "lnst": 2148
+    "lnst": 3336
+   },
+   "nhom": "G",
+   "hang_1t": 14,
+   "ty_trong": 12.7,
+   "nganh": "Nhựa, cao su & sợi",
+   "hang_nganh": 16,
+   "nganh_dan_dat": false,
+   "boi_canh": "Yếu",
+   "meta": 0,
+   "meta_ds": [],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "DPR (Leading, hạng 49)"
+   ],
+   "nen_tang": 2,
+   "nen_tang_ds": [
+    "LN tăng bền",
+    "cổ tức đều"
+   ]
+  },
+  {
+   "ma": "FPT",
+   "setup": "DAY",
+   "gia_kh": 52.55,
+   "cat_lo": 50.45,
+   "rui_ro": 4.0,
+   "gia": 50.9,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -23.2,
+   "ghi_chu": "Vượt đỉnh gần nhất 52,50 (đỉnh nền 58,70) sau khi giảm 47% từ đỉnh 1 năm – cần KL ≥2 lần TB, nến đóng cửa gần đỉnh phiên; đóng cửa yếu thì hủy",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": 11.8,
+    "dt": -20.1,
+    "nhan": null,
+    "lnst": 2723
    },
    "nhom": "G",
    "hang_1t": 12,
    "ty_trong": 12.5,
-   "nganh": "Khai khoáng",
+   "nganh": "Phần mềm",
    "hang_nganh": null,
    "nganh_dan_dat": false,
    "boi_canh": "Yếu",
-   "meta": 1,
-   "meta_ds": [
-    "xu hướng"
-   ],
+   "meta": 0,
+   "meta_ds": [],
    "sieu": false,
    "radar": false,
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [],
-   "nen_tang": 1,
+   "nen_tang": 2,
    "nen_tang_ds": [
-    "LN tăng bền"
+    "rẻ",
+    "cổ tức đều"
    ]
   },
   {
-   "ma": "DXP",
+   "ma": "BFC",
    "setup": "PP",
-   "gia_kh": 14.54,
-   "cat_lo": 13.96,
+   "gia_kh": 58.28,
+   "cat_lo": 55.95,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 57.7,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -4.6,
+   "rs": -0.4,
    "ghi_chu": "Pocket pivot: tiền vào mạnh hơn mọi phiên giảm gần đây",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": 98.4,
-    "dt": 128.5,
+    "ln": -1.4,
+    "dt": 48.2,
     "nhan": null,
-    "lnst": 58
+    "lnst": 60
    },
    "nhom": "G",
-   "hang_1t": 11,
+   "hang_1t": 19,
    "ty_trong": 12.5,
-   "nganh": "Kho bãi, hậu cần và bảo dưỡng",
-   "hang_nganh": 15,
+   "nganh": "Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
+   "hang_nganh": 10,
    "nganh_dan_dat": false,
    "boi_canh": "Yếu",
-   "meta": 1,
+   "meta": 3,
    "meta_ds": [
-    "xu hướng"
+    "xu hướng",
+    "giá & KL cạn",
+    "hỗ trợ EMA10/20"
    ],
    "sieu": false,
    "radar": false,
    "nr_diem": null,
    "vua_nganh": false,
-   "manh_hon": [],
+   "manh_hon": [
+    "CSV (Leading, hạng 66)",
+    "PLC (Leading, hạng 64)"
+   ],
    "nen_tang": null,
    "nen_tang_ds": null
   },
   {
-   "ma": "VTZ",
-   "setup": "A+",
-   "gia_kh": 20.31,
-   "cat_lo": 19.5,
+   "ma": "BFC",
+   "setup": "VCP",
+   "gia_kh": 58.9,
+   "cat_lo": 56.54,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 57.7,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": -0.5,
+   "rs": -0.4,
+   "ghi_chu": "Nền co hẹp 28% → 16% → 10%, vol cạn",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -1.4,
+    "dt": 48.2,
+    "nhan": null,
+    "lnst": 60
+   },
+   "nhom": "G",
+   "hang_1t": 19,
+   "ty_trong": 12.5,
+   "nganh": "Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
+   "hang_nganh": 10,
+   "nganh_dan_dat": false,
+   "boi_canh": "Yếu",
+   "meta": 3,
+   "meta_ds": [
+    "xu hướng",
+    "giá & KL cạn",
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": false,
+   "manh_hon": [
+    "CSV (Leading, hạng 66)",
+    "PLC (Leading, hạng 64)"
+   ],
+   "nen_tang": null,
+   "nen_tang_ds": null
+  },
+  {
+   "ma": "VSC",
+   "setup": "A+",
+   "gia_kh": 14.65,
+   "cat_lo": 14.06,
+   "rui_ro": 4.0,
+   "gia": 13.8,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -36.4,
+   "ghi_chu": "EMA9 cắt lên MA20",
+   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
+   "bctc": {
+    "quy": "Q3/26",
+    "ln": -111.9,
+    "dt": 10.7,
+    "nhan": null,
+    "lnst": -9
+   },
+   "nhom": "G",
+   "hang_1t": 75,
+   "ty_trong": 12.4,
+   "nganh": "Kho bãi, hậu cần và bảo dưỡng",
+   "hang_nganh": 14,
+   "nganh_dan_dat": false,
+   "boi_canh": "Yếu",
+   "meta": 1,
+   "meta_ds": [
+    "hỗ trợ EMA10/20"
+   ],
+   "sieu": false,
+   "radar": false,
+   "nr_diem": null,
+   "vua_nganh": true,
+   "manh_hon": [],
+   "nen_tang": 2,
+   "nen_tang_ds": [
+    "rẻ",
+    "cổ tức đều"
+   ]
+  },
+  {
+   "ma": "VTZ",
+   "setup": "A+",
+   "gia_kh": 20.28,
+   "cat_lo": 19.47,
+   "rui_ro": 4.0,
+   "gia": 20.3,
+   "kl_du_kien": null,
+   "trang_thai": "Chờ",
+   "rs": -1.0,
    "ghi_chu": "EMA9 cắt lên MA20",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -5247,7 +5074,7 @@
     "lnst": 11
    },
    "nhom": "G",
-   "hang_1t": 58,
+   "hang_1t": 50,
    "ty_trong": 12.5,
    "nganh": "Nhựa, cao su & sợi",
    "hang_nganh": 16,
@@ -5262,144 +5089,64 @@
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "DPR (Leading, hạng 56)"
+    "DPR (Leading, hạng 49)"
    ],
    "nen_tang": 0,
    "nen_tang_ds": []
   },
   {
-   "ma": "MSR",
+   "ma": "BFC",
    "setup": "A+",
-   "gia_kh": 67.35,
-   "cat_lo": 64.66,
+   "gia_kh": 57.55,
+   "cat_lo": 55.25,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 57.7,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 45.7,
+   "rs": -0.4,
    "ghi_chu": "EMA9 cắt lên MA20",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
     "quy": "Q3/26",
-    "ln": 41509.7,
-    "dt": 613.2,
+    "ln": -1.4,
+    "dt": 48.2,
     "nhan": null,
-    "lnst": 2148
+    "lnst": 60
    },
    "nhom": "G",
-   "hang_1t": 12,
+   "hang_1t": 19,
    "ty_trong": 12.5,
-   "nganh": "Khai khoáng",
-   "hang_nganh": null,
+   "nganh": "Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
+   "hang_nganh": 10,
    "nganh_dan_dat": false,
    "boi_canh": "Yếu",
-   "meta": 1,
-   "meta_ds": [
-    "xu hướng"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [],
-   "nen_tang": 1,
-   "nen_tang_ds": [
-    "LN tăng bền"
-   ]
-  },
-  {
-   "ma": "DXP",
-   "setup": "A+",
-   "gia_kh": 15.72,
-   "cat_lo": 15.09,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -4.6,
-   "ghi_chu": "EMA9 cắt lên MA20",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 98.4,
-    "dt": 128.5,
-    "nhan": null,
-    "lnst": 58
-   },
-   "nhom": "G",
-   "hang_1t": 11,
-   "ty_trong": 12.5,
-   "nganh": "Kho bãi, hậu cần và bảo dưỡng",
-   "hang_nganh": 15,
-   "nganh_dan_dat": false,
-   "boi_canh": "Yếu",
-   "meta": 1,
-   "meta_ds": [
-    "xu hướng"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [],
-   "nen_tang": null,
-   "nen_tang_ds": null
-  },
-  {
-   "ma": "TNG",
-   "setup": "B",
-   "gia_kh": 17.75,
-   "cat_lo": 17.04,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -6.4,
-   "ghi_chu": "Giá vượt lên EMA9",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 29.5,
-    "dt": 22.6,
-    "nhan": null,
-    "lnst": 152
-   },
-   "nhom": "G",
-   "hang_1t": 27,
-   "ty_trong": 12.5,
-   "nganh": "Hàng May mặc",
-   "hang_nganh": 8,
-   "nganh_dan_dat": false,
-   "boi_canh": "Yếu",
-   "meta": 2,
+   "meta": 3,
    "meta_ds": [
     "xu hướng",
-    "giá & KL cạn"
+    "giá & KL cạn",
+    "hỗ trợ EMA10/20"
    ],
    "sieu": false,
    "radar": false,
    "nr_diem": null,
    "vua_nganh": false,
    "manh_hon": [
-    "MSH (Leading, hạng 83)"
+    "CSV (Leading, hạng 66)",
+    "PLC (Leading, hạng 64)"
    ],
-   "nen_tang": 3,
-   "nen_tang_ds": [
-    "rẻ",
-    "LN tăng bền",
-    "cổ tức đều"
-   ]
+   "nen_tang": null,
+   "nen_tang_ds": null
   },
   {
    "ma": "MSR",
    "setup": "B",
-   "gia_kh": 61.34,
-   "cat_lo": 58.89,
+   "gia_kh": 60.81,
+   "cat_lo": 58.38,
    "rui_ro": 4.0,
-   "gia": null,
+   "gia": 58.7,
    "kl_du_kien": null,
    "trang_thai": "Chờ",
-   "rs": 45.7,
+   "rs": 45.2,
    "ghi_chu": "Giá vượt lên EMA9",
    "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
    "bctc": {
@@ -5410,7 +5157,7 @@
     "lnst": 2148
    },
    "nhom": "G",
-   "hang_1t": 12,
+   "hang_1t": 24,
    "ty_trong": 12.5,
    "nganh": "Khai khoáng",
    "hang_nganh": null,
@@ -5429,44 +5176,6 @@
    "nen_tang_ds": [
     "LN tăng bền"
    ]
-  },
-  {
-   "ma": "DXP",
-   "setup": "B",
-   "gia_kh": 14.8,
-   "cat_lo": 14.21,
-   "rui_ro": 4.0,
-   "gia": null,
-   "kl_du_kien": null,
-   "trang_thai": "Chờ",
-   "rs": -4.6,
-   "ghi_chu": "Giá vượt lên EMA9",
-   "thoat": "Gãy EMA9 (đóng cửa dưới) chốt 1/2, phần còn lại bán khi đóng cửa dưới MA20",
-   "bctc": {
-    "quy": "Q3/26",
-    "ln": 98.4,
-    "dt": 128.5,
-    "nhan": null,
-    "lnst": 58
-   },
-   "nhom": "G",
-   "hang_1t": 11,
-   "ty_trong": 12.5,
-   "nganh": "Kho bãi, hậu cần và bảo dưỡng",
-   "hang_nganh": 15,
-   "nganh_dan_dat": false,
-   "boi_canh": "Yếu",
-   "meta": 1,
-   "meta_ds": [
-    "xu hướng"
-   ],
-   "sieu": false,
-   "radar": false,
-   "nr_diem": null,
-   "vua_nganh": false,
-   "manh_hon": [],
-   "nen_tang": null,
-   "nen_tang_ds": null
   }
  ],
  "nhat_ky": [
@@ -7463,10 +7172,10 @@
  "nganh": [
   {
    "nganh": "Thép và sản phẩm thép",
-   "diem": 68.7,
+   "diem": 69.2,
    "suc_manh": 75,
    "do_rong": 60,
-   "dong_tien": 113,
+   "dong_tien": 92,
    "so_ma": 5,
    "ma_manh": [
     "VGS",
@@ -7477,176 +7186,176 @@
    "thay_doi": 0
   },
   {
-   "nganh": "Xây dựng",
-   "diem": 53.8,
-   "suc_manh": 65,
-   "do_rong": 36,
-   "dong_tien": 130,
-   "so_ma": 11,
-   "ma_manh": [
-    "DPG",
-    "CII",
-    "CTD"
-   ],
-   "hang": 2,
-   "thay_doi": 1
-  },
-  {
-   "nganh": "Môi giới chứng khoán",
-   "diem": 52.0,
-   "suc_manh": 73,
-   "do_rong": 20,
-   "dong_tien": 158,
-   "so_ma": 20,
-   "ma_manh": [
-    "BSI",
-    "CTS",
-    "SHS"
-   ],
-   "hang": 3,
-   "thay_doi": 5
-  },
-  {
    "nganh": "Hàng không",
-   "diem": 51.2,
-   "suc_manh": 63,
-   "do_rong": 33,
-   "dong_tien": 114,
+   "diem": 65.0,
+   "suc_manh": 64,
+   "do_rong": 67,
+   "dong_tien": 105,
    "so_ma": 3,
    "ma_manh": [
     "HVN",
     "VJC",
     "SCS"
    ],
-   "hang": 4,
+   "hang": 2,
+   "thay_doi": 2
+  },
+  {
+   "nganh": "Xây dựng",
+   "diem": 61.6,
+   "suc_manh": 66,
+   "do_rong": 55,
+   "dong_tien": 123,
+   "so_ma": 11,
+   "ma_manh": [
+    "DPG",
+    "CII",
+    "CTD"
+   ],
+   "hang": 3,
    "thay_doi": 0
   },
   {
-   "nganh": "Bất động sản",
-   "diem": 49.7,
-   "suc_manh": 68,
-   "do_rong": 23,
-   "dong_tien": 111,
-   "so_ma": 22,
-   "ma_manh": [
-    "HDC",
-    "TCH",
-    "CEO"
-   ],
-   "hang": 5,
-   "thay_doi": 1
-  },
-  {
-   "nganh": "Ngân hàng",
-   "diem": 46.4,
-   "suc_manh": 52,
-   "do_rong": 38,
-   "dong_tien": 92,
-   "so_ma": 21,
-   "ma_manh": [
-    "MSB",
-    "TPB",
-    "CTG"
-   ],
-   "hang": 6,
-   "thay_doi": 1
-  },
-  {
    "nganh": "Sản xuất & Phân phối Điện",
-   "diem": 44.5,
-   "suc_manh": 74,
-   "do_rong": 0,
-   "dong_tien": 143,
+   "diem": 56.3,
+   "suc_manh": 72,
+   "do_rong": 33,
+   "dong_tien": 154,
    "so_ma": 3,
    "ma_manh": [
     "HDG",
     "REE",
     "POW"
    ],
+   "hang": 4,
+   "thay_doi": 11
+  },
+  {
+   "nganh": "Môi giới chứng khoán",
+   "diem": 51.1,
+   "suc_manh": 72,
+   "do_rong": 20,
+   "dong_tien": 133,
+   "so_ma": 20,
+   "ma_manh": [
+    "BSI",
+    "CTS",
+    "SHS"
+   ],
+   "hang": 5,
+   "thay_doi": 3
+  },
+  {
+   "nganh": "Bất động sản",
+   "diem": 48.9,
+   "suc_manh": 67,
+   "do_rong": 22,
+   "dong_tien": 105,
+   "so_ma": 23,
+   "ma_manh": [
+    "HDC",
+    "TCH",
+    "SZC"
+   ],
+   "hang": 6,
+   "thay_doi": 0
+  },
+  {
+   "nganh": "Ngân hàng",
+   "diem": 46.7,
+   "suc_manh": 51,
+   "do_rong": 40,
+   "dong_tien": 88,
+   "so_ma": 20,
+   "ma_manh": [
+    "MSB",
+    "TPB",
+    "CTG"
+   ],
    "hang": 7,
-   "thay_doi": 8
+   "thay_doi": 0
+  },
+  {
+   "nganh": "Phân phối hàng chuyên dụng",
+   "diem": 45.8,
+   "suc_manh": 43,
+   "do_rong": 50,
+   "dong_tien": 83,
+   "so_ma": 4,
+   "ma_manh": [
+    "FRT",
+    "PET",
+    "MWG"
+   ],
+   "hang": 8,
+   "thay_doi": 6
   },
   {
    "nganh": "Hàng May mặc",
-   "diem": 39.8,
-   "suc_manh": 50,
+   "diem": 42.3,
+   "suc_manh": 54,
    "do_rong": 25,
-   "dong_tien": 66,
+   "dong_tien": 62,
    "so_ma": 4,
    "ma_manh": [
     "MSH",
     "TCM",
     "VGT"
    ],
-   "hang": 8,
-   "thay_doi": -6
+   "hang": 9,
+   "thay_doi": -7
+  },
+  {
+   "nganh": "Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
+   "diem": 39.0,
+   "suc_manh": 36,
+   "do_rong": 43,
+   "dong_tien": 88,
+   "so_ma": 7,
+   "ma_manh": [
+    "CSV",
+    "PLC",
+    "DGC"
+   ],
+   "hang": 10,
+   "thay_doi": -5
   },
   {
    "nganh": "Nuôi trồng nông & hải sản",
-   "diem": 38.5,
-   "suc_manh": 53,
+   "diem": 37.0,
+   "suc_manh": 50,
    "do_rong": 17,
-   "dong_tien": 91,
+   "dong_tien": 95,
    "so_ma": 6,
    "ma_manh": [
     "DBC",
     "BAF",
     "HNG"
    ],
-   "hang": 9,
-   "thay_doi": 1
+   "hang": 11,
+   "thay_doi": -1
   },
   {
    "nganh": "Sản xuất ô tô",
-   "diem": 34.7,
-   "suc_manh": 58,
+   "diem": 33.5,
+   "suc_manh": 56,
    "do_rong": 0,
-   "dong_tien": 105,
+   "dong_tien": 98,
    "so_ma": 3,
    "ma_manh": [
     "HHS",
     "HUT",
     "VVS"
    ],
-   "hang": 10,
-   "thay_doi": 3
-  },
-  {
-   "nganh": "Sản phẩm hóa dầu, Nông dược & Hóa chất khác",
-   "diem": 32.7,
-   "suc_manh": 38,
-   "do_rong": 25,
-   "dong_tien": 87,
-   "so_ma": 8,
-   "ma_manh": [
-    "PLC",
-    "CSV",
-    "DGC"
-   ],
-   "hang": 11,
-   "thay_doi": -6
-  },
-  {
-   "nganh": "Phân phối hàng chuyên dụng",
-   "diem": 31.8,
-   "suc_manh": 36,
-   "do_rong": 25,
-   "dong_tien": 88,
-   "so_ma": 4,
-   "ma_manh": [
-    "PET",
-    "FRT",
-    "MWG"
-   ],
    "hang": 12,
-   "thay_doi": 2
+   "thay_doi": 1
   },
   {
    "nganh": "Vật liệu xây dựng & Nội thất",
-   "diem": 31.4,
-   "suc_manh": 39,
+   "diem": 30.5,
+   "suc_manh": 37,
    "do_rong": 20,
-   "dong_tien": 83,
+   "dong_tien": 76,
    "so_ma": 5,
    "ma_manh": [
     "NTP",
@@ -7657,41 +7366,41 @@
    "thay_doi": -2
   },
   {
-   "nganh": "Thực phẩm",
-   "diem": 25.7,
-   "suc_manh": 32,
-   "do_rong": 17,
-   "dong_tien": 102,
-   "so_ma": 6,
-   "ma_manh": [
-    "MSN",
-    "VNM",
-    "QNS"
-   ],
-   "hang": 14,
-   "thay_doi": 2
-  },
-  {
    "nganh": "Kho bãi, hậu cần và bảo dưỡng",
-   "diem": 22.4,
-   "suc_manh": 37,
+   "diem": 28.7,
+   "suc_manh": 48,
    "do_rong": 0,
-   "dong_tien": 79,
+   "dong_tien": 77,
    "so_ma": 6,
    "ma_manh": [
     "VSC",
     "GMD",
     "HAH"
    ],
+   "hang": 14,
+   "thay_doi": -2
+  },
+  {
+   "nganh": "Thực phẩm",
+   "diem": 26.7,
+   "suc_manh": 33,
+   "do_rong": 17,
+   "dong_tien": 95,
+   "so_ma": 6,
+   "ma_manh": [
+    "MSN",
+    "QNS",
+    "VNM"
+   ],
    "hang": 15,
-   "thay_doi": -3
+   "thay_doi": 1
   },
   {
    "nganh": "Nhựa, cao su & sợi",
-   "diem": 20.3,
-   "suc_manh": 26,
+   "diem": 18.6,
+   "suc_manh": 23,
    "do_rong": 12,
-   "dong_tien": 76,
+   "dong_tien": 74,
    "so_ma": 8,
    "ma_manh": [
     "VTZ",
@@ -7703,10 +7412,10 @@
   },
   {
    "nganh": "Sản xuất giấy",
-   "diem": 18.7,
-   "suc_manh": 31,
+   "diem": 15.4,
+   "suc_manh": 26,
    "do_rong": 0,
-   "dong_tien": 157,
+   "dong_tien": 155,
    "so_ma": 3,
    "ma_manh": [
     "DHC",
@@ -7718,25 +7427,25 @@
   },
   {
    "nganh": "Thiết bị và Dịch vụ Dầu khí",
-   "diem": 14.8,
-   "suc_manh": 25,
+   "diem": 12.6,
+   "suc_manh": 21,
    "do_rong": 0,
-   "dong_tien": 93,
+   "dong_tien": 96,
    "so_ma": 4,
    "ma_manh": [
     "TOS",
-    "PVD",
-    "PVC"
+    "PVC",
+    "PVD"
    ],
    "hang": 18,
    "thay_doi": 0
   },
   {
    "nganh": "Sản xuất và Khai thác dầu khí",
-   "diem": 10.5,
-   "suc_manh": 17,
+   "diem": 10.6,
+   "suc_manh": 18,
    "do_rong": 0,
-   "dong_tien": 95,
+   "dong_tien": 83,
    "so_ma": 3,
    "ma_manh": [
     "OIL",
@@ -7752,8 +7461,8 @@
  "nen_tang": [
   {
    "ma": "SHB",
-   "pe": 3.666562153769308,
-   "pb": 0.6322788109343591,
+   "pe": 3.7506576160117233,
+   "pb": 0.6467806185245967,
    "ln": 0.5800892538255886,
    "quy": "Q3/26",
    "diem": 4,
@@ -7767,8 +7476,8 @@
   },
   {
    "ma": "TCB",
-   "pe": 5.443410663278728,
-   "pb": 0.8332877927025715,
+   "pe": 5.406296499665464,
+   "pb": 0.827606285025054,
    "ln": 0.23734325501172715,
    "quy": "Q3/26",
    "diem": 4,
@@ -7782,8 +7491,8 @@
   },
   {
    "ma": "CTG",
-   "pe": 5.821724795956934,
-   "pb": 1.201745854434635,
+   "pe": 5.803474874966473,
+   "pb": 1.1979786260508276,
    "ln": 0.282410462854773,
    "quy": "Q3/26",
    "diem": 4,
@@ -7797,8 +7506,8 @@
   },
   {
    "ma": "DCM",
-   "pe": 5.865606708660365,
-   "pb": 1.3447872143647595,
+   "pe": 5.846119643183088,
+   "pb": 1.3403194827555742,
    "ln": 0.31102742489796364,
    "quy": "Q3/26",
    "diem": 4,
@@ -7812,8 +7521,8 @@
   },
   {
    "ma": "HPG",
-   "pe": 6.5368390288160745,
-   "pb": 1.2057696329907064,
+   "pe": 6.567600624245797,
+   "pb": 1.2114438430283097,
    "ln": 1.060351916085092,
    "quy": "Q3/26",
    "diem": 4,
@@ -7827,8 +7536,8 @@
   },
   {
    "ma": "MZG",
-   "pe": 7.27074875656051,
-   "pb": 0.8570982645583264,
+   "pe": 7.204044639527845,
+   "pb": 0.849234977727516,
    "ln": 1.0094263099883523,
    "quy": "Q3/26",
    "diem": 4,
@@ -7841,9 +7550,24 @@
    ]
   },
   {
+   "ma": "DPR",
+   "pe": 7.787502596951223,
+   "pb": 1.1270845060671975,
+   "ln": 0.44729349494170845,
+   "quy": "Q3/26",
+   "diem": 4,
+   "toi_da": 4,
+   "tieu_chi": [
+    "rẻ",
+    "LN tăng bền",
+    "cổ tức đều",
+    "khối ngoại mua"
+   ]
+  },
+  {
    "ma": "OIL",
-   "pe": 2.093937143395922,
-   "pb": 0.22203215565466322,
+   "pe": 2.11068864054309,
+   "pb": 0.22380841289990053,
    "ln": 4.7182268551845885,
    "quy": "Q3/26",
    "diem": 3,
@@ -7856,8 +7580,8 @@
   },
   {
    "ma": "PAN",
-   "pe": 3.6004523035926117,
-   "pb": 0.7985103929979627,
+   "pe": 3.642318028052991,
+   "pb": 0.8077953975677065,
    "ln": 0.2532976087130947,
    "quy": "Q3/26",
    "diem": 3,
@@ -7870,8 +7594,8 @@
   },
   {
    "ma": "BSR",
-   "pe": 4.557707276064526,
-   "pb": 1.5263123580261562,
+   "pe": 4.530844561274361,
+   "pb": 1.5173164109258055,
    "ln": 8.881618499338273,
    "quy": "Q3/26",
    "diem": 3,
@@ -7898,8 +7622,8 @@
   },
   {
    "ma": "TPB",
-   "pe": 4.793601337461511,
-   "pb": 0.8385974820784872,
+   "pe": 4.944580907145339,
+   "pb": 0.8650100011990693,
    "ln": 0.5740069970538721,
    "quy": "Q3/26",
    "diem": 3,
@@ -7925,20 +7649,6 @@
    ]
   },
   {
-   "ma": "POW",
-   "pe": 5.4748997989217925,
-   "pb": 0.8890355121200354,
-   "ln": 1.2977508873169032,
-   "quy": "Q3/26",
-   "diem": 3,
-   "toi_da": 4,
-   "tieu_chi": [
-    "rẻ",
-    "LN tăng bền",
-    "khối ngoại mua"
-   ]
-  },
-  {
    "ma": "MBB",
    "pe": 5.5215234789198835,
    "pb": 1.1445086787517076,
@@ -7953,9 +7663,23 @@
    ]
   },
   {
+   "ma": "POW",
+   "pe": 5.562498195704541,
+   "pb": 0.9032600803139559,
+   "ln": 1.2977508873169032,
+   "quy": "Q3/26",
+   "diem": 3,
+   "toi_da": 4,
+   "tieu_chi": [
+    "rẻ",
+    "LN tăng bền",
+    "khối ngoại mua"
+   ]
+  },
+  {
    "ma": "DHC",
-   "pe": 6.4385199790044405,
-   "pb": 1.5026475051488275,
+   "pe": 6.544941796839225,
+   "pb": 1.5274846539942628,
    "ln": 0.4965183968378599,
    "quy": "Q3/26",
    "diem": 3,
@@ -7968,8 +7692,8 @@
   },
   {
    "ma": "PHR",
-   "pe": 6.5612035453952675,
-   "pb": 1.485428825371235,
+   "pe": 6.550139121204045,
+   "pb": 1.4829238863739818,
    "ln": 0.6439791330438578,
    "quy": "Q3/26",
    "diem": 3,
@@ -7996,8 +7720,8 @@
   },
   {
    "ma": "PVT",
-   "pe": 6.886485272206912,
-   "pb": 1.0752132295768164,
+   "pe": 7.037652022084624,
+   "pb": 1.0988154712016733,
    "ln": 0.4243006340508211,
    "quy": "Q3/26",
    "diem": 3,
@@ -8010,23 +7734,9 @@
   },
   {
    "ma": "BID",
-   "pe": 7.231662028952233,
-   "pb": 1.270312279636879,
+   "pe": 7.287808473276396,
+   "pb": 1.2801749526154262,
    "ln": 0.39941262873419014,
-   "quy": "Q3/26",
-   "diem": 3,
-   "toi_da": 4,
-   "tieu_chi": [
-    "rẻ",
-    "LN tăng bền",
-    "cổ tức đều"
-   ]
-  },
-  {
-   "ma": "DPR",
-   "pe": 7.818611129295902,
-   "pb": 1.1315868409782515,
-   "ln": 0.44729349494170845,
    "quy": "Q3/26",
    "diem": 3,
    "toi_da": 4,
@@ -8052,8 +7762,8 @@
   },
   {
    "ma": "CSV",
-   "pe": 8.480141399714498,
-   "pb": 1.3729516188390394,
+   "pe": 8.592709648383275,
+   "pb": 1.391176640328053,
    "ln": 0.47886793851178444,
    "quy": "Q3/26",
    "diem": 3,
@@ -8066,8 +7776,8 @@
   },
   {
    "ma": "LPB",
-   "pe": 8.918376502420694,
-   "pb": 2.314578117079519,
+   "pe": 8.943081146471721,
+   "pb": 2.3209896908110412,
    "ln": 0.2894739128766184,
    "quy": "Q3/26",
    "diem": 3,
@@ -8080,8 +7790,8 @@
   },
   {
    "ma": "DPG",
-   "pe": 9.134918339735844,
-   "pb": 1.2469749838793989,
+   "pe": 9.205731660198913,
+   "pb": 1.25664145662265,
    "ln": 0.5380578507659188,
    "quy": "Q3/26",
    "diem": 3,
@@ -8094,9 +7804,23 @@
   },
   {
    "ma": "DGW",
-   "pe": 9.353897539762126,
-   "pb": 2.639632093823631,
+   "pe": 9.271119685427948,
+   "pb": 2.616272517772094,
    "ln": 0.6594323969327496,
+   "quy": "Q3/26",
+   "diem": 3,
+   "toi_da": 4,
+   "tieu_chi": [
+    "rẻ",
+    "LN tăng bền",
+    "cổ tức đều"
+   ]
+  },
+  {
+   "ma": "MWG",
+   "pe": 9.736813474299712,
+   "pb": 2.3055827868626753,
+   "ln": 0.7472855634711675,
    "quy": "Q3/26",
    "diem": 3,
    "toi_da": 4,
@@ -8121,23 +7845,9 @@
    ]
   },
   {
-   "ma": "MWG",
-   "pe": 9.776447721820608,
-   "pb": 2.314967791422496,
-   "ln": 0.7472855634711675,
-   "quy": "Q3/26",
-   "diem": 3,
-   "toi_da": 4,
-   "tieu_chi": [
-    "rẻ",
-    "LN tăng bền",
-    "cổ tức đều"
-   ]
-  },
-  {
    "ma": "CTD",
-   "pe": 10.189633942948761,
-   "pb": 0.817525281479538,
+   "pe": 10.132549158954651,
+   "pb": 0.8129453079138264,
    "ln": 0.03610369804947533,
    "quy": "Q3/26",
    "diem": 3,
@@ -8149,9 +7859,23 @@
    ]
   },
   {
+   "ma": "GAS",
+   "pe": 12.177483022753085,
+   "pb": 2.45221755839279,
+   "ln": 0.7953114644647941,
+   "quy": "Q3/26",
+   "diem": 3,
+   "toi_da": 4,
+   "tieu_chi": [
+    "LN tăng bền",
+    "cổ tức đều",
+    "khối ngoại mua"
+   ]
+  },
+  {
    "ma": "DIG",
-   "pe": 14.222780569966178,
-   "pb": 0.8861578962796535,
+   "pe": 14.022459716868063,
+   "pb": 0.8736767991489541,
    "ln": -0.6358707771067338,
    "quy": "Q3/26",
    "diem": 3,
@@ -8164,8 +7888,8 @@
   },
   {
    "ma": "FRT",
-   "pe": 19.2676568959421,
-   "pb": 4.995136118566531,
+   "pe": 19.478232381143656,
+   "pb": 5.049727770135564,
    "ln": 1.013066710361822,
    "quy": "Q3/26",
    "diem": 3,
