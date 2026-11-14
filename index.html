@@ -279,7 +279,7 @@ function render(){
 }
 const mo={sec:false,sieu:false,radar:false,nt:false};
 function tinNho(){
-  const ng=D.nganh||[], si=D.sieu||[], ra=D.radar||[], nt=D.nen_tang||[];
+  const ng=D.nganh||[], si=D.sieu||[], ra=D.radar||[], nt=D.nen_tang||[], sl=D.sap_luk||[];
   const chip=(ma,them)=>`<span class="chip" data-ma="${ma}">${ma}${them?` <span class="up">${them}</span>`:''}</span>`;
   const dong=[];
   if(ng.length) dong.push(`<div class="r"><span class="lb">🏆 Ngành dẫn dắt</span><span class="chips">${ng.slice(0,3).map(x=>`<span class="chip" style="cursor:default">${x.nganh}${x.thay_doi>0?` <span class="up">▲${x.thay_doi}</span>`:''}</span>`).join('')}</span><button class="ct" data-k="sec">${mo.sec?'Thu gọn ▴':'Chi tiết ▾'}</button></div>`);
@@ -287,6 +287,7 @@ function tinNho(){
   if(si.length) dong.push(`<div class="r"><span class="lb">🌟 Siêu cổ phiếu</span><span class="chips">${si.slice(0,6).map(x=>chip(x.ma,'+'+x.tang_15+'%')).join('')}</span><button class="ct" data-k="sieu">${mo.sieu?'Thu gọn ▴':'Chi tiết ▾'}</button></div>`);
   if(ra.length) dong.push(`<div class="r"><span class="lb">📡 Radar (${ra.length})</span><span class="chips">${ra.slice(0,8).map(x=>chip(x.ma)).join('')}${ra.length>8?`<span class="mut" style="font-size:12px">+${ra.length-8}</span>`:''}</span><button class="ct" data-k="radar">${mo.radar?'Thu gọn ▴':'Chi tiết ▾'}</button></div>`);
   if(nt.length) dong.push(`<div class="r"><span class="lb">⭐ Nền tảng tốt (${nt.length})</span><span class="chips">${nt.slice(0,8).map(x=>chip(x.ma,x.diem+'/'+x.toi_da)).join('')}${nt.length>8?`<span class="mut" style="font-size:12px">+${nt.length-8}</span>`:''}</span><button class="ct" data-k="nt">${mo.nt?'Thu gọn ▴':'Chi tiết ▾'}</button></div>`);
+  if(sl.length) dong.push(`<div class="r"><span class="lb">🔭 Sắp test kiểu Luk (${sl.length})</span><span class="chips">${sl.slice(0,10).map(x=>`<span class="chip" data-ma="${x.ma}" title="Sát ${x.vung} (${(x.cach*100).toFixed(1)}%) · lùi từ đỉnh ${f2(x.dinh)} sau sóng +${Math.round(x.song*100)}% · KL lùi ${Math.round(x.kl_lui*100)}% TB${x.nganh?' · '+x.nganh:''} – theo dõi, chưa phải điểm mua">${x.doc_manh?'⚡':''}${x.vua?'👑':''}${x.ma}</span>`).join('')}</span></div>`);
   $('tinBox').hidden=!dong.length; $('tinDs').innerHTML=dong.join('');
   $('secBox').hidden=!(mo.sec&&ng.length); $('sieuBox').hidden=!(mo.sieu&&si.length); $('radarBox').hidden=!(mo.radar&&ra.length); $('ntBox').hidden=!(mo.nt&&nt.length);
 }
